@@ -1,0 +1,733 @@
+,player_id,Player,Nation,Pos,Squad,Comp,Age,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG
+0,1000,Brenden Aaronson,USA,MF,Union Berlin,Bundesliga,22,0.0,0.0,0.0,0.0,0.0,0.01,0.09,0.11,0.01,0.11
+1,1001,Salis Abdul Samed,GHA,MF,Lens,Ligue 1,23,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.05,0.03,0.05
+2,1002,Francesco Acerbi,ITA,DF,Inter,Serie A,35,0.0,0.0,0.0,0.0,0.0,0.11,0.0,0.11,0.11,0.11
+3,1003,Marcos Acuña,ARG,DF,Sevilla,La Liga,31,0.0,0.0,0.0,0.0,0.0,0.04,0.06,0.1,0.04,0.1
+4,1004,Karim Adeyemi,GER,"FW,MF",Dortmund,Bundesliga,21,0.0,0.0,0.0,0.0,0.0,0.43,0.05,0.48,0.43,0.48
+5,1005,Yacine Adli,FRA,MF,Milan,Serie A,23,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.13,0.0,0.13
+6,1006,Ruben Aguilar,FRA,DF,Lens,Ligue 1,30,0.0,0.0,0.0,0.0,0.0,0.15,0.16,0.31,0.15,0.31
+7,1007,Manuel Akanji,SUI,DF,Manchester City,Premier League,28,0.0,0.0,0.0,0.0,0.0,0.01,0.02,0.02,0.01,0.02
+8,1008,Nathan Aké,NED,DF,Manchester City,Premier League,28,0.31,0.0,0.31,0.31,0.31,0.12,0.17,0.29,0.12,0.29
+9,1009,David Alaba,AUT,DF,Real Madrid,La Liga,31,0.0,0.16,0.16,0.0,0.16,0.04,0.06,0.1,0.04,0.1
+10,1010,Luis Alberto,ESP,MF,Lazio,Serie A,31,0.33,0.17,0.5,0.33,0.5,0.1,0.11,0.21,0.1,0.21
+11,1011,Mohamed Ali Cho,FRA,"FW,MF",Real Sociedad,La Liga,19,0.0,0.0,0.0,0.0,0.0,0.19,0.0,0.19,0.19,0.19
+12,1012,Miguel Almirón,PAR,FW,Newcastle Utd,Premier League,29,0.23,0.0,0.23,0.23,0.23,0.23,0.09,0.33,0.23,0.33
+13,1013,Marcos Alonso,ESP,DF,Barcelona,La Liga,32,0.0,0.0,0.0,0.0,0.0,0.06,0.27,0.33,0.06,0.33
+14,1014,Julián Álvarez,ARG,MF,Manchester City,Premier League,23,0.36,0.53,0.89,0.36,0.89,0.43,0.19,0.62,0.43,0.62
+15,1015,Sofyan Amrabat,MAR,DF,Manchester Utd,Premier League,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,1016,Elliot Anderson,SCO,MF,Newcastle Utd,Premier League,20,0.0,0.36,0.36,0.0,0.36,0.03,0.31,0.34,0.03,0.34
+17,1017,Felipe Anderson,BRA,FW,Lazio,Serie A,30,0.0,0.68,0.68,0.0,0.68,0.13,0.22,0.36,0.13,0.36
+18,1018,Antony,BRA,"FW,MF",Manchester Utd,Premier League,23,0.0,0.0,0.0,0.0,0.0,0.18,0.24,0.42,0.18,0.42
+19,1019,Ronald Araújo,URU,DF,Barcelona,La Liga,24,0.0,0.0,0.0,0.0,0.0,0.01,0.15,0.15,0.01,0.15
+20,1020,Marko Arnautović,AUT,FW,Inter,Serie A,34,0.0,0.86,0.86,0.0,0.86,0.16,0.82,0.99,0.16,0.99
+21,1021,Kepa Arrizabalaga,ESP,GK,Real Madrid,La Liga,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,1022,Marco Asensio,ESP,FW,Paris S-G,Ligue 1,27,0.78,0.39,1.16,0.78,1.16,0.3,0.37,0.67,0.3,0.67
+23,1023,Kristjan Asllani,ALB,MF,Inter,Serie A,21,0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.23,0.23,0.23
+24,1024,Yann Aurel Bisseck,GER,DF,Inter,Serie A,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,1025,Neil El Aynaoui,FRA,MF,Lens,Ligue 1,22,0.0,0.0,0.0,0.0,0.0,0.16,0.0,0.16,0.16,0.16
+26,1026,César Azpilicueta,ESP,DF,Atlético Madrid,La Liga,34,0.0,0.0,0.0,0.0,0.0,0.18,0.2,0.38,0.18,0.38
+27,1027,Loïc Bade,FRA,DF,Sevilla,La Liga,23,0.0,0.0,0.0,0.0,0.0,0.08,0.02,0.1,0.08,0.1
+28,1028,Alejandro Balde,ESP,DF,Barcelona,La Liga,19,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02
+29,1029,Bradley Barcola,FRA,"MF,FW",Paris S-G,Ligue 1,21,0.0,0.0,0.0,0.0,0.0,0.51,0.14,0.65,0.51,0.65
+30,1030,Nicolò Barella,ITA,MF,Inter,Serie A,26,0.0,0.0,0.0,0.0,0.0,0.06,0.09,0.15,0.06,0.15
+31,1031,Harvey Barnes,ENG,FW,Newcastle Utd,Premier League,25,0.48,0.48,0.96,0.48,0.96,0.35,0.42,0.76,0.35,0.76
+32,1032,Ander Barrenetxea,ESP,"FW,MF",Real Sociedad,La Liga,21,0.74,0.0,0.74,0.74,0.74,0.44,0.01,0.45,0.44,0.45
+33,1033,Pablo Barrios,ESP,MF,Atlético Madrid,La Liga,20,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.0,0.01
+34,1034,Davide Bartesaghi,ITA,DF,Milan,Serie A,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,1035,Alessandro Bastoni,ITA,DF,Inter,Serie A,24,0.0,0.0,0.0,0.0,0.0,0.03,0.21,0.24,0.03,0.24
+36,1036,Christoph Baumgartner,AUT,"MF,FW",RB Leipzig,Bundesliga,24,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.09,0.0,0.09
+37,1037,Sheraldo Becker,SUR,"FW,MF",Union Berlin,Bundesliga,28,0.0,0.56,0.56,0.0,0.56,0.25,0.24,0.49,0.25,0.49
+38,1038,Kevin Behrens,GER,FW,Union Berlin,Bundesliga,32,0.87,0.0,0.87,0.87,0.87,0.59,0.05,0.64,0.59,0.64
+39,1039,Jude Bellingham,ENG,"MF,FW",Real Madrid,La Liga,20,0.85,0.17,1.02,0.85,1.02,0.37,0.11,0.48,0.37,0.48
+40,1040,Ramy Bensebaini,ALG,DF,Dortmund,Bundesliga,28,0.0,0.0,0.0,0.0,0.0,0.11,0.03,0.14,0.11,0.14
+41,1041,Janis Blaswich,GER,GK,RB Leipzig,Bundesliga,32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+42,1042,Oscar Bobb,NOR,FW,Manchester City,Premier League,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+43,1043,Leonardo Bonucci,ITA,DF,Union Berlin,Bundesliga,36,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+44,1044,Sven Botman,NED,DF,Newcastle Utd,Premier League,23,0.2,0.2,0.4,0.2,0.4,0.06,0.14,0.2,0.06,0.2
+45,1045,Yassine Bounou,MAR,GK,Sevilla,La Liga,32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,1046,Julian Brandt,GER,"MF,FW",Dortmund,Bundesliga,27,0.18,0.73,0.91,0.18,0.91,0.16,0.53,0.69,0.16,0.69
+47,1047,Dan Burn,ENG,DF,Newcastle Utd,Premier League,31,0.17,0.0,0.17,0.17,0.17,0.09,0.02,0.11,0.09,0.11
+48,1048,Jamie Bynoe-Gittens,ENG,"DF,FW",Dortmund,Bundesliga,19,0.0,0.0,0.0,0.0,0.0,0.4,0.03,0.43,0.4,0.43
+49,1049,Jens Cajuste,SWE,MF,Napoli,Serie A,24,0.0,0.96,0.96,0.0,0.96,0.13,0.11,0.25,0.13,0.25
+50,1050,Davide Calabria,ITA,DF,Milan,Serie A,26,0.0,0.27,0.27,0.0,0.27,0.05,0.09,0.14,0.05,0.14
+51,1051,Hakan Çalhanoğlu,TUR,MF,Inter,Serie A,29,0.35,0.0,0.35,0.0,0.0,0.36,0.17,0.53,0.08,0.25
+52,1052,Eduardo Camavinga,FRA,MF,Real Madrid,La Liga,20,0.0,0.0,0.0,0.0,0.0,0.01,0.09,0.1,0.01,0.1
+53,1053,Emre Can,GER,MF,Dortmund,Bundesliga,29,0.26,0.26,0.51,0.0,0.26,0.21,0.09,0.3,0.01,0.1
+54,1054,João Cancelo,POR,DF,Barcelona,La Liga,29,0.46,0.23,0.69,0.46,0.69,0.12,0.32,0.43,0.12,0.43
+55,1055,Carlos,BRA,DF,Inter,Serie A,24,0.0,0.0,0.0,0.0,0.0,0.11,0.12,0.23,0.11,0.23
+56,1056,Yannick Carrasco,BEL,DF,Atlético Madrid,La Liga,30,0.0,0.41,0.41,0.0,0.41,0.03,0.1,0.12,0.03,0.12
+57,1057,Dani Carvajal,ESP,DF,Real Madrid,La Liga,31,0.0,0.21,0.21,0.0,0.21,0.07,0.22,0.29,0.07,0.29
+58,1058,Fabio Carvalho,POR,MF,RB Leipzig,Bundesliga,21,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.03,0.03,0.03
+59,1059,Nicolò Casale,ITA,DF,Lazio,Serie A,25,0.0,0.0,0.0,0.0,0.0,0.02,0.01,0.03,0.02,0.03
+60,1060,Casemiro,BRA,MF,Manchester Utd,Premier League,31,0.18,0.0,0.18,0.18,0.18,0.25,0.04,0.29,0.25,0.29
+61,1061,Valentín Castellanos,ARG,"FW,MF",Lazio,Serie A,24,0.0,0.0,0.0,0.0,0.0,1.44,0.07,1.51,1.44,1.51
+62,1062,Danilo Cataldi,ITA,MF,Lazio,Serie A,29,0.0,0.0,0.0,0.0,0.0,0.01,0.03,0.04,0.01,0.04
+63,1063,Dani Ceballos,ESP,MF,Real Madrid,La Liga,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+64,1064,Andreas Christensen,DEN,DF,Barcelona,La Liga,27,0.0,0.19,0.19,0.0,0.19,0.03,0.07,0.1,0.03,0.1
+65,1065,Samuel Chukwueze,NGA,FW,Milan,Serie A,24,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.07,0.07,0.07
+66,1066,Kingsley Coman,FRA,FW,Bayern Munich,Bundesliga,27,0.0,0.29,0.29,0.0,0.29,0.09,0.56,0.65,0.09,0.65
+67,1067,Jesús Corona,MEX,"MF,DF",Sevilla,La Liga,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,1068,Ángel Correa,ARG,"FW,MF",Atlético Madrid,La Liga,28,1.15,1.15,2.31,1.15,2.31,0.37,0.21,0.58,0.37,0.58
+69,1069,Oscar Cortés,COL,MF,Lens,Ligue 1,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70,1070,David Pereira da Costa,POR,MF,Lens,Ligue 1,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+71,1071,Juan Cuadrado,COL,DF,Inter,Serie A,35,0.0,1.38,1.38,0.0,1.38,0.09,0.29,0.38,0.09,0.38
+72,1072,Diogo Dalot,POR,DF,Manchester Utd,Premier League,24,0.0,0.0,0.0,0.0,0.0,0.01,0.05,0.06,0.01,0.06
+73,1073,Kevin Danso,AUT,DF,Lens,Ligue 1,25,0.0,0.0,0.0,0.0,0.0,0.03,0.04,0.07,0.03,0.07
+74,1074,Matteo Darmian,ITA,DF,Inter,Serie A,33,0.0,0.0,0.0,0.0,0.0,0.05,0.04,0.09,0.05,0.09
+75,1075,David Datro Fofana,CIV,"FW,MF",Union Berlin,Bundesliga,20,0.0,0.0,0.0,0.0,0.0,0.31,0.0,0.31,0.31,0.31
+76,1076,Alphonso Davies,CAN,DF,Bayern Munich,Bundesliga,22,0.0,0.64,0.64,0.0,0.64,0.01,0.26,0.26,0.01,0.26
+77,1077,Kevin De Bruyne,BEL,MF,Manchester City,Premier League,32,0.0,0.0,0.0,0.0,0.0,0.08,0.83,0.91,0.08,0.91
+78,1078,Rodrigo De Paul,ARG,MF,Atlético Madrid,La Liga,29,0.0,0.81,0.81,0.0,0.81,0.16,0.34,0.51,0.16,0.51
+79,1079,Ousmane Dembélé,FRA,FW,Paris S-G,Ligue 1,26,0.0,0.28,0.28,0.0,0.28,0.38,0.31,0.68,0.38,0.68
+80,1080,Giovanni Di Lorenzo,ITA,DF,Napoli,Serie A,30,0.17,0.33,0.5,0.17,0.5,0.09,0.27,0.36,0.09,0.36
+81,1081,Rúben Dias,POR,DF,Manchester City,Premier League,26,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.05,0.05,0.05
+82,1082,Brahim Díaz,ESP,"MF,FW",Real Madrid,La Liga,24,0.94,0.0,0.94,0.94,0.94,0.24,0.26,0.5,0.24,0.5
+83,1083,Federico Dimarco,ITA,DF,Inter,Serie A,25,0.22,0.65,0.87,0.22,0.87,0.13,0.34,0.47,0.13,0.47
+84,1084,Andy Diouf,FRA,MF,Lens,Ligue 1,20,0.0,0.0,0.0,0.0,0.0,0.09,0.03,0.11,0.09,0.11
+85,1085,Marko Dmitrović,SRB,GK,Sevilla,La Liga,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+86,1086,Danilho Doekhi,NED,DF,Union Berlin,Bundesliga,25,0.2,0.0,0.2,0.2,0.2,0.04,0.01,0.05,0.04,0.05
+87,1087,Jeremy Doku,BEL,FW,Manchester City,Premier League,21,0.42,0.0,0.42,0.42,0.42,0.04,0.39,0.43,0.04,0.43
+88,1088,Gianluigi Donnarumma,ITA,GK,Paris S-G,Ligue 1,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+89,1089,Gabriel Dos Santos,BRA,DF,Arsenal,Premier League,25,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.02,0.02,0.02
+90,1090,Denzel Dumfries,NED,DF,Inter,Serie A,27,0.47,0.47,0.94,0.47,0.94,0.14,0.39,0.53,0.14,0.53
+91,1091,Ederson,BRA,GK,Manchester City,Premier League,30,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.0,0.01
+92,1092,Hugo Ekitike,FRA,FW,Paris S-G,Ligue 1,21,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.3
+93,1093,Elif Elmas,MKD,FW,Napoli,Serie A,24,0.0,0.0,0.0,0.0,0.0,0.02,0.14,0.16,0.02,0.16
+94,1094,Aritz Elustondo,ESP,DF,Real Sociedad,La Liga,29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+95,1095,Youssef En-Nesyri,MAR,FW,Sevilla,La Liga,26,0.46,0.0,0.46,0.46,0.46,0.45,0.0,0.45,0.45,0.45
+96,1096,Christian Eriksen,DEN,MF,Manchester Utd,Premier League,31,0.28,0.28,0.57,0.28,0.57,0.1,0.1,0.2,0.1,0.2
+97,1097,Jonny Evans,NIR,DF,Manchester Utd,Premier League,35,0.0,0.95,0.95,0.0,0.95,0.0,0.1,0.1,0.0,0.1
+98,1098,Abdessamad Ezzalzouli,MAR,"FW,MF",Barcelona,La Liga,21,0.0,0.0,0.0,0.0,0.0,0.28,0.09,0.37,0.28,0.37
+99,1099,Ansu Fati,ESP,"MF,FW",Barcelona,La Liga,20,0.0,0.0,0.0,0.0,0.0,1.34,0.0,1.34,1.34,1.34
+100,1100,João Félix,POR,"FW,MF",Barcelona,La Liga,23,0.3,0.3,0.61,0.3,0.61,0.64,0.21,0.85,0.64,0.85
+101,1101,Bruno Fernandes,POR,"MF,FW",Manchester Utd,Premier League,29,0.33,0.17,0.5,0.17,0.33,0.42,0.46,0.88,0.28,0.75
+102,1102,Carlos Fernández,ESP,FW,Real Sociedad,La Liga,27,0.35,0.0,0.35,0.35,0.35,0.13,0.0,0.13,0.13,0.13
+103,1103,Fernando,BRA,MF,Sevilla,La Liga,36,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02
+104,1104,Alessandro Florenzi,ITA,DF,Milan,Serie A,32,0.0,0.0,0.0,0.0,0.0,0.01,0.1,0.11,0.01,0.11
+105,1105,Phil Foden,ENG,"FW,MF",Manchester City,Premier League,23,0.21,0.63,0.85,0.21,0.85,0.18,0.25,0.43,0.18,0.43
+106,1106,Emil Forsberg,SWE,"MF,FW",RB Leipzig,Bundesliga,31,0.0,0.0,0.0,0.0,0.0,0.1,0.11,0.21,0.1,0.21
+107,1107,Przemysław Frankowski,POL,DF,Lens,Ligue 1,28,0.0,0.0,0.0,0.0,0.0,0.03,0.24,0.27,0.03,0.27
+108,1108,Davide Frattesi,ITA,MF,Inter,Serie A,23,0.49,0.0,0.49,0.49,0.49,0.63,0.0,0.63,0.63,0.63
+109,1109,Angelo Fulgini,FRA,MF,Lens,Ligue 1,27,0.0,0.21,0.21,0.0,0.21,0.21,0.1,0.31,0.21,0.31
+110,1110,Niclas Füllkrug,GER,FW,Dortmund,Bundesliga,30,0.45,0.45,0.9,0.45,0.9,0.41,0.15,0.55,0.41,0.55
+111,1111,Javi Galán,ESP,DF,Atlético Madrid,La Liga,28,0.0,0.0,0.0,0.0,0.0,0.0,0.11,0.11,0.0,0.11
+112,1112,Eric García,ESP,DF,Barcelona,La Liga,22,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.07,0.07,0.07
+113,1113,Fran Garcia,ESP,DF,Real Madrid,La Liga,24,0.0,0.4,0.4,0.0,0.4,0.04,0.22,0.26,0.04,0.26
+114,1114,Alejandro Garnacho,ARG,"FW,MF",Manchester Utd,Premier League,19,0.0,0.0,0.0,0.0,0.0,0.2,0.03,0.23,0.2,0.23
+115,1115,Federico Gattoni,ARG,DF,Sevilla,La Liga,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,1116,Gavi,ESP,"MF,FW",Barcelona,La Liga,19,0.15,0.15,0.31,0.15,0.31,0.09,0.12,0.21,0.09,0.21
+117,1117,Olivier Giroud,FRA,FW,Milan,Serie A,37,1.04,0.78,1.82,0.26,1.04,0.81,0.35,1.16,0.19,0.54
+118,1118,Serge Gnabry,GER,"FW,MF",Bayern Munich,Bundesliga,28,0.0,0.0,0.0,0.0,0.0,0.64,0.31,0.95,0.64,0.95
+119,1119,Sergio Gómez,ESP,FW,Manchester City,Premier League,23,0.0,5.63,5.63,0.0,5.63,0.0,1.06,1.06,0.0,1.06
+120,1120,Urko González,ESP,MF,Real Sociedad,La Liga,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+121,1121,Anthony Gordon,ENG,FW,Newcastle Utd,Premier League,22,0.4,0.4,0.8,0.4,0.8,0.33,0.33,0.66,0.33,0.66
+122,1122,Leon Goretzka,GER,MF,Bayern Munich,Bundesliga,28,0.26,0.0,0.26,0.26,0.26,0.26,0.02,0.27,0.26,0.27
+123,1123,Robin Gosens,GER,DF,Union Berlin,Bundesliga,29,0.75,0.0,0.75,0.75,0.75,0.1,0.06,0.16,0.1,0.16
+124,1124,Jonathan Gradit,FRA,DF,Lens,Ligue 1,30,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02
+125,1125,Ryan Gravenberch,NED,FW,Bayern Munich,Bundesliga,21,0.0,0.0,0.0,0.0,0.0,0.0,1.92,1.92,0.0,1.92
+126,1126,Jack Grealish,ENG,FW,Manchester City,Premier League,28,0.0,0.49,0.49,0.0,0.49,0.18,0.22,0.41,0.18,0.41
+127,1127,Antoine Griezmann,FRA,FW,Atlético Madrid,La Liga,32,0.56,0.0,0.56,0.56,0.56,0.17,0.17,0.34,0.17,0.34
+128,1128,Nemanja Gudelj,SRB,DF,Sevilla,La Liga,31,0.2,0.0,0.2,0.2,0.2,0.08,0.0,0.08,0.08,0.08
+129,1129,Mattéo Guendouzi,FRA,MF,Lazio,Serie A,24,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.09,0.09,0.09
+130,1130,Morgan Guilavogui,GUI,"FW,MF",Lens,Ligue 1,25,0.94,0.0,0.94,0.94,0.94,0.42,0.23,0.64,0.42,0.64
+131,1131,Bruno Guimarães,BRA,MF,Newcastle Utd,Premier League,25,0.17,0.17,0.34,0.17,0.34,0.13,0.11,0.24,0.13,0.24
+132,1132,İlkay Gündoğan,GER,MF,Barcelona,La Liga,32,0.0,0.28,0.28,0.0,0.28,0.1,0.29,0.39,0.1,0.39
+133,1133,Joško Gvardiol,CRO,DF,Manchester City,Premier League,21,0.0,0.0,0.0,0.0,0.0,0.02,0.15,0.17,0.02,0.17
+134,1134,Erling Haaland,NOR,FW,Manchester City,Premier League,23,1.36,0.17,1.53,1.19,1.36,1.34,0.2,1.54,1.07,1.27
+135,1135,Janik Haberer,GER,MF,Union Berlin,Bundesliga,29,0.0,0.0,0.0,0.0,0.0,0.09,0.06,0.16,0.09,0.16
+136,1136,Massadio Haïdara,MLI,DF,Lens,Ligue 1,30,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01
+137,1137,Achraf Hakimi,MAR,"DF,MF",Paris S-G,Ligue 1,24,0.34,0.17,0.51,0.34,0.51,0.3,0.23,0.53,0.3,0.53
+138,1138,Lewis Hall,ENG,DF,Newcastle Utd,Premier League,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+139,1139,Sébastien Haller,CIV,FW,Dortmund,Bundesliga,29,0.0,0.0,0.0,0.0,0.0,0.21,0.16,0.37,0.21,0.37
+140,1140,Kai Havertz,GER,"MF,FW",Arsenal,Premier League,24,0.0,0.0,0.0,0.0,0.0,0.19,0.15,0.34,0.19,0.34
+141,1141,Thorgan Hazard,BEL,DF,Dortmund,Bundesliga,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+142,1142,Benjamin Henrichs,GER,DF,RB Leipzig,Bundesliga,26,0.2,0.2,0.4,0.2,0.4,0.15,0.1,0.25,0.15,0.25
+143,1143,Mario Hermoso,ESP,DF,Atlético Madrid,La Liga,28,0.0,0.0,0.0,0.0,0.0,0.02,0.01,0.03,0.02,0.03
+144,1144,Lucas Hernández,FRA,DF,Paris S-G,Ligue 1,27,0.0,0.18,0.18,0.0,0.18,0.01,0.14,0.14,0.01,0.14
+145,1145,Theo Hernández,FRA,DF,Milan,Serie A,25,0.21,0.0,0.21,0.21,0.21,0.11,0.07,0.18,0.11,0.18
+146,1146,Benedict Hollerbach,GER,"MF,FW",Union Berlin,Bundesliga,22,0.0,0.0,0.0,0.0,0.0,0.03,0.15,0.18,0.03,0.18
+147,1147,Mats Hummels,GER,DF,Dortmund,Bundesliga,34,0.44,0.0,0.44,0.44,0.44,0.51,0.01,0.52,0.51,0.52
+148,1148,Elseid Hysaj,ALB,DF,Lazio,Serie A,29,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02
+149,1149,Rasmus Højlund,DEN,FW,Manchester Utd,Premier League,20,0.0,0.0,0.0,0.0,0.0,0.24,0.04,0.28,0.24,0.28
+150,1150,Ciro Immobile,ITA,FW,Lazio,Serie A,33,0.36,0.0,0.36,0.18,0.18,0.37,0.14,0.51,0.23,0.37
+151,1151,Alexander Isak,SWE,FW,Newcastle Utd,Premier League,24,0.91,0.0,0.91,0.91,0.91,0.6,0.02,0.62,0.6,0.62
+152,1152,Gustav Isaksen,DEN,FW,Lazio,Serie A,22,0.0,0.0,0.0,0.0,0.0,0.0,0.18,0.18,0.0,0.18
+153,1153,Adnan Januzaj,BEL,FW,Sevilla,La Liga,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+154,1154,Gabriel Jesus,BRA,FW,Arsenal,Premier League,26,0.77,0.0,0.77,0.77,0.77,1.08,0.02,1.09,1.08,1.09
+155,1155,Juan Jesus,BRA,DF,Napoli,Serie A,32,0.0,0.0,0.0,0.0,0.0,0.08,0.01,0.09,0.08,0.09
+156,1156,Joelinton,BRA,MF,Newcastle Utd,Premier League,27,0.0,0.0,0.0,0.0,0.0,0.11,0.1,0.21,0.11,0.21
+157,1157,Frenkie de Jong,NED,"MF,DF",Barcelona,La Liga,26,0.19,0.0,0.19,0.19,0.19,0.08,0.09,0.18,0.08,0.18
+158,1158,Joan Jordán,ESP,MF,Sevilla,La Liga,29,0.0,0.0,0.0,0.0,0.0,0.03,0.01,0.04,0.03,0.04
+159,1159,Jorginho,ITA,MF,Arsenal,Premier League,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+160,1160,Joselu,ESP,FW,Real Madrid,La Liga,33,0.78,0.26,1.04,0.78,1.04,0.86,0.2,1.05,0.86,1.05
+161,1161,Luka Jović,SRB,FW,Milan,Serie A,25,0.0,0.0,0.0,0.0,0.0,0.0,0.23,0.23,0.0,0.23
+162,1162,Vinicius Júnior,BRA,FW,Real Madrid,La Liga,23,0.41,0.0,0.41,0.41,0.41,0.22,0.0,0.22,0.22,0.22
+163,1163,Josip Juranović,CRO,"DF,MF",Union Berlin,Bundesliga,28,0.0,0.67,0.67,0.0,0.67,0.03,0.3,0.34,0.03,0.34
+164,1164,Pierre Kalulu,FRA,DF,Milan,Serie A,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+165,1165,Daichi Kamada,JPN,MF,Lazio,Serie A,27,0.35,0.35,0.69,0.35,0.69,0.14,0.07,0.21,0.14,0.21
+166,1166,Kevin Kampl,SVN,MF,RB Leipzig,Bundesliga,32,0.23,0.0,0.23,0.23,0.23,0.02,0.03,0.05,0.02,0.05
+167,1167,Harry Kane,ENG,FW,Bayern Munich,Bundesliga,30,1.44,0.62,2.06,1.03,1.65,1.14,0.27,1.41,0.82,1.09
+168,1168,Lee Kang-in,KOR,FW,Paris S-G,Ligue 1,22,0.0,0.0,0.0,0.0,0.0,0.11,0.16,0.27,0.11,0.27
+169,1169,Mikkel Kaufmann,DEN,"DF,FW",Union Berlin,Bundesliga,22,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.1,0.1,0.1
+170,1170,Aljoscha Kemlein,GER,MF,Union Berlin,Bundesliga,19,0.0,0.0,0.0,0.0,0.0,0.14,0.0,0.14,0.14,0.14
+171,1171,Joshua Kimmich,GER,MF,Bayern Munich,Bundesliga,28,0.0,0.67,0.67,0.0,0.67,0.07,0.32,0.39,0.07,0.39
+172,1172,Jakub Kiwior,POL,DF,Arsenal,Premier League,23,0.0,0.0,0.0,0.0,0.0,0.41,0.0,0.41,0.41,0.41
+173,1173,Simon Kjær,DEN,DF,Milan,Serie A,34,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.0,0.01
+174,1174,Davy Klaassen,NED,MF,Inter,Serie A,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+175,1175,Lukas Klostermann,GER,DF,RB Leipzig,Bundesliga,27,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.13,0.0,0.13
+176,1176,Robin Knoche,GER,DF,Union Berlin,Bundesliga,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+177,1177,Gregor Kobel,SUI,GK,Dortmund,Bundesliga,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,1178,Koke,ESP,MF,Atlético Madrid,La Liga,31,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.04
+179,1179,Randal Kolo Muani,FRA,FW,Paris S-G,Ligue 1,24,0.77,1.54,2.31,0.77,2.31,0.64,0.48,1.13,0.64,1.13
+180,1180,Jules Koundé,FRA,DF,Barcelona,La Liga,24,0.14,0.0,0.14,0.14,0.14,0.15,0.07,0.21,0.15,0.21
+181,1181,Mateo Kovačić,CRO,MF,Manchester City,Premier League,29,0.0,0.0,0.0,0.0,0.0,0.04,0.19,0.24,0.04,0.24
+182,1182,Alex Král,CZE,MF,Union Berlin,Bundesliga,25,0.0,0.0,0.0,0.0,0.0,0.03,0.06,0.09,0.03,0.09
+183,1183,Frans Krätzig,GER,DF,Bayern Munich,Bundesliga,20,0.0,0.0,0.0,0.0,0.0,0.32,0.0,0.32,0.32,0.32
+184,1184,Toni Kroos,GER,MF,Real Madrid,La Liga,33,0.27,0.27,0.53,0.27,0.53,0.1,0.27,0.37,0.1,0.37
+185,1185,Rade Krunić,BIH,MF,Milan,Serie A,29,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.08,0.0,0.08
+186,1186,Takefusa Kubo,JPN,"FW,MF",Real Sociedad,La Liga,22,0.75,0.19,0.93,0.75,0.93,0.2,0.26,0.46,0.2,0.46
+187,1187,Khvicha Kvaratskhelia,GEO,FW,Napoli,Serie A,22,0.26,0.53,0.79,0.26,0.79,0.61,0.25,0.86,0.61,0.86
+188,1188,Aïssa Laïdouni,TUN,MF,Union Berlin,Bundesliga,26,0.0,0.91,0.91,0.0,0.91,0.06,0.14,0.19,0.06,0.19
+189,1189,Konrad Laimer,AUT,"DF,MF",Bayern Munich,Bundesliga,26,0.0,0.0,0.0,0.0,0.0,0.05,0.35,0.39,0.05,0.39
+190,1190,Érik Lamela,ARG,"FW,MF",Sevilla,La Liga,31,0.54,0.0,0.54,0.54,0.54,0.22,0.23,0.45,0.22,0.45
+191,1191,Aymeric Laporte,ESP,DF,Manchester City,Premier League,29,0.0,0.0,0.0,0.0,0.0,0.27,0.0,0.27,0.27,0.27
+192,1192,Jamaal Lascelles,ENG,DF,Newcastle Utd,Premier League,29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+193,1193,Manuel Lazzari,ITA,DF,Lazio,Serie A,29,0.0,0.37,0.37,0.0,0.37,0.06,0.14,0.2,0.06,0.2
+194,1194,Julien Le Cardinal,FRA,DF,Lens,Ligue 1,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+195,1195,Robin Le Normand,ESP,DF,Real Sociedad,La Liga,26,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.03,0.02,0.03
+196,1196,Rafael Leão,POR,FW,Milan,Serie A,24,0.64,0.21,0.85,0.64,0.85,0.35,0.14,0.49,0.35,0.49
+197,1197,Diogo Leite,POR,DF,Union Berlin,Bundesliga,24,0.0,0.0,0.0,0.0,0.0,0.05,0.02,0.07,0.05,0.07
+198,1198,Thomas Lemar,FRA,MF,Atlético Madrid,La Liga,27,0.0,0.0,0.0,0.0,0.0,0.09,0.01,0.1,0.09,0.1
+199,1199,Christopher Lenz,GER,DF,RB Leipzig,Bundesliga,29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+200,1200,Robert Lewandowski,POL,FW,Barcelona,La Liga,35,0.68,0.41,1.09,0.54,0.95,0.83,0.11,0.95,0.73,0.84
+201,1201,Rico Lewis,ENG,"DF,MF",Manchester City,Premier League,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+202,1202,Matthijs de Ligt,NED,DF,Bayern Munich,Bundesliga,24,1.06,0.0,1.06,1.06,1.06,0.31,0.0,0.31,0.31,0.31
+203,1203,Victor Lindelöf,SWE,DF,Manchester Utd,Premier League,29,0.0,0.0,0.0,0.0,0.0,0.04,0.05,0.09,0.04,0.09
+204,1204,Jesper Lindstrøm,DEN,"FW,MF",Napoli,Serie A,23,0.0,0.0,0.0,0.0,0.0,0.19,0.42,0.62,0.19,0.62
+205,1205,Valentino Livramento,ENG,"DF,FW",Newcastle Utd,Premier League,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+206,1206,Marcos Llorente,ESP,"MF,DF",Atlético Madrid,La Liga,28,0.45,0.0,0.45,0.45,0.45,0.11,0.12,0.23,0.11,0.23
+207,1207,Stanislav Lobotka,SVK,MF,Napoli,Serie A,28,0.0,0.0,0.0,0.0,0.0,0.01,0.02,0.04,0.01,0.04
+208,1208,Ruben Loftus-Cheek,ENG,MF,Milan,Serie A,27,0.22,0.22,0.45,0.22,0.45,0.12,0.21,0.32,0.12,0.32
+209,1209,Sean Longstaff,ENG,MF,Newcastle Utd,Premier League,25,0.33,0.33,0.66,0.33,0.66,0.16,0.2,0.36,0.16,0.36
+210,1210,Fermin López,ESP,"MF,FW",Barcelona,La Liga,20,1.05,0.0,1.05,1.05,1.05,1.07,0.11,1.18,1.07,1.18
+211,1211,Castello Lukeba,FRA,DF,RB Leipzig,Bundesliga,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+212,1212,Dodi Lukebakio,BEL,FW,Sevilla,La Liga,26,0.7,0.0,0.7,0.7,0.7,0.62,0.05,0.67,0.62,0.67
+213,1213,Andriy Lunin,UKR,GK,Real Madrid,La Liga,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+214,1214,Deiver Machado,COL,DF,Lens,Ligue 1,30,0.39,0.0,0.39,0.39,0.39,0.08,0.08,0.17,0.08,0.17
+215,1215,Harry Maguire,ENG,DF,Manchester Utd,Premier League,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216,1216,Mike Maignan,FRA,GK,Milan,Serie A,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+217,1217,Donyell Malen,NED,FW,Dortmund,Bundesliga,24,0.59,0.0,0.59,0.59,0.59,0.34,0.17,0.51,0.34,0.51
+218,1218,Faitout Maouassa,FRA,DF,Lens,Ligue 1,25,0.0,0.0,0.0,0.0,0.0,0.06,0.11,0.16,0.06,0.16
+219,1219,José María Giménez,URU,DF,Atlético Madrid,La Liga,28,0.0,0.0,0.0,0.0,0.0,0.03,0.02,0.05,0.03,0.05
+220,1220,Mariano,DOM,FW,Sevilla,La Liga,30,0.0,0.0,0.0,0.0,0.0,0.41,0.0,0.41,0.41,0.41
+221,1221,Marquinhos,BRA,DF,Paris S-G,Ligue 1,29,0.0,0.0,0.0,0.0,0.0,0.03,0.02,0.06,0.03,0.06
+222,1222,Anthony Martial,FRA,FW,Manchester Utd,Premier League,27,0.0,0.0,0.0,0.0,0.0,0.04,0.05,0.09,0.04,0.09
+223,1223,Gabriel Martinelli,BRA,FW,Arsenal,Premier League,22,0.0,0.51,0.51,0.0,0.51,0.17,0.08,0.26,0.17,0.26
+224,1224,Iñigo Martínez,ESP,DF,Barcelona,La Liga,32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+225,1225,Lautaro Martínez,ARG,FW,Inter,Serie A,26,0.88,0.18,1.06,0.88,1.06,0.54,0.06,0.61,0.54,0.61
+226,1226,Lisandro Martínez,ARG,DF,Manchester Utd,Premier League,25,0.0,0.24,0.24,0.0,0.24,0.0,0.02,0.02,0.0,0.02
+227,1227,Adam Marušić,MNE,DF,Lazio,Serie A,30,0.0,0.0,0.0,0.0,0.0,0.01,0.02,0.02,0.01,0.02
+228,1228,Eric Maxim Choupo-Moting,CMR,"MF,FW",Bayern Munich,Bundesliga,34,0.91,0.0,0.91,0.91,0.91,1.56,0.06,1.62,1.56,1.62
+229,1229,Noussair Mazraoui,MAR,DF,Bayern Munich,Bundesliga,25,0.0,0.28,0.28,0.0,0.28,0.17,0.18,0.34,0.17,0.34
+230,1230,Kylian Mbappé,FRA,FW,Paris S-G,Ligue 1,24,1.85,0.0,1.85,1.32,1.32,0.93,0.18,1.11,0.52,0.7
+231,1231,James Mcatee,ENG,MF,Manchester City,Premier League,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+232,1232,Scott McTominay,SCO,MF,Manchester Utd,Premier League,26,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.04,0.02,0.04
+233,1233,Facundo Medina,ARG,DF,Lens,Ligue 1,24,0.0,0.17,0.17,0.0,0.17,0.02,0.08,0.1,0.02,0.1
+234,1234,Hannibal Mejbri,TUN,MF,Manchester Utd,Premier League,20,0.77,0.0,0.77,0.77,0.77,0.02,0.29,0.31,0.02,0.31
+235,1235,Memphis,NED,FW,Atlético Madrid,La Liga,29,1.29,0.0,1.29,1.29,1.29,1.42,0.13,1.56,1.42,1.56
+236,1236,Brais Méndez,ESP,"MF,FW",Real Sociedad,La Liga,26,0.17,0.5,0.66,0.17,0.66,0.09,0.19,0.29,0.09,0.29
+237,1237,Ferland Mendy,FRA,DF,Real Madrid,La Liga,28,0.0,0.0,0.0,0.0,0.0,0.02,0.07,0.09,0.02,0.09
+238,1238,Nampalys Mendy,SEN,MF,Lens,Ligue 1,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+239,1239,Alex Meret,ITA,GK,Napoli,Serie A,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+240,1240,Mikel Merino,ESP,MF,Real Sociedad,La Liga,27,0.0,0.23,0.23,0.0,0.23,0.05,0.1,0.15,0.05,0.15
+241,1241,Éder Militão,BRA,DF,Real Madrid,La Liga,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+242,1242,Kim Min-jae,KOR,DF,Bayern Munich,Bundesliga,26,0.0,0.0,0.0,0.0,0.0,0.03,0.04,0.07,0.03,0.07
+243,1243,Rafa Mir,ESP,FW,Sevilla,La Liga,26,0.54,0.0,0.54,0.54,0.54,0.22,0.1,0.33,0.22,0.33
+244,1244,Henrikh Mkhitaryan,ARM,MF,Inter,Serie A,34,0.35,0.18,0.53,0.35,0.53,0.2,0.18,0.38,0.2,0.38
+245,1245,Luka Modrić,CRO,MF,Real Madrid,La Liga,38,0.0,0.0,0.0,0.0,0.0,0.12,0.23,0.35,0.12,0.35
+246,1246,Nahuel Molina,ARG,DF,Atlético Madrid,La Liga,25,0.35,0.0,0.35,0.35,0.35,0.14,0.06,0.2,0.14,0.2
+247,1247,Álvaro Morata,ESP,FW,Atlético Madrid,La Liga,30,1.14,0.0,1.14,1.14,1.14,0.67,0.0,0.67,0.67,0.67
+248,1248,Youssoufa Moukoko,GER,"FW,MF",Dortmund,Bundesliga,18,0.0,0.0,0.0,0.0,0.0,0.11,0.0,0.11,0.11,0.11
+249,1249,Mason Mount,ENG,MF,Manchester Utd,Premier League,24,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.03
+250,1250,Nordi Mukiele,FRA,DF,Paris S-G,Ligue 1,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+251,1251,Thomas Müller,GER,MF,Bayern Munich,Bundesliga,34,0.0,0.53,0.53,0.0,0.53,0.13,0.82,0.95,0.13,0.95
+252,1252,Aihen Muñoz,ESP,DF,Real Sociedad,La Liga,26,0.0,0.21,0.21,0.0,0.21,0.01,0.14,0.14,0.01,0.14
+253,1253,Jacob Murphy,ENG,FW,Newcastle Utd,Premier League,28,0.0,18.0,18.0,0.0,18.0,0.0,10.18,10.18,0.0,10.18
+254,1254,Yunus Musah,USA,"FW,MF",Milan,Serie A,20,0.0,0.0,0.0,0.0,0.0,0.07,0.12,0.19,0.07,0.19
+255,1255,Jamal Musiala,GER,MF,Bayern Munich,Bundesliga,20,0.0,0.0,0.0,0.0,0.0,0.08,0.06,0.14,0.08,0.14
+256,1256,Nacho,ESP,DF,Real Madrid,La Liga,33,0.0,0.0,0.0,0.0,0.0,0.11,0.06,0.17,0.11,0.17
+257,1257,Natan,BRA,DF,Napoli,Serie A,22,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.0,0.01
+258,1258,Jesús Navas,ESP,DF,Sevilla,La Liga,37,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.03
+259,1259,Cher Ndour,ITA,MF,Paris S-G,Ligue 1,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+260,1260,Reiss Nelson,ENG,FW,Arsenal,Premier League,23,0.0,0.0,0.0,0.0,0.0,0.14,0.45,0.58,0.14,0.58
+261,1261,Saúl Ñíguez,ESP,MF,Atlético Madrid,La Liga,28,0.0,0.79,0.79,0.0,0.79,0.05,0.41,0.46,0.05,0.46
+262,1262,Eddie Nketiah,ENG,FW,Arsenal,Premier League,24,0.42,0.0,0.42,0.42,0.42,0.33,0.04,0.37,0.33,0.37
+263,1263,Felix Nmecha,GER,"MF,FW",Dortmund,Bundesliga,22,0.0,0.27,0.27,0.0,0.27,0.13,0.07,0.2,0.13,0.2
+264,1264,Matheus Nunes,POR,MF,Manchester City,Premier League,25,0.0,0.79,0.79,0.0,0.79,0.0,0.11,0.11,0.0,0.11
+265,1265,Ørjan Nyland,NOR,GK,Sevilla,La Liga,33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+266,1266,Jan Oblak,SVN,GK,Atlético Madrid,La Liga,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+267,1267,Lucas Ocampos,ARG,FW,Sevilla,La Liga,29,0.0,0.18,0.18,0.0,0.18,0.19,0.08,0.27,0.19,0.27
+268,1268,Álvaro Odriozola,ESP,DF,Real Sociedad,La Liga,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+269,1269,Noah Okafor,SUI,FW,Milan,Serie A,23,0.52,0.0,0.52,0.52,0.52,0.43,0.0,0.43,0.43,0.43
+270,1270,Olasagasti,ESP,MF,Real Sociedad,La Liga,23,0.0,0.0,0.0,0.0,0.0,1.54,0.0,1.54,1.54,1.54
+271,1271,Mathías Olivera,URU,DF,Napoli,Serie A,25,0.0,0.0,0.0,0.0,0.0,0.04,0.09,0.13,0.04,0.13
+272,1272,Dani Olmo,ESP,"MF,FW",RB Leipzig,Bundesliga,25,0.68,0.34,1.02,0.68,1.02,0.16,0.17,0.33,0.16,0.33
+273,1273,André Onana,CMR,GK,Manchester Utd,Premier League,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+274,1274,Loïs Openda,BEL,FW,RB Leipzig,Bundesliga,23,0.75,0.25,1.01,0.75,1.01,0.55,0.16,0.71,0.55,0.71
+275,1275,Willi Orban,HUN,DF,RB Leipzig,Bundesliga,30,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.05,0.05,0.05
+276,1276,Victor Osimhen,NGA,FW,Napoli,Serie A,24,0.72,0.0,0.72,0.54,0.54,0.81,0.04,0.85,0.52,0.56
+277,1277,Mikel Oyarzabal,ESP,FW,Real Sociedad,La Liga,26,0.42,0.21,0.63,0.21,0.42,0.34,0.14,0.48,0.17,0.31
+278,1278,Salih Özcan,TUR,MF,Dortmund,Bundesliga,25,0.0,0.0,0.0,0.0,0.0,0.01,0.31,0.33,0.01,0.33
+279,1279,Jon Pacheco,ESP,"DF,MF",Real Sociedad,La Liga,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280,1280,Cole Palmer,ENG,MF,Manchester City,Premier League,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+282,1282,Thomas Partey,GHA,DF,Arsenal,Premier League,30,0.0,0.0,0.0,0.0,0.0,0.03,0.04,0.07,0.03,0.07
+283,1283,Patric,ESP,DF,Lazio,Serie A,30,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02
+284,1284,Benjamin Pavard,FRA,DF,Inter,Serie A,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+285,1285,Pedri,ESP,MF,Barcelona,La Liga,20,0.54,0.0,0.54,0.54,0.54,0.5,0.49,0.99,0.5,0.99
+286,1286,Pedro,ESP,FW,Lazio,Serie A,36,0.0,0.0,0.0,0.0,0.0,0.0,0.51,0.51,0.0,0.51
+287,1287,Adrià Pedrosa,ESP,DF,Sevilla,La Liga,25,0.0,0.22,0.22,0.0,0.22,0.04,0.09,0.13,0.04,0.13
+288,1288,Jordan Pefok,USA,FW,Union Berlin,Bundesliga,27,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.4
+289,1289,Luca Pellegrini,ITA,DF,Lazio,Serie A,24,0.0,0.0,0.0,0.0,0.0,0.01,0.03,0.04,0.01,0.04
+290,1290,Facundo Pellistri,URU,"FW,MF",Manchester Utd,Premier League,21,0.0,0.0,0.0,0.0,0.0,1.54,0.0,1.54,1.54,1.54
+291,1291,Danilo Pereira,POR,DF,Paris S-G,Ligue 1,32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+292,1292,Kalvin Phillips,ENG,MF,Manchester City,Premier League,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+293,1293,Tommaso Pobega,ITA,MF,Milan,Serie A,24,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01
+294,1294,Matteo Politano,ITA,FW,Napoli,Serie A,30,0.53,0.26,0.79,0.53,0.79,0.2,0.27,0.47,0.2,0.47
+295,1295,Nick Pope,ENG,GK,Newcastle Utd,Premier League,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+296,1296,Yussuf Poulsen,DEN,FW,RB Leipzig,Bundesliga,29,0.0,0.31,0.31,0.0,0.31,0.07,0.03,0.1,0.07,0.1
+297,1297,Ivan Provedel,ITA,GK,Lazio,Serie A,29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+298,1298,Christian Pulisic,USA,"FW,MF",Milan,Serie A,25,0.41,0.2,0.61,0.41,0.61,0.23,0.04,0.27,0.23,0.27
+299,1299,Ivan Rakitić,CRO,MF,Sevilla,La Liga,35,0.0,0.0,0.0,0.0,0.0,0.07,0.29,0.36,0.07,0.36
+300,1300,Gonçalo Ramos,POR,FW,Paris S-G,Ligue 1,22,0.57,0.0,0.57,0.57,0.57,0.44,0.19,0.63,0.44,0.63
+301,1301,Sergio Ramos,ESP,DF,Sevilla,La Liga,37,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.01,0.01,0.01
+302,1302,Aaron Ramsdale,ENG,GK,Arsenal,Premier League,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+303,1303,Raphinha,BRA,"FW,MF",Barcelona,La Liga,26,0.84,0.42,1.26,0.84,1.26,0.49,0.45,0.93,0.49,0.93
+304,1304,Marcus Rashford,ENG,FW,Manchester Utd,Premier League,25,0.17,0.17,0.34,0.17,0.34,0.42,0.16,0.59,0.42,0.59
+305,1305,Giacomo Raspadori,ITA,"FW,MF",Napoli,Serie A,23,0.3,0.0,0.3,0.3,0.3,0.48,0.1,0.58,0.25,0.35
+306,1306,David Raum,GER,DF,RB Leipzig,Bundesliga,25,0.21,0.41,0.62,0.21,0.62,0.02,0.17,0.19,0.02,0.19
+307,1307,David Raya,ESP,GK,Arsenal,Premier League,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+308,1308,Sergio Reguilón,ESP,DF,Manchester Utd,Premier League,26,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1
+309,1309,Tijjani Reijnders,NED,MF,Milan,Serie A,25,0.0,0.18,0.18,0.0,0.18,0.1,0.11,0.21,0.1,0.21
+310,1310,Álex Remiro,ESP,GK,Real Sociedad,La Liga,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+311,1311,Marco Reus,GER,MF,Dortmund,Bundesliga,34,1.08,0.36,1.44,1.08,1.44,0.39,0.28,0.67,0.39,0.67
+312,1312,Declan Rice,ENG,MF,Arsenal,Premier League,24,0.18,0.0,0.18,0.18,0.18,0.12,0.12,0.24,0.12,0.24
+314,1314,Sergi Roberto,ESP,DF,Barcelona,La Liga,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+315,1315,Rodri,ESP,MF,Manchester City,Premier League,27,0.37,0.19,0.56,0.37,0.56,0.19,0.17,0.36,0.19,0.36
+316,1316,Rodrygo,BRA,FW,Real Madrid,La Liga,22,0.15,0.15,0.3,0.15,0.3,0.42,0.11,0.53,0.3,0.41
+317,1317,Alessio Romagnoli,ITA,DF,Lazio,Serie A,28,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.02,0.01,0.02
+318,1318,Luka Romero,ARG,FW,Milan,Serie A,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+319,1319,Oriol Romeu,ESP,MF,Barcelona,La Liga,32,0.0,0.19,0.19,0.0,0.19,0.11,0.12,0.23,0.11,0.23
+320,1320,Jérôme Roussillon,FRA,"DF,FW",Union Berlin,Bundesliga,30,0.0,1.02,1.02,0.0,1.02,0.0,0.21,0.21,0.0,0.21
+321,1321,Nicolò Rovella,ITA,MF,Lazio,Serie A,21,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.04,0.04,0.04
+322,1322,Amir Rrahmani,KVX,DF,Napoli,Serie A,29,0.0,0.0,0.0,0.0,0.0,0.02,0.1,0.12,0.02,0.12
+323,1323,Antonio Rüdiger,GER,DF,Real Madrid,La Liga,30,0.0,0.0,0.0,0.0,0.0,0.03,0.06,0.09,0.03,0.09
+324,1324,Mário Rui,POR,DF,Napoli,Serie A,32,0.0,0.0,0.0,0.0,0.0,0.04,0.03,0.07,0.04,0.07
+325,1325,Fabián Ruiz Peña,ESP,"MF,FW",Paris S-G,Ligue 1,27,0.0,0.74,0.74,0.0,0.74,0.2,0.2,0.4,0.2,0.4
+326,1326,Julian Ryerson,NOR,DF,Dortmund,Bundesliga,25,0.25,0.0,0.25,0.25,0.25,0.13,0.09,0.22,0.13,0.22
+327,1327,Frederik Rønnow,DEN,GK,Union Berlin,Bundesliga,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+328,1328,Marcel Sabitzer,AUT,MF,Dortmund,Bundesliga,29,0.0,0.0,0.0,0.0,0.0,0.2,0.1,0.3,0.2,0.3
+329,1329,Umar Sadiq,NGA,FW,Real Sociedad,La Liga,26,0.0,0.0,0.0,0.0,0.0,0.59,0.05,0.64,0.59,0.64
+330,1330,Wesley Saïd,FRA,"FW,MF",Lens,Ligue 1,28,0.83,0.0,0.83,0.83,0.83,1.03,0.07,1.1,1.03,1.1
+331,1331,Bukayo Saka,ENG,FW,Arsenal,Premier League,22,0.5,0.34,0.84,0.17,0.5,0.52,0.3,0.81,0.25,0.55
+332,1332,Kike Salas,ESP,DF,Sevilla,La Liga,21,0.52,0.0,0.52,0.52,0.52,0.1,0.01,0.11,0.1,0.11
+333,1333,William Saliba,FRA,DF,Arsenal,Premier League,22,0.0,0.17,0.17,0.0,0.17,0.01,0.01,0.02,0.01,0.02
+334,1334,Brice Samba,FRA,GK,Lens,Ligue 1,29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+335,1335,Samuel,BRA,DF,Atlético Madrid,La Liga,23,0.0,0.8,0.8,0.0,0.8,0.01,0.69,0.7,0.01,0.7
+336,1336,Alexis Sánchez,CHI,FW,Inter,Serie A,34,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+337,1337,Juanlu Sánchez,ESP,DF,Sevilla,La Liga,20,0.0,0.43,0.43,0.0,0.43,0.01,0.07,0.08,0.01,0.08
+338,1338,Jadon Sancho,ENG,"FW,MF",Manchester Utd,Premier League,23,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.06,0.0,0.06
+339,1339,Leroy Sané,GER,FW,Bayern Munich,Bundesliga,27,0.84,0.0,0.84,0.84,0.84,0.62,0.2,0.82,0.62,0.82
+340,1340,Stefan Savić,MNE,DF,Atlético Madrid,La Liga,32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+341,1341,Fabian Schär,SUI,DF,Newcastle Utd,Premier League,31,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.02,0.02,0.02
+342,1342,Xaver Schlager,AUT,MF,RB Leipzig,Bundesliga,26,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.07,0.04,0.07
+343,1343,Nico Schlotterbeck,GER,DF,Dortmund,Bundesliga,23,0.0,0.0,0.0,0.0,0.0,0.08,0.05,0.13,0.08,0.13
+344,1344,Nicolas Seiwald,AUT,MF,RB Leipzig,Bundesliga,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+345,1345,Stefano Sensi,ITA,MF,Inter,Serie A,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+347,1347,Luke Shaw,ENG,DF,Manchester Utd,Premier League,28,0.0,0.0,0.0,0.0,0.0,0.0,0.36,0.36,0.0,0.36
+348,1348,Bernardo Silva,POR,"MF,FW",Manchester City,Premier League,29,0.32,0.32,0.63,0.32,0.63,0.11,0.33,0.44,0.11,0.44
+349,1349,Mohamed Simakan,FRA,DF,RB Leipzig,Bundesliga,23,0.0,0.21,0.21,0.0,0.21,0.01,0.13,0.14,0.01,0.14
+351,1351,Xavi Simons,NED,MF,RB Leipzig,Bundesliga,20,0.7,0.94,1.64,0.7,1.64,0.18,0.16,0.34,0.18,0.34
+352,1352,Ayanda Sishuba,BEL,MF,Lens,Ligue 1,18,0.0,0.0,0.0,0.0,0.0,0.99,0.13,1.12,0.99,1.12
+353,1353,Leo Skiri Østigård,NOR,DF,Napoli,Serie A,23,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.02
+354,1354,Milan Škriniar,SVK,DF,Paris S-G,Ligue 1,28,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.03,0.03,0.03
+355,1355,Emile Smith Rowe,ENG,FW,Arsenal,Premier League,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+356,1356,Alex Sola,ESP,"DF,MF",Real Sociedad,La Liga,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+357,1357,Carlos Soler,ESP,"MF,FW",Paris S-G,Ligue 1,26,0.0,0.0,0.0,0.0,0.0,0.26,0.11,0.36,0.26,0.36
+358,1358,Yann Sommer,SUI,GK,Inter,Serie A,34,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+359,1359,Florian Sotoca,FRA,"MF,FW",Lens,Ligue 1,32,0.14,0.43,0.58,0.14,0.58,0.16,0.23,0.39,0.16,0.39
+360,1360,Boubakary Soumaré,FRA,MF,Sevilla,La Liga,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+361,1361,Djibril Sow,SUI,MF,Sevilla,La Liga,26,0.0,0.28,0.28,0.0,0.28,0.14,0.13,0.27,0.14,0.27
+362,1362,Çağlar Söyüncü,TUR,DF,Atlético Madrid,La Liga,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+363,1363,Stijn Spierings,NED,MF,Lens,Ligue 1,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+364,1364,Marco Sportiello,ITA,GK,Milan,Serie A,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+365,1365,Niklas Süle,GER,DF,Dortmund,Bundesliga,28,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01
+366,1366,Suso,ESP,"FW,MF",Sevilla,La Liga,29,0.22,0.22,0.44,0.22,0.44,0.12,0.22,0.33,0.12,0.33
+367,1367,Matt Targett,ENG,DF,Newcastle Utd,Premier League,28,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.03
+368,1368,Aurélien Tchouaméni,FRA,MF,Real Madrid,La Liga,23,0.0,0.0,0.0,0.0,0.0,0.07,0.02,0.1,0.07,0.1
+370,1370,Marc-André ter Stegen,GER,GK,Barcelona,La Liga,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+371,1371,Malick Thiaw,GER,DF,Milan,Serie A,22,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.01,0.01,0.01
+372,1372,Adrien Thomasson,FRA,MF,Lens,Ligue 1,29,0.0,0.0,0.0,0.0,0.0,0.2,0.15,0.35,0.2,0.35
+373,1373,Marcus Thuram,FRA,FW,Inter,Serie A,26,0.43,0.64,1.07,0.43,1.07,0.49,0.18,0.67,0.49,0.67
+374,1374,Kieran Tierney,SCO,DF,Real Sociedad,La Liga,26,0.0,0.43,0.43,0.0,0.43,0.0,0.07,0.07,0.0,0.07
+375,1375,Jurriën Timber,NED,DF,Arsenal,Premier League,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+376,1376,Takehiro Tomiyasu,JPN,DF,Arsenal,Premier League,24,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.02,0.02,0.02
+377,1377,Fikayo Tomori,ENG,DF,Milan,Serie A,25,0.21,0.0,0.21,0.21,0.21,0.22,0.0,0.22,0.22,0.22
+378,1378,Sandro Tonali,ITA,MF,Newcastle Utd,Premier League,23,0.3,0.0,0.3,0.3,0.3,0.19,0.16,0.36,0.19,0.36
+379,1379,Ferrán Torres,ESP,FW,Barcelona,La Liga,23,0.97,0.0,0.97,0.97,0.97,0.41,0.35,0.76,0.41,0.76
+380,1380,Óliver Torres,ESP,MF,Sevilla,La Liga,28,0.0,0.0,0.0,0.0,0.0,0.04,0.08,0.12,0.04,0.12
+381,1381,Lucas Tousart,FRA,MF,Union Berlin,Bundesliga,26,0.0,0.0,0.0,0.0,0.0,0.06,0.04,0.11,0.06,0.11
+382,1382,Hamari Traoré,MLI,DF,Real Sociedad,La Liga,31,0.0,0.16,0.16,0.0,0.16,0.01,0.1,0.1,0.01,0.1
+383,1383,Christopher Trimmel,AUT,DF,Union Berlin,Bundesliga,36,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1
+384,1384,Kieran Trippier,ENG,DF,Newcastle Utd,Premier League,33,0.0,0.52,0.52,0.0,0.52,0.0,0.32,0.32,0.0,0.32
+385,1385,Leandro Trossard,BEL,FW,Arsenal,Premier League,28,0.7,0.0,0.7,0.7,0.7,0.06,0.59,0.65,0.06,0.65
+386,1386,Beñat Turrientes,ESP,MF,Real Sociedad,La Liga,21,0.0,0.0,0.0,0.0,0.0,0.16,0.09,0.24,0.16,0.24
+387,1387,Manuel Ugarte Ribeiro,URU,MF,Paris S-G,Ligue 1,22,0.0,0.19,0.19,0.0,0.19,0.03,0.09,0.12,0.03,0.12
+388,1388,Sven Ulreich,GER,GK,Bayern Munich,Bundesliga,35,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+389,1389,Dayot Upamecano,FRA,DF,Bayern Munich,Bundesliga,24,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.06,0.05,0.06
+390,1390,Federico Valverde,URU,MF,Real Madrid,La Liga,25,0.16,0.0,0.16,0.16,0.16,0.12,0.13,0.26,0.12,0.26
+391,1391,Raphaël Varane,FRA,DF,Manchester Utd,Premier League,30,0.38,0.0,0.38,0.38,0.38,0.39,0.0,0.39,0.39,0.39
+392,1392,Lucas Vázquez,ESP,"DF,MF",Real Madrid,La Liga,32,0.0,0.71,0.71,0.0,0.71,0.02,0.2,0.22,0.02,0.22
+393,1393,Matías Vecino,URU,MF,Lazio,Serie A,32,0.53,0.0,0.53,0.53,0.53,0.2,0.0,0.2,0.2,0.2
+394,1394,Fabio Vieira,POR,MF,Arsenal,Premier League,23,0.0,1.04,1.04,0.0,1.04,0.21,0.52,0.74,0.21,0.74
+395,1395,Vitinha,POR,"MF,FW",Paris S-G,Ligue 1,23,0.0,0.0,0.0,0.0,0.0,0.09,0.1,0.19,0.09,0.19
+396,1396,Kevin Volland,GER,MF,Union Berlin,Bundesliga,31,0.0,0.98,0.98,0.0,0.98,0.32,0.74,1.06,0.32,1.06
+397,1397,Stefan de Vrij,NED,DF,Inter,Serie A,31,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.03,0.03,0.03
+398,1398,Elye Wahi,FRA,FW,Lens,Ligue 1,20,0.33,0.33,0.67,0.33,0.67,0.3,0.11,0.41,0.3,0.41
+399,1399,Kyle Walker,ENG,DF,Manchester City,Premier League,33,0.0,0.17,0.17,0.0,0.17,0.01,0.15,0.15,0.01,0.15
+400,1400,Aaron Wan-Bissaka,ENG,DF,Manchester Utd,Premier League,25,0.0,0.26,0.26,0.0,0.26,0.0,0.3,0.3,0.0,0.3
+401,1401,Timo Werner,GER,"MF,FW",RB Leipzig,Bundesliga,27,0.93,0.0,0.93,0.93,0.93,0.45,0.03,0.49,0.45,0.49
+402,1402,Ben White,ENG,DF,Arsenal,Premier League,25,0.0,0.0,0.0,0.0,0.0,0.06,0.11,0.17,0.06,0.17
+403,1403,Callum Wilson,ENG,FW,Newcastle Utd,Premier League,31,1.39,0.0,1.39,1.04,1.04,1.26,0.01,1.27,0.98,0.99
+404,1404,Axel Witsel,BEL,"DF,MF",Atlético Madrid,La Liga,34,0.0,0.0,0.0,0.0,0.0,0.02,0.06,0.08,0.02,0.08
+405,1405,Marius Wolf,GER,DF,Dortmund,Bundesliga,28,0.0,0.37,0.37,0.0,0.37,0.0,0.36,0.36,0.0,0.36
+406,1406,Abduqodir Xusanov,UZB,DF,Lens,Ligue 1,19,0.0,0.0,0.0,0.0,0.0,0.14,0.0,0.14,0.14,0.14
+407,1407,Lamine Yamal,ESP,"FW,MF",Barcelona,La Liga,16,0.0,0.22,0.22,0.0,0.22,0.15,0.37,0.51,0.15,0.51
+408,1408,Mattia Zaccagni,ITA,FW,Lazio,Serie A,28,0.18,0.0,0.18,0.18,0.18,0.13,0.05,0.18,0.13,0.18
+409,1409,Warren Zaire-Emery,FRA,MF,Paris S-G,Ligue 1,17,0.0,0.17,0.17,0.0,0.17,0.04,0.05,0.09,0.04,0.09
+410,1410,Arsen Zakharyan,RUS,"MF,FW",Real Sociedad,La Liga,20,0.0,0.0,0.0,0.0,0.0,0.0,0.57,0.57,0.0,0.57
+411,1411,Andre-Frank Zambo Anguissa,CMR,MF,Napoli,Serie A,27,0.0,0.0,0.0,0.0,0.0,0.05,0.05,0.1,0.05,0.1
+412,1412,Alessio Zerbin,ITA,FW,Napoli,Serie A,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+413,1413,Piotr Zieliński,POL,MF,Napoli,Serie A,29,0.36,0.18,0.53,0.18,0.36,0.23,0.24,0.47,0.09,0.33
+414,1414,Oleksandr Zinchenko,UKR,DF,Arsenal,Premier League,26,0.0,0.0,0.0,0.0,0.0,0.03,0.06,0.09,0.03,0.09
+415,1415,Igor Zubeldia,ESP,DF,Real Sociedad,La Liga,26,0.0,0.0,0.0,0.0,0.0,0.02,0.09,0.12,0.02,0.12
+416,1416,Martín Zubimendi,ESP,MF,Real Sociedad,La Liga,24,0.17,0.0,0.17,0.17,0.17,0.12,0.02,0.14,0.12,0.14
+417,1417,Martin Ødegaard,NOR,MF,Arsenal,Premier League,24,0.34,0.0,0.34,0.17,0.17,0.29,0.04,0.33,0.16,0.2
+0,1418,Fredrik Aursnes,NOR,DF,SL Benfica,Liga Portugal,27,0.02,0.02,0.0414285714285714,0.02,0.0414285714285714,0.0057142857142857,0.0314285714285714,0.0371428571428571,0.0057142857142857,0.0371428571428571
+1,1419,Nicolás Otamendi,ARG,DF,SL Benfica,Liga Portugal,35,0.0,0.0,0.0,0.0,0.0,0.0057142857142857,0.0028571428571428,0.0085714285714285,0.0057142857142857,0.0085714285714285
+2,1420,Rafa Silva,POR,MF,SL Benfica,Liga Portugal,30,0.0614285714285714,0.0828571428571428,0.1442857142857143,0.0614285714285714,0.1442857142857143,0.08,0.0757142857142857,0.1542857142857143,0.08,0.1542857142857143
+3,1421,Alexander Bah,DEN,DF,SL Benfica,Liga Portugal,25,0.0228571428571428,0.0,0.0228571428571428,0.0228571428571428,0.0228571428571428,0.0114285714285714,0.0071428571428571,0.0185714285714285,0.0114285714285714,0.0185714285714285
+4,1422,Orkun Kökçü,TUR,MF,SL Benfica,Liga Portugal,22,0.0242857142857142,0.0242857142857142,0.0471428571428571,0.0242857142857142,0.0471428571428571,0.0214285714285714,0.0428571428571428,0.0642857142857143,0.0214285714285714,0.0642857142857143
+5,1423,António Silva,POR,DF,SL Benfica,Liga Portugal,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,1424,Ángel Di María,ARG,FW,SL Benfica,Liga Portugal,35,0.13,0.0257142857142857,0.1557142857142857,0.1042857142857142,0.13,0.0985714285714285,0.0228571428571428,0.1214285714285714,0.0785714285714285,0.1014285714285714
+7,1425,João Neves,POR,MF,SL Benfica,Liga Portugal,19,0.0,0.0285714285714285,0.0285714285714285,0.0,0.0285714285714285,0.0128571428571428,0.0171428571428571,0.03,0.0128571428571428,0.03
+8,1426,João Mário,POR,FW,SL Benfica,Liga Portugal,30,0.0,0.0,0.0,0.0,0.0,0.0414285714285714,0.0171428571428571,0.0585714285714285,0.0414285714285714,0.0585714285714285
+9,1427,Petar Musa,CRO,FW,SL Benfica,Liga Portugal,25,0.1171428571428571,0.0,0.1171428571428571,0.1171428571428571,0.1171428571428571,0.0999999999999999,0.0042857142857142,0.1042857142857142,0.0999999999999999,0.1042857142857142
+10,1428,Samuel Soares,POR,GK,SL Benfica,Liga Portugal,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,1429,Anatolii Trubin,UKR,GK,SL Benfica,Liga Portugal,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,1430,David Neres,BRA,FW,SL Benfica,Liga Portugal,26,0.0485714285714285,0.1471428571428571,0.1971428571428571,0.0485714285714285,0.1971428571428571,0.0542857142857142,0.0999999999999999,0.1528571428571428,0.0542857142857142,0.1528571428571428
+13,1431,Arthur,BRA,FW,SL Benfica,Liga Portugal,25,0.0,0.0,0.0,0.0,0.0,0.04,0.0057142857142857,0.0442857142857142,0.04,0.0442857142857142
+14,1432,Florentino Luís,POR,MF,SL Benfica,Liga Portugal,24,0.0,0.0,0.0,0.0,0.0,0.0114285714285714,0.0,0.0114285714285714,0.0114285714285714,0.0114285714285714
+15,1433,David Jurásek,CZE,DF,SL Benfica,Liga Portugal,23,0.0,0.0,0.0,0.0,0.0,0.0028571428571428,0.0228571428571428,0.0271428571428571,0.0028571428571428,0.0271428571428571
+16,1434,Morato,BRA,DF,SL Benfica,Liga Portugal,22,0.0,0.0,0.0,0.0,0.0,0.0028571428571428,0.0,0.0028571428571428,0.0028571428571428,0.0028571428571428
+17,1435,Odisseas Vlachodimos,GRE,GK,SL Benfica,Liga Portugal,29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,1436,Chiquinho,POR,MF,SL Benfica,Liga Portugal,28,0.0,0.0,0.0,0.0,0.0,0.0128571428571428,0.0585714285714285,0.0699999999999999,0.0128571428571428,0.0699999999999999
+19,1437,Casper Tengstedt,DEN,"FW,MF",SL Benfica,Liga Portugal,23,0.2985714285714285,0.0,0.2985714285714285,0.2985714285714285,0.2985714285714285,0.0642857142857143,0.0628571428571428,0.1271428571428571,0.0642857142857143,0.1271428571428571
+20,1438,João Victor,BRA,DF,SL Benfica,Liga Portugal,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,1439,Tomás Araújo,POR,"MF,DF",SL Benfica,Liga Portugal,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,1440,Mihailo Ristić,SRB,DF,SL Benfica,Liga Portugal,27,0.0,0.0,0.0,0.0,0.0,0.0,1.3771428571428572,1.3771428571428572,0.0,1.3771428571428572
+25,1443,Diogo Costa,POR,GK,FC Porto,Liga Portugal,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,1444,Galeno,BRA,"MF,DF",FC Porto,Liga Portugal,25,0.0214285714285714,0.0214285714285714,0.0428571428571428,0.0,0.0214285714285714,0.0528571428571428,0.0185714285714285,0.0714285714285714,0.02,0.0385714285714285
+27,1445,Mehdi Taremi,IRN,FW,FC Porto,Liga Portugal,31,0.0214285714285714,0.0214285714285714,0.0442857142857142,0.0214285714285714,0.0442857142857142,0.0342857142857142,0.0114285714285714,0.0457142857142857,0.0342857142857142,0.0457142857142857
+28,1446,Stephen Eustáquio,CAN,MF,FC Porto,Liga Portugal,26,0.0242857142857142,0.0,0.0242857142857142,0.0242857142857142,0.0242857142857142,0.0185714285714285,0.0014285714285714,0.02,0.0185714285714285,0.02
+29,1447,João Mário Lopes,POR,DF,FC Porto,Liga Portugal,23,0.0,0.0,0.0,0.0,0.0,0.0085714285714285,0.0057142857142857,0.0142857142857142,0.0085714285714285,0.0142857142857142
+30,1448,Pepê,BRA,"MF,DF",FC Porto,Liga Portugal,26,0.0,0.0,0.0,0.0,0.0,0.0171428571428571,0.0214285714285714,0.0385714285714285,0.0171428571428571,0.0385714285714285
+31,1449,Fábio Cardoso,POR,DF,FC Porto,Liga Portugal,29,0.0,0.0342857142857142,0.0342857142857142,0.0,0.0342857142857142,0.0085714285714285,0.0042857142857142,0.0128571428571428,0.0085714285714285,0.0128571428571428
+32,1450,Iván Marcano,ESP,DF,FC Porto,Liga Portugal,36,0.0699999999999999,0.0,0.0699999999999999,0.0699999999999999,0.0699999999999999,0.0457142857142857,0.0042857142857142,0.0499999999999999,0.0457142857142857,0.0499999999999999
+33,1451,Wendell,BRA,DF,FC Porto,Liga Portugal,30,0.0285714285714285,0.0285714285714285,0.0571428571428571,0.0285714285714285,0.0571428571428571,0.0042857142857142,0.0171428571428571,0.0214285714285714,0.0042857142857142,0.0214285714285714
+34,1452,David Carmo,POR,DF,FC Porto,Liga Portugal,24,0.0,0.0,0.0,0.0,0.0,0.0014285714285714,0.0042857142857142,0.0057142857142857,0.0014285714285714,0.0057142857142857
+35,1453,Alan Varela,ARG,MF,FC Porto,Liga Portugal,22,0.0,0.0,0.0,0.0,0.0,0.0028571428571428,0.0014285714285714,0.0042857142857142,0.0028571428571428,0.0042857142857142
+36,1454,Nicolás González,ESP,MF,FC Porto,Liga Portugal,21,0.0,0.0,0.0,0.0,0.0,0.0042857142857142,0.0157142857142857,0.0214285714285714,0.0042857142857142,0.0214285714285714
+37,1455,Toni Martínez,ESP,FW,FC Porto,Liga Portugal,26,0.1057142857142857,0.0,0.1057142857142857,0.1057142857142857,0.1057142857142857,0.0471428571428571,0.0185714285714285,0.0657142857142857,0.0471428571428571,0.0657142857142857
+38,1456,Pepe,POR,DF,FC Porto,Liga Portugal,40,0.0,0.0714285714285714,0.0714285714285714,0.0,0.0714285714285714,0.0,0.0071428571428571,0.0071428571428571,0.0,0.0071428571428571
+39,1457,André Franco,POR,"MF,FW",FC Porto,Liga Portugal,25,0.0,0.0728571428571428,0.0728571428571428,0.0,0.0728571428571428,0.0128571428571428,0.1014285714285714,0.1128571428571428,0.0128571428571428,0.1128571428571428
+40,1458,Ivan Jaime Pajuelo,ESP,MF,FC Porto,Liga Portugal,23,0.0757142857142857,0.0,0.0757142857142857,0.0757142857142857,0.0757142857142857,0.03,0.0185714285714285,0.0485714285714285,0.03,0.0485714285714285
+41,1459,Zaidu Sanusi,NGA,DF,FC Porto,Liga Portugal,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0157142857142857,0.0157142857142857,0.0,0.0157142857142857
+42,1460,Fran Navarro,ESP,"FW,MF",FC Porto,Liga Portugal,25,0.0,0.0,0.0,0.0,0.0,0.08,0.0185714285714285,0.0985714285714285,0.08,0.0985714285714285
+43,1461,Gonçalo Borges,POR,"MF,DF",FC Porto,Liga Portugal,22,0.0,0.1614285714285714,0.1614285714285714,0.0,0.1614285714285714,0.0057142857142857,0.1157142857142857,0.1214285714285714,0.0057142857142857,0.1214285714285714
+44,1462,Otávio,POR,"MF,FW",FC Porto,Liga Portugal,28,0.0,0.0,0.0,0.0,0.0,0.0042857142857142,0.0142857142857142,0.0185714285714285,0.0042857142857142,0.0185714285714285
+45,1463,Romário Baró,POR,MF,FC Porto,Liga Portugal,23,0.0,0.0,0.0,0.0,0.0,0.0228571428571428,0.0042857142857142,0.0271428571428571,0.0228571428571428,0.0271428571428571
+46,1464,Evanilson,BRA,FW,FC Porto,Liga Portugal,23,0.2185714285714285,0.0,0.2185714285714285,0.2185714285714285,0.2185714285714285,0.0914285714285714,0.0,0.0914285714285714,0.0728571428571428,0.0728571428571428
+47,1465,Marko Grujić,SRB,MF,FC Porto,Liga Portugal,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+49,1467,Danny Loader,ENG,"FW,DF",FC Porto,Liga Portugal,23,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.04,0.04,0.04
+50,1468,Francisco Conceição,POR,"FW,MF",FC Porto,Liga Portugal,20,0.0,0.0,0.0,0.0,0.0,0.11,0.01,0.12,0.11,0.12
+55,1473,Walter Benítez,ARG,GK,PSV,Eredivisie,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,1474,Joey Veerman,NED,MF,PSV,Eredivisie,24,0.0485714285714285,0.0971428571428571,0.1457142857142857,0.0485714285714285,0.1457142857142857,0.02,0.0757142857142857,0.0942857142857142,0.02,0.0942857142857142
+57,1475,Patrick van Aanholt,NED,DF,PSV,Eredivisie,33,0.0,0.0257142857142857,0.0257142857142857,0.0,0.0257142857142857,0.0085714285714285,0.0385714285714285,0.0457142857142857,0.0085714285714285,0.0457142857142857
+58,1476,André Ramalho,BRA,DF,PSV,Eredivisie,31,0.0,0.0,0.0,0.0,0.0,0.0071428571428571,0.0,0.0071428571428571,0.0071428571428571,0.0071428571428571
+59,1477,Luuk de Jong,NED,FW,PSV,Eredivisie,33,0.1628571428571428,0.1085714285714285,0.2714285714285714,0.1085714285714285,0.2171428571428571,0.13,0.0485714285714285,0.1785714285714285,0.0871428571428571,0.1357142857142857
+60,1478,Noa Lang,NED,"FW,MF",PSV,Eredivisie,24,0.1085714285714285,0.0357142857142857,0.1442857142857143,0.1085714285714285,0.1442857142857143,0.0842857142857142,0.0542857142857142,0.1385714285714285,0.0842857142857142,0.1385714285714285
+61,1479,Olivier Boscagli,FRA,DF,PSV,Eredivisie,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0028571428571428,0.0028571428571428,0.0,0.0028571428571428
+62,1480,Johan Bakayoko,BEL,FW,PSV,Eredivisie,20,0.0,0.0385714285714285,0.0385714285714285,0.0,0.0385714285714285,0.0357142857142857,0.0557142857142857,0.0914285714285714,0.0357142857142857,0.0914285714285714
+63,1481,Ismael Saibari,MAR,"MF,FW",PSV,Eredivisie,22,0.0385714285714285,0.0385714285714285,0.0771428571428571,0.0385714285714285,0.0771428571428571,0.0571428571428571,0.0371428571428571,0.0942857142857142,0.0571428571428571,0.0942857142857142
+64,1482,Jerdy Schouten,NED,"MF,DF",PSV,Eredivisie,26,0.0,0.0,0.0,0.0,0.0,0.0128571428571428,0.0171428571428571,0.03,0.0128571428571428,0.03
+65,1483,Guus Til,NED,MF,PSV,Eredivisie,25,0.0842857142857142,0.0414285714285714,0.1257142857142857,0.0842857142857142,0.1257142857142857,0.0999999999999999,0.0471428571428571,0.1471428571428571,0.0999999999999999,0.1471428571428571
+66,1484,Jordan Teze,NED,DF,PSV,Eredivisie,24,0.0,0.0857142857142857,0.0857142857142857,0.0,0.0857142857142857,0.0014285714285714,0.0228571428571428,0.0257142857142857,0.0014285714285714,0.0257142857142857
+67,1485,Sergiño Dest,USA,DF,PSV,Eredivisie,22,0.0,0.0,0.0,0.0,0.0,0.0042857142857142,0.0242857142857142,0.0285714285714285,0.0042857142857142,0.0285714285714285
+68,1486,Ibrahim Sangaré,CIV,MF,PSV,Eredivisie,25,0.0,0.0714285714285714,0.0714285714285714,0.0,0.0714285714285714,0.0071428571428571,0.0342857142857142,0.0428571428571428,0.0071428571428571,0.0428571428571428
+69,1487,Hirving Lozano,MEX,"FW,MF",PSV,Eredivisie,28,0.0742857142857142,0.0,0.0742857142857142,0.0742857142857142,0.0742857142857142,0.0971428571428571,0.0657142857142857,0.1628571428571428,0.0971428571428571,0.1628571428571428
+70,1488,Isaac Babadi,NED,MF,PSV,Eredivisie,18,0.0,0.0,0.0,0.0,0.0,0.0357142857142857,0.0,0.0357142857142857,0.0357142857142857,0.0357142857142857
+71,1489,Yorbe Vertessen,BEL,FW,PSV,Eredivisie,22,0.1614285714285714,0.0814285714285714,0.2428571428571428,0.1614285714285714,0.2428571428571428,0.0871428571428571,0.0914285714285714,0.1785714285714285,0.0871428571428571,0.1785714285714285
+72,1490,Armel Bella Kotchap,GER,DF,PSV,Eredivisie,21,0.0,0.0,0.0,0.0,0.0,0.1385714285714285,0.0,0.1385714285714285,0.1385714285714285,0.1385714285714285
+73,1491,Ricardo Pepi,USA,"FW,MF",PSV,Eredivisie,20,0.3842857142857143,0.0,0.3842857142857143,0.1914285714285714,0.1914285714285714,0.3942857142857142,0.0185714285714285,0.4128571428571428,0.2571428571428572,0.2757142857142857
+74,1492,Shurandy Sambo,NED,DF,PSV,Eredivisie,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0028571428571428,0.0028571428571428,0.0,0.0028571428571428
+75,1493,Malik Tillman,USA,MF,PSV,Eredivisie,21,0.3057142857142857,0.0,0.3057142857142857,0.3057142857142857,0.3057142857142857,0.1357142857142857,0.0085714285714285,0.1428571428571428,0.1357142857142857,0.1428571428571428
+76,1494,Anwar El Ghazi,NED,FW,PSV,Eredivisie,28,0.0,0.0,0.0,0.0,0.0,0.4214285714285714,0.0,0.4214285714285714,0.4214285714285714,0.4214285714285714
+77,1495,Tygo Land,NED,MF,PSV,Eredivisie,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+81,1499,Matheus,BRA,GK,SC Braga,Liga Portugal,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+82,1500,Victor Gomez,ESP,DF,SC Braga,Liga Portugal,23,0.0,0.0271428571428571,0.0271428571428571,0.0,0.0271428571428571,0.0,0.0271428571428571,0.0271428571428571,0.0,0.0271428571428571
+83,1501,Ricardo Horta,POR,"FW,MF",SC Braga,Liga Portugal,29,0.1257142857142857,0.0499999999999999,0.1771428571428571,0.1257142857142857,0.1771428571428571,0.0485714285714285,0.0442857142857142,0.0942857142857142,0.0485714285714285,0.0942857142857142
+84,1502,Almoatasem Al Musrati,LBY,MF,SC Braga,Liga Portugal,27,0.0557142857142857,0.0,0.0557142857142857,0.0271428571428571,0.0271428571428571,0.0314285714285714,0.0085714285714285,0.0385714285714285,0.0085714285714285,0.0171428571428571
+85,1503,Bruma,POR,FW,SC Braga,Liga Portugal,28,0.0328571428571428,0.0,0.0328571428571428,0.0328571428571428,0.0328571428571428,0.0328571428571428,0.01,0.0428571428571428,0.0328571428571428,0.0428571428571428
+86,1504,Cristian Borja,COL,DF,SC Braga,Liga Portugal,30,0.0,0.0371428571428571,0.0371428571428571,0.0,0.0371428571428571,0.0014285714285714,0.0271428571428571,0.0285714285714285,0.0014285714285714,0.0285714285714285
+87,1505,José Fonte,POR,DF,SC Braga,Liga Portugal,39,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+88,1506,Álvaro djaló,ESP,"FW,MF",SC Braga,Liga Portugal,24,0.0942857142857142,0.0942857142857142,0.1871428571428571,0.0942857142857142,0.1871428571428571,0.0742857142857142,0.0471428571428571,0.1214285714285714,0.0742857142857142,0.1214285714285714
+89,1507,Simon Banza,FRA,FW,SC Braga,Liga Portugal,27,0.1585714285714285,0.0314285714285714,0.1914285714285714,0.1585714285714285,0.1914285714285714,0.1314285714285714,0.0142857142857142,0.1457142857142857,0.1314285714285714,0.1457142857142857
+90,1508,Sikou Niakaté,MLI,DF,SC Braga,Liga Portugal,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0014285714285714,0.0014285714285714,0.0,0.0014285714285714
+91,1509,Vitor Carvalho,BRA,MF,SC Braga,Liga Portugal,26,0.0,0.0,0.0,0.0,0.0,0.0028571428571428,0.0,0.0042857142857142,0.0028571428571428,0.0042857142857142
+92,1510,Abel Ruiz,ESP,"FW,MF",SC Braga,Liga Portugal,23,0.0,0.0357142857142857,0.0357142857142857,0.0,0.0357142857142857,0.0357142857142857,0.0171428571428571,0.0528571428571428,0.0357142857142857,0.0528571428571428
+93,1511,Rodrigo Zalazar,URU,MF,SC Braga,Liga Portugal,24,0.0,0.0,0.0,0.0,0.0,0.0128571428571428,0.0542857142857142,0.0671428571428571,0.0128571428571428,0.0671428571428571
+94,1512,Paulo Oliveira,POR,DF,SC Braga,Liga Portugal,31,0.0,0.0471428571428571,0.0471428571428571,0.0,0.0471428571428571,0.0,0.0028571428571428,0.0028571428571428,0.0,0.0028571428571428
+95,1513,Serdar Saatçı,TUR,DF,SC Braga,Liga Portugal,20,0.0,0.0,0.0,0.0,0.0,0.0028571428571428,0.0,0.0028571428571428,0.0028571428571428,0.0028571428571428
+96,1514,Pizzi,POR,"MF,FW",SC Braga,Liga Portugal,33,0.0585714285714285,0.1157142857142857,0.1742857142857143,0.0585714285714285,0.1742857142857143,0.0557142857142857,0.0785714285714285,0.1342857142857142,0.0557142857142857,0.1342857142857142
+97,1515,André Horta,POR,MF,SC Braga,Liga Portugal,26,0.0,0.0,0.0,0.0,0.0,0.0114285714285714,0.0228571428571428,0.0328571428571428,0.0114285714285714,0.0328571428571428
+98,1516,Adrián Marín,ESP,DF,SC Braga,Liga Portugal,26,0.0,0.0,0.0,0.0,0.0,0.0014285714285714,0.0171428571428571,0.0185714285714285,0.0014285714285714,0.0185714285714285
+99,1517,João Moutinho,POR,"MF,FW",SC Braga,Liga Portugal,37,0.0,0.0,0.0,0.0,0.0,0.0014285714285714,0.0228571428571428,0.0242857142857142,0.0014285714285714,0.0242857142857142
+100,1518,Rony Lopes,POR,FW,SC Braga,Liga Portugal,27,0.1185714285714285,0.0,0.1185714285714285,0.1185714285714285,0.1185714285714285,0.0685714285714285,0.0128571428571428,0.0814285714285714,0.0685714285714285,0.0814285714285714
+101,1519,Joe Mendes,SWE,DF,SC Braga,Liga Portugal,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+102,1520,André Castro,POR,MF,SC Braga,Liga Portugal,35,0.0,0.0,0.0,0.0,0.0,0.0171428571428571,0.0,0.0171428571428571,0.0171428571428571,0.0171428571428571
+103,1521,Roger Fernandes,GNB,DF,SC Braga,Liga Portugal,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0428571428571428,0.0428571428571428,0.0,0.0428571428571428
+107,1525,Dávid Hancko,SVK,DF,Feyenoord,Eredivisie,25,0.0,0.0242857142857142,0.0242857142857142,0.0,0.0242857142857142,0.0071428571428571,0.0228571428571428,0.03,0.0071428571428571,0.03
+108,1526,Lutsharel Geertruida,NED,DF,Feyenoord,Eredivisie,23,0.0242857142857142,0.0,0.0242857142857142,0.0242857142857142,0.0242857142857142,0.0214285714285714,0.01,0.03,0.0214285714285714,0.03
+109,1527,Mats Wieffer,NED,MF,Feyenoord,Eredivisie,23,0.0499999999999999,0.0,0.0499999999999999,0.0499999999999999,0.0499999999999999,0.0185714285714285,0.0042857142857142,0.0228571428571428,0.0185714285714285,0.0228571428571428
+110,1528,Quinten Timber,NED,MF,Feyenoord,Eredivisie,22,0.0257142857142857,0.0785714285714285,0.1042857142857142,0.0257142857142857,0.1042857142857142,0.0528571428571428,0.0585714285714285,0.1114285714285714,0.0528571428571428,0.1114285714285714
+111,1529,Quilindschy Hartman,NED,DF,Feyenoord,Eredivisie,21,0.0,0.0528571428571428,0.0528571428571428,0.0,0.0528571428571428,0.0014285714285714,0.04,0.0414285714285714,0.0014285714285714,0.0414285714285714
+112,1530,Calvin Stengs,NED,"MF,FW",Feyenoord,Eredivisie,24,0.0271428571428571,0.1071428571428571,0.1342857142857142,0.0271428571428571,0.1342857142857142,0.0271428571428571,0.0828571428571428,0.11,0.0271428571428571,0.11
+113,1531,Santiago Giménez,MEX,FW,Feyenoord,Eredivisie,22,0.2442857142857142,0.0542857142857142,0.2985714285714285,0.2171428571428571,0.2714285714285714,0.1728571428571428,0.0257142857142857,0.1985714285714285,0.1514285714285714,0.1771428571428571
+114,1532,Igor Paixão,BRA,"FW,MF",Feyenoord,Eredivisie,23,0.0857142857142857,0.0571428571428571,0.1442857142857143,0.0857142857142857,0.1442857142857143,0.0585714285714285,0.0328571428571428,0.0914285714285714,0.0585714285714285,0.0914285714285714
+115,1533,Timon Wellenreuther,GER,GK,Feyenoord,Eredivisie,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,1534,Gernot Trauner,AUT,DF,Feyenoord,Eredivisie,31,0.0,0.0357142857142857,0.0357142857142857,0.0,0.0357142857142857,0.0071428571428571,0.0214285714285714,0.0285714285714285,0.0071428571428571,0.0285714285714285
+117,1535,Yankuba Minteh,GAM,"FW,DF",Feyenoord,Eredivisie,19,0.12,0.06,0.18,0.12,0.18,0.1085714285714285,0.01,0.1171428571428571,0.1085714285714285,0.1171428571428571
+118,1536,Luka Ivanušec,CRO,FW,Feyenoord,Eredivisie,24,0.08,0.08,0.1614285714285714,0.08,0.1614285714285714,0.02,0.06,0.0814285714285714,0.02,0.0814285714285714
+119,1537,Thomas Beelen,NED,DF,Feyenoord,Eredivisie,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0085714285714285,0.0085714285714285,0.0,0.0085714285714285
+120,1538,Ramiz Zerrouki,ALG,MF,Feyenoord,Eredivisie,25,0.0,0.0,0.0,0.0,0.0,0.0128571428571428,0.01,0.0228571428571428,0.0128571428571428,0.0228571428571428
+121,1539,Justin Bijlow,NED,GK,Feyenoord,Eredivisie,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+122,1540,Alireza Jahanbakhsh,IRN,"FW,MF",Feyenoord,Eredivisie,30,0.0,0.0,0.0,0.0,0.0,0.0528571428571428,0.03,0.0814285714285714,0.0528571428571428,0.0814285714285714
+123,1541,Bart Nieuwkoop,NED,DF,Feyenoord,Eredivisie,27,0.0,0.0,0.0,0.0,0.0,0.0,0.1114285714285714,0.1114285714285714,0.0,0.1114285714285714
+124,1542,Ayase Ueda,JPN,"FW,MF",Feyenoord,Eredivisie,25,0.1228571428571428,0.0,0.1228571428571428,0.1228571428571428,0.1228571428571428,0.1985714285714285,0.0171428571428571,0.2142857142857142,0.1985714285714285,0.2142857142857142
+125,1543,Leo Sauer,SVK,FW,Feyenoord,Eredivisie,17,0.1371428571428571,0.0,0.1371428571428571,0.1371428571428571,0.1371428571428571,0.0514285714285714,0.0071428571428571,0.0585714285714285,0.0514285714285714,0.0585714285714285
+126,1544,Ondřej Lingr,CZE,"FW,MF",Feyenoord,Eredivisie,24,0.4428571428571429,0.4428571428571429,0.8871428571428571,0.4428571428571429,0.8871428571428571,0.0271428571428571,0.4414285714285714,0.4685714285714285,0.0271428571428571,0.4685714285714285
+127,1545,Gjivai Zechiël,NED,"DF,MF",Feyenoord,Eredivisie,19,0.0,0.0,0.0,0.0,0.0,0.0414285714285714,0.0,0.0414285714285714,0.0414285714285714,0.0414285714285714
+128,1546,Thomas van den Belt,NED,MF,Feyenoord,Eredivisie,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+129,1547,Javairô Dilrosun,NED,MF,Feyenoord,Eredivisie,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+137,1555,Jelle Bataille,BEL,DF,Royal Antwerp FC,Belgian Pro League,24,0.0171428571428571,0.0,0.0171428571428571,0.0171428571428571,0.0171428571428571,0.0114285714285714,0.0257142857142857,0.0371428571428571,0.0114285714285714,0.0371428571428571
+138,1556,Jean Butez,FRA,GK,Royal Antwerp FC,Belgian Pro League,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0128571428571428,0.0128571428571428,0.0,0.0128571428571428
+139,1557,Arthur Vermeeren,BEL,MF,Royal Antwerp FC,Belgian Pro League,18,0.0,0.0185714285714285,0.0185714285714285,0.0,0.0185714285714285,0.0014285714285714,0.0128571428571428,0.0142857142857142,0.0014285714285714,0.0142857142857142
+140,1558,Michel-Ange Balikwisha,BEL,"FW,MF",Royal Antwerp FC,Belgian Pro League,22,0.0,0.0371428571428571,0.0371428571428571,0.0,0.0371428571428571,0.0171428571428571,0.0228571428571428,0.04,0.0171428571428571,0.04
+141,1559,Vincent Janssen,NED,FW,Royal Antwerp FC,Belgian Pro League,29,0.0999999999999999,0.0,0.0999999999999999,0.0999999999999999,0.0999999999999999,0.08,0.0157142857142857,0.0942857142857142,0.0485714285714285,0.0628571428571428
+142,1560,Toby Alderweireld,BEL,DF,Royal Antwerp FC,Belgian Pro League,34,0.0,0.0,0.0,0.0,0.0,0.0185714285714285,0.0142857142857142,0.0328571428571428,0.0171428571428571,0.0314285714285714
+143,1561,Jurgen Ekkelenkamp,NED,MF,Royal Antwerp FC,Belgian Pro League,23,0.0285714285714285,0.0,0.0285714285714285,0.0285714285714285,0.0285714285714285,0.03,0.0228571428571428,0.0542857142857142,0.03,0.0542857142857142
+144,1562,Ritchie De Laet,BEL,DF,Royal Antwerp FC,Belgian Pro League,34,0.0,0.0285714285714285,0.0285714285714285,0.0,0.0285714285714285,0.0042857142857142,0.0028571428571428,0.0071428571428571,0.0042857142857142,0.0071428571428571
+145,1563,Gyrano Kerk,NED,"FW,MF",Royal Antwerp FC,Belgian Pro League,27,0.0328571428571428,0.0,0.0328571428571428,0.0328571428571428,0.0328571428571428,0.0328571428571428,0.0042857142857142,0.0371428571428571,0.0328571428571428,0.0371428571428571
+146,1564,Soumaïla Coulibaly,FRA,DF,Royal Antwerp FC,Belgian Pro League,19,0.0,0.0,0.0,0.0,0.0,0.0114285714285714,0.0,0.0114285714285714,0.0114285714285714,0.0114285714285714
+147,1565,Jacob Ondrejka,SWE,"FW,MF",Royal Antwerp FC,Belgian Pro League,21,0.0,0.0471428571428571,0.0471428571428571,0.0,0.0471428571428571,0.0357142857142857,0.0571428571428571,0.0928571428571428,0.0357142857142857,0.0928571428571428
+148,1566,Arbnor Muja,ALB,"FW,MF",Royal Antwerp FC,Belgian Pro League,24,0.0757142857142857,0.0371428571428571,0.1128571428571428,0.0757142857142857,0.1128571428571428,0.0385714285714285,0.0142857142857142,0.0528571428571428,0.0385714285714285,0.0528571428571428
+149,1567,Mandela Keita,BEL,MF,Royal Antwerp FC,Belgian Pro League,21,0.0,0.04,0.04,0.0,0.04,0.0042857142857142,0.0114285714285714,0.0157142857142857,0.0042857142857142,0.0157142857142857
+150,1568,Zeno Van den Bosch,BEL,DF,Royal Antwerp FC,Belgian Pro League,20,0.0,0.0442857142857142,0.0442857142857142,0.0,0.0442857142857142,0.0,0.0114285714285714,0.0114285714285714,0.0,0.0114285714285714
+151,1569,Alhassan Yusuf,NGA,"MF,DF",Royal Antwerp FC,Belgian Pro League,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0128571428571428,0.0142857142857142,0.0,0.0142857142857142
+152,1570,Owen Wijndal,NED,DF,Royal Antwerp FC,Belgian Pro League,23,0.0,0.0,0.0,0.0,0.0,0.0028571428571428,0.01,0.0128571428571428,0.0028571428571428,0.0128571428571428
+153,1571,Gastón Ávila,ARG,DF,Royal Antwerp FC,Belgian Pro League,22,0.0,0.0714285714285714,0.0714285714285714,0.0,0.0714285714285714,0.0042857142857142,0.0128571428571428,0.0185714285714285,0.0042857142857142,0.0185714285714285
+154,1572,Anthony Valencia,ECU,FW,Royal Antwerp FC,Belgian Pro League,20,0.0,0.0,0.0,0.0,0.0,0.0114285714285714,0.0214285714285714,0.0328571428571428,0.0114285714285714,0.0328571428571428
+155,1573,Sam Vines,USA,DF,Royal Antwerp FC,Belgian Pro League,24,0.2257142857142857,0.0,0.2257142857142857,0.2257142857142857,0.2257142857142857,0.0214285714285714,0.0057142857142857,0.0271428571428571,0.0214285714285714,0.0271428571428571
+156,1574,George Ilenikhena,FRA,FW,Royal Antwerp FC,Belgian Pro League,17,0.0,0.0,0.0,0.0,0.0,0.0985714285714285,0.0157142857142857,0.1142857142857143,0.0985714285714285,0.1142857142857143
+157,1575,Chidera Ejuke,NGA,"FW,MF",Royal Antwerp FC,Belgian Pro League,25,0.0,0.0,0.0,0.0,0.0,0.0685714285714285,0.0,0.0685714285714285,0.0685714285714285,0.0685714285714285
+158,1576,Christopher Scott,GER,MF,Royal Antwerp FC,Belgian Pro League,21,0.0,0.0,0.0,0.0,0.0,0.0414285714285714,0.0,0.0414285714285714,0.0414285714285714,0.0414285714285714
+162,1580,Abdülkerim Bardakcı,TUR,DF,Galatasaray,Super Lig,29,0.0242857142857142,0.0,0.0242857142857142,0.0242857142857142,0.0242857142857142,0.0242857142857142,0.0,0.0242857142857142,0.0242857142857142,0.0242857142857142
+163,1581,Sacha Boey,FRA,DF,Galatasaray,Super Lig,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+164,1582,Fernando Muslera,URU,GK,Galatasaray,Super Lig,37,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+165,1583,Mauro Icardi,ARG,FW,Galatasaray,Super Lig,30,0.19,0.0,0.19,0.1357142857142857,0.1357142857142857,0.19,0.0,0.19,0.1357142857142857,0.1357142857142857
+166,1584,Kerem Aktürkoğlu,TUR,MF,Galatasaray,Super Lig,24,0.0828571428571428,0.11,0.1928571428571428,0.0828571428571428,0.1928571428571428,0.0828571428571428,0.11,0.1928571428571428,0.0828571428571428,0.1928571428571428
+167,1585,Lucas Torreira,URU,MF,Galatasaray,Super Lig,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+168,1586,Dries Mertens,BEL,MF,Galatasaray,Super Lig,36,0.0,0.0371428571428571,0.0371428571428571,0.0,0.0371428571428571,0.0,0.0371428571428571,0.0371428571428571,0.0,0.0371428571428571
+169,1587,Angeliño,ESP,DF,Galatasaray,Super Lig,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+170,1588,Victor Nelsson,DEN,DF,Galatasaray,Super Lig,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+171,1589,Tetê,BRA,MF,Galatasaray,Super Lig,23,0.0,0.0485714285714285,0.0485714285714285,0.0,0.0485714285714285,0.0,0.0485714285714285,0.0485714285714285,0.0,0.0485714285714285
+172,1590,Kerem Demirbay,GER,MF,Galatasaray,Super Lig,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+173,1591,Barış Alper Yılmaz,TUR,MF,Galatasaray,Super Lig,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+174,1592,Sérgio Oliveira,POR,MF,Galatasaray,Super Lig,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+175,1593,Kaan Ayhan,TUR,DF,Galatasaray,Super Lig,28,0.0,0.0757142857142857,0.0757142857142857,0.0,0.0757142857142857,0.0,0.0757142857142857,0.0757142857142857,0.0,0.0757142857142857
+176,1594,Hakim Ziyech,MAR,MF,Galatasaray,Super Lig,30,0.1171428571428571,0.1171428571428571,0.2342857142857142,0.1171428571428571,0.2342857142857142,0.1171428571428571,0.1171428571428571,0.2342857142857142,0.1171428571428571,0.2342857142857142
+177,1595,Berkan Kutlu,TUR,MF,Galatasaray,Super Lig,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,1596,Davinson Sánchez,COL,DF,Galatasaray,Super Lig,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+179,1597,Cédric Bakambu,COD,FW,Galatasaray,Super Lig,32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+180,1598,Leo Dubois,FRA,DF,Galatasaray,Super Lig,29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+181,1599,Kazımcan Karataş,TUR,DF,Galatasaray,Super Lig,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+182,1600,Wilfried Zaha,CIV,"FW,MF",Galatasaray,Super Lig,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+183,1601,Yunus Akgün,TUR,MF,Galatasaray,Super Lig,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+184,1602,Tanguy Ndombele,FRA,MF,Galatasaray,Super Lig,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+185,1603,Halil Dervişoğlu,TUR,FW,Galatasaray,Super Lig,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+193,1611,Kevin Diks,NED,DF,FC Copenhagen,Superliga,26,0.0171428571428571,0.0171428571428571,0.0342857142857142,0.0171428571428571,0.0342857142857142,0.0171428571428571,0.0171428571428571,0.0342857142857142,0.0171428571428571,0.0342857142857142
+194,1612,Kamil Grabara,POL,GK,FC Copenhagen,Superliga,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+195,1613,Diogo Gonçalves,POR,"MF,FW",FC Copenhagen,Superliga,26,0.1028571428571428,0.0414285714285714,0.1442857142857143,0.0414285714285714,0.0828571428571428,0.1028571428571428,0.0414285714285714,0.1442857142857143,0.0414285714285714,0.0828571428571428
+196,1614,Denis Vavro,SVK,DF,FC Copenhagen,Superliga,27,0.02,0.0,0.02,0.02,0.02,0.02,0.0,0.02,0.02,0.02
+197,1615,Elias Jelert,DEN,DF,FC Copenhagen,Superliga,20,0.0,0.02,0.02,0.0,0.02,0.0,0.02,0.02,0.0,0.02
+198,1616,Roony Bardghji,SWE,FW,FC Copenhagen,Superliga,17,0.1585714285714285,0.0,0.1585714285714285,0.1585714285714285,0.1585714285714285,0.1585714285714285,0.0,0.1585714285714285,0.1585714285714285,0.1585714285714285
+199,1617,Rasmus Falk,DEN,MF,FC Copenhagen,Superliga,31,0.0,0.0428571428571428,0.0428571428571428,0.0,0.0428571428571428,0.0,0.0428571428571428,0.0428571428571428,0.0,0.0428571428571428
+200,1618,William Clem,DEN,MF,FC Copenhagen,Superliga,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+201,1619,Elias Achouri,TUN,FW,FC Copenhagen,Superliga,24,0.0257142857142857,0.13,0.1571428571428571,0.0257142857142857,0.1571428571428571,0.0257142857142857,0.13,0.1571428571428571,0.0257142857142857,0.1571428571428571
+202,1620,Orri Steinn Óskarsson,ISL,FW,FC Copenhagen,Superliga,19,0.0528571428571428,0.0271428571428571,0.08,0.0528571428571428,0.08,0.0528571428571428,0.0271428571428571,0.08,0.0528571428571428,0.08
+203,1621,Birger Meling,NOR,DF,FC Copenhagen,Superliga,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+204,1622,Jordan Larsson,SWE,FW,FC Copenhagen,Superliga,26,0.0342857142857142,0.0,0.0342857142857142,0.0342857142857142,0.0342857142857142,0.0342857142857142,0.0,0.0342857142857142,0.0342857142857142,0.0342857142857142
+205,1623,Mohamed Elyounoussi,NOR,"FW,MF",FC Copenhagen,Superliga,29,0.0714285714285714,0.0357142857142857,0.1085714285714285,0.0714285714285714,0.1085714285714285,0.0714285714285714,0.0357142857142857,0.1085714285714285,0.0714285714285714,0.1085714285714285
+206,1624,Lukas Lerager,DEN,MF,FC Copenhagen,Superliga,30,0.0385714285714285,0.0,0.0385714285714285,0.0385714285714285,0.0385714285714285,0.0385714285714285,0.0,0.0385714285714285,0.0385714285714285,0.0385714285714285
+207,1625,Christian Sørensen,DEN,DF,FC Copenhagen,Superliga,31,0.0,0.1728571428571428,0.1728571428571428,0.0,0.1728571428571428,0.0,0.1728571428571428,0.1728571428571428,0.0,0.1728571428571428
+208,1626,Valdemar Jensen,DEN,DF,FC Copenhagen,Superliga,20,0.0442857142857142,0.0,0.0442857142857142,0.0442857142857142,0.0442857142857142,0.0442857142857142,0.0,0.0442857142857142,0.0442857142857142,0.0442857142857142
+209,1627,Viktor Claesson,SWE,MF,FC Copenhagen,Superliga,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+210,1628,Peter Ankersen,DEN,DF,FC Copenhagen,Superliga,33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+211,1629,Oscar Højlund,DEN,MF,FC Copenhagen,Superliga,18,0.0,0.0742857142857142,0.0742857142857142,0.0,0.0742857142857142,0.0,0.0742857142857142,0.0742857142857142,0.0,0.0742857142857142
+212,1630,Nicolai Boilesen,DEN,DF,FC Copenhagen,Superliga,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+213,1631,Andreas Cornelius,DEN,FW,FC Copenhagen,Superliga,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+214,1632,Theo Sander,DEN,GK,FC Copenhagen,Superliga,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+215,1633,Ísak Jóhannesson,ISL,MF,FC Copenhagen,Superliga,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216,1634,Emil Højlund,DEN,FW,FC Copenhagen,Superliga,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+220,1638,Amar Dedić,BIH,DF,RB Salzburg,Austrian Bundesliga,21,0.0357142857142857,0.0357142857142857,0.0714285714285714,0.0357142857142857,0.0714285714285714,0.0357142857142857,0.0357142857142857,0.0714285714285714,0.0357142857142857,0.0714285714285714
+221,1639,Lucas Gourna-Douath,FRA,MF,RB Salzburg,Austrian Bundesliga,20,0.0,0.0185714285714285,0.0185714285714285,0.0,0.0185714285714285,0.0,0.0185714285714285,0.0185714285714285,0.0,0.0185714285714285
+222,1640,Alexander Schlager,AUT,GK,RB Salzburg,Austrian Bundesliga,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+223,1641,Maurits Kjærgaard,DEN,"MF,DF",RB Salzburg,Austrian Bundesliga,20,0.0,0.0657142857142857,0.0657142857142857,0.0,0.0657142857142857,0.0,0.0657142857142857,0.0657142857142857,0.0,0.0657142857142857
+224,1642,Thio Ntolla,CIV,FW,RB Salzburg,Austrian Bundesliga,24,0.0942857142857142,0.0228571428571428,0.1171428571428571,0.0942857142857142,0.1171428571428571,0.0942857142857142,0.0228571428571428,0.1171428571428571,0.0942857142857142,0.1171428571428571
+225,1643,Mads Bidstrup,DEN,MF,RB Salzburg,Austrian Bundesliga,22,0.0,0.0228571428571428,0.0228571428571428,0.0,0.0228571428571428,0.0,0.0228571428571428,0.0228571428571428,0.0,0.0228571428571428
+226,1644,Strahinja Pavlović,SRB,DF,RB Salzburg,Austrian Bundesliga,22,0.0242857142857142,0.0471428571428571,0.0714285714285714,0.0242857142857142,0.0714285714285714,0.0242857142857142,0.0471428571428571,0.0714285714285714,0.0242857142857142,0.0714285714285714
+227,1645,Roko Simic,CRO,FW,RB Salzburg,Austrian Bundesliga,20,0.0642857142857143,0.0,0.0642857142857143,0.0642857142857143,0.0642857142857143,0.0642857142857143,0.0,0.0642857142857143,0.0642857142857143,0.0642857142857143
+228,1646,Forson Amankwah,GHA,"MF,FW",RB Salzburg,Austrian Bundesliga,20,0.0328571428571428,0.0,0.0328571428571428,0.0328571428571428,0.0328571428571428,0.0328571428571428,0.0,0.0328571428571428,0.0328571428571428,0.0328571428571428
+229,1647,Samson Baidoo,AUT,DF,RB Salzburg,Austrian Bundesliga,19,0.0557142857142857,0.0,0.0557142857142857,0.0557142857142857,0.0557142857142857,0.0557142857142857,0.0,0.0557142857142857,0.0557142857142857,0.0557142857142857
+230,1648,Oscar Gloukh,ISR,FW,RB Salzburg,Austrian Bundesliga,19,0.0385714285714285,0.0385714285714285,0.0757142857142857,0.0385714285714285,0.0757142857142857,0.0385714285714285,0.0385714285714285,0.0757142857142857,0.0385714285714285,0.0757142857142857
+231,1649,Oumar Solet,FRA,DF,RB Salzburg,Austrian Bundesliga,23,0.0,0.0428571428571428,0.0428571428571428,0.0,0.0428571428571428,0.0,0.0428571428571428,0.0428571428571428,0.0,0.0428571428571428
+232,1650,Nene Dorgeles,MLI,FW,RB Salzburg,Austrian Bundesliga,20,0.0414285714285714,0.0414285714285714,0.0828571428571428,0.0414285714285714,0.0828571428571428,0.0414285714285714,0.0414285714285714,0.0828571428571428,0.0414285714285714,0.0828571428571428
+233,1651,Aleksa Terzić,SRB,DF,RB Salzburg,Austrian Bundesliga,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+234,1652,Andreas Ulmer,AUT,DF,RB Salzburg,Austrian Bundesliga,37,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+235,1653,Kamil Piątkowski,POL,DF,RB Salzburg,Austrian Bundesliga,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+236,1654,Dijon Kameri,AUT,MF,RB Salzburg,Austrian Bundesliga,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+237,1655,Sekou Koita,MLI,FW,RB Salzburg,Austrian Bundesliga,23,0.2171428571428571,0.0,0.2171428571428571,0.1442857142857143,0.1442857142857143,0.2171428571428571,0.0,0.2171428571428571,0.1442857142857143,0.1442857142857143
+238,1656,Petar Ratkov,SRB,FW,RB Salzburg,Austrian Bundesliga,20,0.1314285714285714,0.0,0.1314285714285714,0.1314285714285714,0.1314285714285714,0.1314285714285714,0.0,0.1314285714285714,0.1314285714285714,0.1314285714285714
+239,1657,Nico Mantl,GER,GK,RB Salzburg,Austrian Bundesliga,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+240,1658,Luka Sučić,CRO,FW,RB Salzburg,Austrian Bundesliga,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+241,1659,Leandro Morgalla,GER,DF,RB Salzburg,Austrian Bundesliga,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+242,1660,Fernando,BRA,FW,RB Salzburg,Austrian Bundesliga,24,0.0,0.2728571428571428,0.2728571428571428,0.0,0.2728571428571428,0.0,0.2728571428571428,0.2728571428571428,0.0,0.2728571428571428
+243,1661,Nicolás Capaldo,ARG,MF,RB Salzburg,Austrian Bundesliga,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+248,1666,Callum McGregor,SCO,MF,Celtic,Scottish Premiership,30,0.0,0.0242857142857142,0.0242857142857142,0.0,0.0242857142857142,0.0,0.0242857142857142,0.0242857142857142,0.0,0.0242857142857142
+249,1667,Matt O'Riley,DEN,MF,Celtic,Scottish Premiership,22,0.0999999999999999,0.0499999999999999,0.15,0.0999999999999999,0.15,0.0999999999999999,0.0499999999999999,0.15,0.0999999999999999,0.15
+250,1668,Daizen Maeda,JPN,FW,Celtic,Scottish Premiership,25,0.0257142857142857,0.0257142857142857,0.0499999999999999,0.0257142857142857,0.0499999999999999,0.0257142857142857,0.0257142857142857,0.0499999999999999,0.0257142857142857,0.0499999999999999
+251,1669,Greg Taylor,SCO,DF,Celtic,Scottish Premiership,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+252,1670,Joe Hart,ENG,GK,Celtic,Scottish Premiership,36,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+253,1671,Kyogo Furuhashi,JPN,FW,Celtic,Scottish Premiership,28,0.11,0.0557142857142857,0.1657142857142857,0.11,0.1657142857142857,0.11,0.0557142857142857,0.1657142857142857,0.11,0.1657142857142857
+254,1672,David Turnbull,SCO,MF,Celtic,Scottish Premiership,24,0.1314285714285714,0.0,0.1314285714285714,0.0442857142857142,0.0442857142857142,0.1314285714285714,0.0,0.1314285714285714,0.0442857142857142,0.0442857142857142
+255,1673,Liam Scales,IRL,DF,Celtic,Scottish Premiership,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+256,1674,Alistair Johnston,CAN,DF,Celtic,Scottish Premiership,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+257,1675,Gustaf Lagerbielke,SWE,DF,Celtic,Scottish Premiership,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+258,1676,Liel Abada,ISR,FW,Celtic,Scottish Premiership,21,0.0528571428571428,0.0528571428571428,0.1057142857142857,0.0528571428571428,0.1057142857142857,0.0528571428571428,0.0528571428571428,0.1057142857142857,0.0528571428571428,0.1057142857142857
+259,1677,Anthony Ralston,SCO,DF,Celtic,Scottish Premiership,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+260,1678,Yang Hyunjun,KOR,FW,Celtic,Scottish Premiership,21,0.0,0.0699999999999999,0.0699999999999999,0.0,0.0699999999999999,0.0,0.0699999999999999,0.0699999999999999,0.0,0.0699999999999999
+261,1679,Maik Nawrocki,POL,DF,Celtic,Scottish Premiership,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+262,1680,Cameron Carter-Vickers,USA,DF,Celtic,Scottish Premiership,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+263,1681,Reo Hatate,JPN,MF,Celtic,Scottish Premiership,25,0.0928571428571428,0.0,0.0928571428571428,0.0,0.0,0.0928571428571428,0.0,0.0928571428571428,0.0,0.0
+264,1682,James Forrest,SCO,FW,Celtic,Scottish Premiership,32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+265,1683,Nathaniel Phillips,ENG,DF,Celtic,Scottish Premiership,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+266,1684,Scott Bain,SCO,GK,Celtic,Scottish Premiership,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+267,1685,Oh Hyeongyu,KOR,FW,Celtic,Scottish Premiership,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+268,1686,Odin Thiago Holm,NOR,MF,Celtic,Scottish Premiership,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+269,1687,Stephen Welsh,SCO,DF,Celtic,Scottish Premiership,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270,1688,Alexandro Bernabei,ARG,DF,Celtic,Scottish Premiership,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+271,1689,Luis Enrique Palma,HON,MF,Celtic,Scottish Premiership,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+272,1690,Sead Haksabanović,MNE,"FW,MF",Celtic,Scottish Premiership,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273,1691,Tomoki Iwata,JPN,"DF,MF",Celtic,Scottish Premiership,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+274,1692,Carl Starfelt,SWE,DF,Celtic,Scottish Premiership,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275,1693,Paulo Bernardo,POR,MF,Celtic,Scottish Premiership,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+278,1696,Omri Glazer,ISR,GK,Red Star Belgrade,Serbian SuperLiga,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+279,1697,Marko Stamenic,NZL,MF,Red Star Belgrade,Serbian SuperLiga,21,0.0,0.0242857142857142,0.0242857142857142,0.0,0.0242857142857142,0.0,0.0242857142857142,0.0242857142857142,0.0,0.0242857142857142
+280,1698,Peter Olayinka,NGA,"FW,MF",Red Star Belgrade,Serbian SuperLiga,27,0.0257142857142857,0.0257142857142857,0.0499999999999999,0.0257142857142857,0.0499999999999999,0.0257142857142857,0.0257142857142857,0.0499999999999999,0.0257142857142857,0.0499999999999999
+281,1699,Aleksandar Dragović,AUT,"DF,MF",Red Star Belgrade,Serbian SuperLiga,32,0.0,0.0257142857142857,0.0257142857142857,0.0,0.0257142857142857,0.0,0.0257142857142857,0.0257142857142857,0.0,0.0257142857142857
+282,1700,Osman Bukari,GHA,"FW,MF",Red Star Belgrade,Serbian SuperLiga,24,0.0785714285714285,0.0528571428571428,0.1314285714285714,0.0785714285714285,0.1314285714285714,0.0785714285714285,0.0528571428571428,0.1314285714285714,0.0785714285714285,0.1314285714285714
+283,1701,Jean-Philippe Krasso,CIV,FW,Red Star Belgrade,Serbian SuperLiga,26,0.1785714285714285,0.06,0.2385714285714285,0.09,0.1485714285714285,0.1785714285714285,0.06,0.2385714285714285,0.09,0.1485714285714285
+284,1702,Vladimir Lučić,SRB,FW,Red Star Belgrade,Serbian SuperLiga,21,0.03,0.03,0.0614285714285714,0.03,0.0614285714285714,0.03,0.03,0.0614285714285714,0.03,0.0614285714285714
+285,1703,Srđan Mijailović,SRB,MF,Red Star Belgrade,Serbian SuperLiga,29,0.0314285714285714,0.0314285714285714,0.0614285714285714,0.0314285714285714,0.0614285714285714,0.0314285714285714,0.0314285714285714,0.0614285714285714,0.0314285714285714,0.0614285714285714
+286,1704,Stefan Mitrović,SRB,MF,Red Star Belgrade,Serbian SuperLiga,21,0.0371428571428571,0.0,0.0371428571428571,0.0371428571428571,0.0371428571428571,0.0371428571428571,0.0,0.0371428571428571,0.0371428571428571,0.0371428571428571
+287,1705,Kings Kangwa,ZAM,MF,Red Star Belgrade,Serbian SuperLiga,24,0.0,0.0842857142857142,0.0842857142857142,0.0,0.0842857142857142,0.0,0.0842857142857142,0.0842857142857142,0.0,0.0842857142857142
+288,1706,Miloš Degenek,AUS,"DF,MF",Red Star Belgrade,Serbian SuperLiga,29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+289,1707,Milan Rodić,SRB,DF,Red Star Belgrade,Serbian SuperLiga,32,0.0442857142857142,0.0,0.0442857142857142,0.0442857142857142,0.0442857142857142,0.0442857142857142,0.0,0.0442857142857142,0.0442857142857142,0.0442857142857142
+290,1708,Mirko Ivanić,MNE,MF,Red Star Belgrade,Serbian SuperLiga,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+291,1709,Uroš Spajić,SRB,DF,Red Star Belgrade,Serbian SuperLiga,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+292,1710,Kosta Nedeljković,SRB,DF,Red Star Belgrade,Serbian SuperLiga,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+293,1711,Cherif Ndiaye,SEN,"FW,MF",Red Star Belgrade,Serbian SuperLiga,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+294,1712,Guélor Kanga,GAB,MF,Red Star Belgrade,Serbian SuperLiga,33,0.12,0.12,0.24,0.0,0.12,0.12,0.12,0.24,0.0,0.12
+295,1713,Jovan Šljivić,SRB,MF,Red Star Belgrade,Serbian SuperLiga,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+296,1714,Lazar Nikolić,SRB,MF,Red Star Belgrade,Serbian SuperLiga,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+297,1715,Jovan Mijatović,SRB,FW,Red Star Belgrade,Serbian SuperLiga,18,0.2257142857142857,0.0,0.2257142857142857,0.2257142857142857,0.2257142857142857,0.2257142857142857,0.0,0.2257142857142857,0.2257142857142857,0.2257142857142857
+298,1716,Hwang In-beom,KOR,MF,Red Star Belgrade,Serbian SuperLiga,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+299,1717,Uroš Kabić,SRB,MF,Red Star Belgrade,Serbian SuperLiga,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+300,1718,Nemanja Milunović,SRB,DF,Red Star Belgrade,Serbian SuperLiga,34,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+301,1719,Irakli Azarov,GEO,DF,Red Star Belgrade,Serbian SuperLiga,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+302,1720,Aleksandar Katai,SRB,"FW,MF",Red Star Belgrade,Serbian SuperLiga,32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+309,1727,Saidy Janko,GAM,DF,BSC Young Boys,Swiss Super League,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+310,1728,Mohamed Aly Camara,GUI,DF,BSC Young Boys,Swiss Super League,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+311,1729,Anthony Racioppi,SUI,GK,BSC Young Boys,Swiss Super League,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+312,1730,Filip Ugrinic,SUI,"MF,FW",BSC Young Boys,Swiss Super League,24,0.0271428571428571,0.0557142857142857,0.0828571428571428,0.0271428571428571,0.0828571428571428,0.0271428571428571,0.0557142857142857,0.0828571428571428,0.0271428571428571,0.0828571428571428
+313,1731,Meschak Elia,COD,FW,BSC Young Boys,Swiss Super League,26,0.0285714285714285,0.0285714285714285,0.0585714285714285,0.0285714285714285,0.0585714285714285,0.0285714285714285,0.0285714285714285,0.0585714285714285,0.0285714285714285,0.0585714285714285
+314,1732,Aurele Amenda,SUI,DF,BSC Young Boys,Swiss Super League,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+315,1733,Joel Monteiro,POR,MF,BSC Young Boys,Swiss Super League,24,0.1114285714285714,0.0,0.1114285714285714,0.1114285714285714,0.1114285714285714,0.1114285714285714,0.0,0.1114285714285714,0.1114285714285714,0.1114285714285714
+316,1734,Loris Benito,SUI,DF,BSC Young Boys,Swiss Super League,31,0.0357142857142857,0.0357142857142857,0.0714285714285714,0.0357142857142857,0.0714285714285714,0.0357142857142857,0.0357142857142857,0.0714285714285714,0.0357142857142857,0.0714285714285714
+317,1735,Jean-Pierre Nsame,CMR,FW,BSC Young Boys,Swiss Super League,30,0.1657142857142857,0.0,0.1657142857142857,0.1242857142857142,0.1242857142857142,0.1657142857142857,0.0,0.1657142857142857,0.1242857142857142,0.1242857142857142
+318,1736,Darian Males,SUI,MF,BSC Young Boys,Swiss Super League,22,0.0,0.04,0.04,0.0,0.04,0.0,0.04,0.04,0.0,0.04
+319,1737,Cedric Itten,SUI,FW,BSC Young Boys,Swiss Super League,26,0.0871428571428571,0.0428571428571428,0.13,0.0428571428571428,0.0871428571428571,0.0871428571428571,0.0428571428571428,0.13,0.0428571428571428,0.0871428571428571
+320,1738,Łukasz Łakomy,POL,"MF,FW",BSC Young Boys,Swiss Super League,22,0.0442857142857142,0.0442857142857142,0.0871428571428571,0.0442857142857142,0.0871428571428571,0.0442857142857142,0.0442857142857142,0.0871428571428571,0.0442857142857142,0.0871428571428571
+321,1739,Cheikh Niasse,SEN,MF,BSC Young Boys,Swiss Super League,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+322,1740,Fabian Rieder,SUI,"MF,FW",BSC Young Boys,Swiss Super League,21,0.0471428571428571,0.0471428571428571,0.0957142857142857,0.0471428571428571,0.0957142857142857,0.0471428571428571,0.0471428571428571,0.0957142857142857,0.0471428571428571,0.0957142857142857
+323,1741,Noah Persson,SWE,DF,BSC Young Boys,Swiss Super League,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+324,1742,Silvère Ganvoula M'Boussy,CGO,FW,BSC Young Boys,Swiss Super League,27,0.0471428571428571,0.0,0.0471428571428571,0.0471428571428571,0.0471428571428571,0.0471428571428571,0.0,0.0471428571428571,0.0471428571428571,0.0471428571428571
+325,1743,Sandro Lauper,SUI,MF,BSC Young Boys,Swiss Super League,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+326,1744,Fabian Lustenberger,SUI,DF,BSC Young Boys,Swiss Super League,35,0.0714285714285714,0.0,0.0714285714285714,0.0714285714285714,0.0714285714285714,0.0714285714285714,0.0,0.0714285714285714,0.0714285714285714,0.0714285714285714
+327,1745,Ulisses Garcia,SUI,DF,BSC Young Boys,Swiss Super League,27,0.0,0.1771428571428571,0.1771428571428571,0.0,0.1771428571428571,0.0,0.1771428571428571,0.1771428571428571,0.0,0.1771428571428571
+328,1746,Kastriot Imeri,SUI,MF,BSC Young Boys,Swiss Super League,23,0.0,0.0985714285714285,0.0985714285714285,0.0,0.0985714285714285,0.0,0.0985714285714285,0.0985714285714285,0.0,0.0985714285714285
+329,1747,Ebrima Colley,GAM,MF,BSC Young Boys,Swiss Super League,23,0.0,0.1228571428571428,0.1228571428571428,0.0,0.1228571428571428,0.0,0.1228571428571428,0.1228571428571428,0.0,0.1228571428571428
+330,1748,David von Ballmoos,SUI,GK,BSC Young Boys,Swiss Super League,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+331,1749,Miguel Chaiwa,ZAM,MF,BSC Young Boys,Swiss Super League,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+332,1750,Lewin Blum,SUI,DF,BSC Young Boys,Swiss Super League,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+333,1751,Donat Rrudhani,KVX,MF,BSC Young Boys,Swiss Super League,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+335,1753,Dmytro Kryskiv,UKR,MF,Shakhtar Donetsk,Ukrainian Premier League,22,0.04,0.06,0.0999999999999999,0.04,0.0999999999999999,0.04,0.06,0.0999999999999999,0.04,0.0999999999999999
+336,1754,Oleksandr Zubkov,UKR,"MF,FW",Shakhtar Donetsk,Ukrainian Premier League,27,0.0,0.0228571428571428,0.0228571428571428,0.0,0.0228571428571428,0.0,0.0228571428571428,0.0228571428571428,0.0,0.0228571428571428
+337,1755,Dmytro Riznyk,UKR,GK,Shakhtar Donetsk,Ukrainian Premier League,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+338,1756,Danylo Sikan,UKR,"FW,MF",Shakhtar Donetsk,Ukrainian Premier League,22,0.0257142857142857,0.0257142857142857,0.0514285714285714,0.0257142857142857,0.0514285714285714,0.0257142857142857,0.0257142857142857,0.0514285714285714,0.0257142857142857,0.0514285714285714
+339,1757,Mykola Matviyenko,UKR,DF,Shakhtar Donetsk,Ukrainian Premier League,27,0.0714285714285714,0.0,0.0714285714285714,0.0714285714285714,0.0714285714285714,0.0714285714285714,0.0,0.0714285714285714,0.0714285714285714,0.0714285714285714
+340,1758,Giorgi Gocholeishvili,GEO,DF,Shakhtar Donetsk,Ukrainian Premier League,22,0.0,0.0585714285714285,0.0585714285714285,0.0,0.0585714285714285,0.0,0.0585714285714285,0.0585714285714285,0.0,0.0585714285714285
+341,1759,Oleksii Kashchuk,UKR,"MF,FW",Shakhtar Donetsk,Ukrainian Premier League,23,0.0971428571428571,0.0328571428571428,0.1285714285714286,0.0971428571428571,0.1285714285714286,0.0971428571428571,0.0328571428571428,0.1285714285714286,0.0971428571428571,0.1285714285714286
+342,1760,Taras Stepanenko,UKR,MF,Shakhtar Donetsk,Ukrainian Premier League,34,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+343,1761,Irakli Azarov,GEO,DF,Shakhtar Donetsk,Ukrainian Premier League,21,0.0,0.0357142857142857,0.0357142857142857,0.0,0.0357142857142857,0.0,0.0357142857142857,0.0357142857142857,0.0,0.0357142857142857
+344,1762,Dmytro Topalov,UKR,DF,Shakhtar Donetsk,Ukrainian Premier League,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+345,1763,Eduard Kozik,UKR,DF,Shakhtar Donetsk,Ukrainian Premier League,20,0.0,0.0371428571428571,0.0371428571428571,0.0,0.0371428571428571,0.0,0.0371428571428571,0.0371428571428571,0.0,0.0371428571428571
+346,1764,Artem Bondarenko,UKR,MF,Shakhtar Donetsk,Ukrainian Premier League,23,0.0,0.0442857142857142,0.0442857142857142,0.0,0.0442857142857142,0.0,0.0442857142857142,0.0442857142857142,0.0,0.0442857142857142
+347,1765,Yehor Nazaryna,UKR,MF,Shakhtar Donetsk,Ukrainian Premier League,26,0.0828571428571428,0.0,0.0828571428571428,0.0828571428571428,0.0828571428571428,0.0828571428571428,0.0,0.0828571428571428,0.0828571428571428,0.0828571428571428
+348,1766,Lassina Franck Traoré,BFA,FW,Shakhtar Donetsk,Ukrainian Premier League,22,0.1285714285714286,0.0,0.1285714285714286,0.1285714285714286,0.1285714285714286,0.1285714285714286,0.0,0.1285714285714286,0.1285714285714286,0.1285714285714286
+349,1767,Yukhym Konoplia,UKR,DF,Shakhtar Donetsk,Ukrainian Premier League,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+350,1768,Heorhii Sudakov,UKR,MF,Shakhtar Donetsk,Ukrainian Premier League,21,0.1185714285714285,0.0,0.1185714285714285,0.1185714285714285,0.1185714285714285,0.1185714285714285,0.0,0.1185714285714285,0.1185714285714285,0.1185714285714285
+351,1769,Dmytro Chygrynskiy,UKR,DF,Shakhtar Donetsk,Ukrainian Premier League,36,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+352,1770,Yaroslav Rakitskiy,UKR,DF,Shakhtar Donetsk,Ukrainian Premier League,34,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+353,1771,Kevin Kelsy,VEN,FW,Shakhtar Donetsk,Ukrainian Premier League,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+354,1772,Oleh Ocheretko,UKR,MF,Shakhtar Donetsk,Ukrainian Premier League,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+355,1773,Stav Lemkin,ISR,DF,Shakhtar Donetsk,Ukrainian Premier League,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+356,1774,Valerii Bondar,UKR,DF,Shakhtar Donetsk,Ukrainian Premier League,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+357,1775,Artur Rudko,UKR,GK,Shakhtar Donetsk,Ukrainian Premier League,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+358,1776,Bohdan Viunnyk,UKR,FW,Shakhtar Donetsk,Ukrainian Premier League,21,0.0742857142857142,0.1485714285714285,0.2228571428571428,0.0742857142857142,0.2228571428571428,0.0742857142857142,0.1485714285714285,0.2228571428571428,0.0742857142857142,0.2228571428571428
+359,1777,Novatus Dismas,TAN,MF,Shakhtar Donetsk,Ukrainian Premier League,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+360,1778,Newerton,BRA,FW,Shakhtar Donetsk,Ukrainian Premier League,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+361,1779,Denil Castillo,ECU,MF,Shakhtar Donetsk,Ukrainian Premier League,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+362,1780,Marian Faryna,UKR,DF,Shakhtar Donetsk,Ukrainian Premier League,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+363,1781,Pedrinho,BRA,DF,Shakhtar Donetsk,Ukrainian Premier League,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+364,1782,Eguinaldo,BRA,MF,Shakhtar Donetsk,Ukrainian Premier League,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

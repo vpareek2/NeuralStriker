@@ -1,0 +1,523 @@
+,Player,Nation,Pos,Squad,Comp,Age,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG
+6,Salis Abdul Samed,gh GHA,MF,Lens,fr Ligue 1,22,0.03,0.03,0.06,0.03,0.06,0.03,0.05,0.08,0.03,0.08
+15,Francesco Acerbi,it ITA,DF,Inter,it Serie A,34,0.00,0.07,0.07,0.00,0.07,0.04,0.04,0.08,0.04,0.08
+18,Marcos Acuña,ar ARG,DF,Sevilla,es La Liga,30,0.14,0.09,0.24,0.14,0.24,0.05,0.20,0.26,0.05,0.26
+24,Karim Adeyemi,de GER,"FW,MF",Dortmund,de Bundesliga,20,0.39,0.32,0.71,0.39,0.71,0.33,0.24,0.57,0.28,0.52
+27,Yacine Adli,fr FRA,"MF,FW",Milan,it Serie A,22,0.00,0.00,0.00,0.00,0.00,0.05,0.16,0.22,0.05,0.22
+49,Manuel Akanji,ch SUI,DF,Manchester City,eng Premier League,27,0.00,0.04,0.04,0.00,0.04,0.05,0.02,0.07,0.05,0.07
+50,Nathan Aké,nl NED,DF,Manchester City,eng Premier League,27,0.05,0.00,0.05,0.05,0.05,0.07,0.04,0.11,0.07,0.11
+58,David Alaba,at AUT,DF,Real Madrid,es La Liga,30,0.05,0.15,0.20,0.05,0.20,0.04,0.05,0.09,0.04,0.09
+59,Ángel Alarcón,es ESP,FW,Barcelona,es La Liga,18,0.00,0.00,0.00,0.00,0.00,,,,,
+62,Jordi Alba,es ESP,DF,Barcelona,es La Liga,33,0.13,0.19,0.32,0.13,0.32,0.05,0.40,0.44,0.05,0.44
+63,Luis Alberto,es ESP,MF,Lazio,it Serie A,29,0.22,0.26,0.48,0.18,0.44,0.16,0.26,0.42,0.10,0.36
+76,Mohamed Ali Cho,fr FRA,"FW,MF",Real Sociedad,es La Liga,18,0.15,0.31,0.46,0.15,0.46,0.28,0.25,0.53,0.28,0.53
+83,Miguel Almirón,py PAR,FW,Newcastle Utd,eng Premier League,28,0.40,0.07,0.47,0.40,0.47,0.29,0.11,0.40,0.29,0.40
+84,Marcos Alonso,es ESP,DF,Barcelona,es La Liga,31,0.08,0.00,0.08,0.08,0.08,0.07,0.03,0.09,0.07,0.09
+87,Carlos Álvarez,es ESP,MF,Sevilla,es La Liga,18,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+89,Julián Álvarez,ar ARG,"FW,MF",Manchester City,eng Premier League,22,0.55,0.00,0.55,0.49,0.49,0.43,0.11,0.54,0.38,0.49
+108,Elliot Anderson,sct SCO,"MF,FW",Newcastle Utd,eng Premier League,19,0.00,0.22,0.22,0.00,0.22,0.22,0.28,0.51,0.22,0.51
+109,Felipe Anderson,br BRA,FW,Lazio,it Serie A,29,0.27,0.06,0.33,0.27,0.33,0.18,0.15,0.33,0.18,0.33
+121,Marcos Antônio,br BRA,MF,Lazio,it Serie A,22,0.15,0.15,0.30,0.15,0.30,0.18,0.04,0.23,0.18,0.23
+123,Antony,br BRA,FW,Manchester Utd,eng Premier League,22,0.20,0.10,0.30,0.20,0.30,0.33,0.14,0.47,0.33,0.47
+134,Ronald Araújo,uy URU,DF,Barcelona,es La Liga,23,0.00,0.10,0.10,0.00,0.10,0.10,0.04,0.15,0.10,0.15
+145,Sergio Arribas,es ESP,"MF,FW",Real Madrid,es La Liga,20,0.00,0.00,0.00,0.00,0.00,0.74,0.14,0.88,0.74,0.88
+156,Marco Asensio,es ESP,"FW,MF",Real Madrid,es La Liga,26,0.56,0.37,0.94,0.56,0.94,0.39,0.30,0.70,0.35,0.65
+159,Kristjan Asllani,al ALB,MF,Inter,it Serie A,20,0.00,0.00,0.00,0.00,0.00,0.08,0.14,0.22,0.08,0.22
+165,Pierre-Emerick Aubameyang,ga GAB,FW,Barcelona,es La Liga,33,0.00,0.00,0.00,0.00,0.00,1.18,0.00,1.18,1.18,1.18
+185,Sanoussy Ba,de GER,DF,RB Leipzig,de Bundesliga,18,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+188,Loïc Bade,fr FRA,DF,Sevilla,es La Liga,22,0.06,0.00,0.06,0.06,0.06,0.02,0.01,0.02,0.02,0.02
+203,Tiemoué Bakayoko,fr FRA,MF,Milan,it Serie A,27,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+208,Alejandro Balde,es ESP,DF,Barcelona,es La Liga,18,0.04,0.22,0.25,0.04,0.25,0.07,0.18,0.25,0.07,0.25
+215,Fodé Ballo-Touré,sn SEN,DF,Milan,it Serie A,25,0.17,0.00,0.17,0.17,0.17,0.11,0.04,0.15,0.11,0.15
+232,Nicolò Barella,it ITA,MF,Inter,it Serie A,25,0.21,0.21,0.41,0.21,0.41,0.11,0.19,0.30,0.11,0.30
+240,Ander Barrenetxea,es ESP,"FW,DF",Real Sociedad,es La Liga,20,0.31,0.10,0.41,0.31,0.41,0.31,0.12,0.43,0.31,0.43
+242,Pablo Barrios,es ESP,MF,Atlético Madrid,es La Liga,19,0.00,0.12,0.12,0.00,0.12,0.07,0.08,0.15,0.07,0.15
+245,Toma Bašić,hr CRO,MF,Lazio,it Serie A,25,0.18,0.00,0.18,0.18,0.18,0.32,0.07,0.39,0.32,0.39
+248,Alessandro Bastoni,it ITA,DF,Inter,it Serie A,23,0.00,0.08,0.08,0.00,0.08,0.04,0.11,0.15,0.04,0.15
+253,Timo Baumgartl,de GER,DF,Union Berlin,de Bundesliga,26,0.00,0.16,0.16,0.00,0.16,0.03,0.02,0.05,0.03,0.05
+266,Sheraldo Becker,sr SUR,FW,Union Berlin,de Bundesliga,27,0.39,0.25,0.63,0.39,0.63,0.23,0.20,0.42,0.23,0.42
+269,Donny van de Beek,nl NED,MF,Manchester Utd,eng Premier League,25,0.00,0.00,0.00,0.00,0.00,0.05,0.06,0.11,0.05,0.11
+272,Kevin Behrens,de GER,FW,Union Berlin,de Bundesliga,31,0.47,0.06,0.53,0.47,0.53,0.28,0.07,0.35,0.28,0.35
+281,Raoul Bellanova,it ITA,DF,Inter,it Serie A,22,0.00,0.00,0.00,0.00,0.00,0.12,0.07,0.19,0.12,0.19
+284,Héctor Bellerín,es ESP,DF,Barcelona,es La Liga,27,0.00,0.00,0.00,0.00,0.00,0.00,0.06,0.06,0.00,0.06
+286,Jude Bellingham,eng ENG,MF,Dortmund,de Bundesliga,19,0.27,0.13,0.40,0.23,0.37,0.27,0.14,0.41,0.25,0.38
+296,Ismaël Bennacer,dz ALG,MF,Milan,it Serie A,24,0.09,0.09,0.18,0.09,0.18,0.04,0.15,0.19,0.04,0.19
+302,Karim Benzema,fr FRA,FW,Real Madrid,es La Liga,34,0.84,0.13,0.97,0.53,0.66,0.95,0.26,1.20,0.66,0.91
+307,Bartosz Bereszyński,pl POL,DF,Napoli,it Serie A,30,0.00,0.54,0.54,0.00,0.54,0.00,0.10,0.10,0.00,0.10
+308,Patrick Berg,no NOR,"MF,FW",Lens,fr Ligue 1,24,0.00,0.00,0.00,0.00,0.00,0.00,0.17,0.17,0.00,0.17
+314,Juan Bernat,es ESP,"DF,MF",Paris S-G,fr Ligue 1,29,0.05,0.22,0.27,0.05,0.27,0.05,0.17,0.21,0.05,0.21
+317,Marco Bertini,it ITA,MF,Lazio,it Serie A,19,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+342,Janis Blaswich,de GER,GK,RB Leipzig,de Bundesliga,31,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+346,Daley Blind,nl NED,"DF,MF",Bayern Munich,de Bundesliga,32,0.00,0.00,0.00,0.00,0.00,0.04,0.04,0.08,0.04,0.08
+368,Sven Botman,nl NED,DF,Newcastle Utd,eng Premier League,22,0.00,0.00,0.00,0.00,0.00,0.07,0.03,0.10,0.07,0.10
+375,Yassine Bounou,ma MAR,GK,Sevilla,es La Liga,31,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+376,Ismaëlben Boura,fr FRA,"DF,FW",Lens,fr Ligue 1,21,0.00,0.00,0.00,0.00,0.00,0.06,0.20,0.26,0.06,0.26
+387,Julian Brandt,de GER,"MF,FW",Dortmund,de Bundesliga,26,0.34,0.30,0.64,0.34,0.64,0.19,0.34,0.54,0.19,0.54
+402,Marcelo Brozović,hr CRO,MF,Inter,it Serie A,29,0.15,0.25,0.41,0.15,0.41,0.13,0.14,0.27,0.13,0.27
+413,Adam Buksa,pl POL,"FW,MF",Lens,fr Ligue 1,26,0.00,0.00,0.00,0.00,0.00,0.00,0.04,0.04,0.00,0.04
+422,Dan Burn,eng ENG,DF,Newcastle Utd,eng Premier League,30,0.03,0.00,0.03,0.03,0.03,0.06,0.04,0.10,0.06,0.10
+424,Sergio Busquets,es ESP,MF,Barcelona,es La Liga,34,0.00,0.15,0.15,0.00,0.15,0.02,0.11,0.13,0.02,0.13
+428,Jamie Bynoe-Gittens,eng ENG,"FW,MF",Dortmund,de Bundesliga,17,0.51,0.17,0.68,0.51,0.68,0.41,0.12,0.53,0.41,0.53
+431,Jimmy Cabot,fr FRA,"DF,MF",Lens,fr Ligue 1,28,0.00,0.18,0.18,0.00,0.18,0.05,0.37,0.43,0.05,0.43
+440,Davide Calabria,it ITA,DF,Milan,it Serie A,25,0.05,0.21,0.27,0.05,0.27,0.06,0.09,0.15,0.06,0.15
+447,Hakan Çalhanoğlu,tr TUR,MF,Inter,it Serie A,28,0.11,0.23,0.34,0.08,0.30,0.12,0.19,0.31,0.09,0.28
+457,Eduardo Camavinga,fr FRA,"MF,DF",Real Madrid,es La Liga,19,0.00,0.04,0.04,0.00,0.04,0.04,0.07,0.10,0.04,0.10
+463,Emre Can,de GER,MF,Dortmund,de Bundesliga,28,0.09,0.05,0.14,0.05,0.09,0.08,0.06,0.14,0.04,0.10
+465,Matteo Cancellieri,it ITA,FW,Lazio,it Serie A,20,0.00,0.00,0.00,0.00,0.00,0.14,0.14,0.28,0.14,0.28
+466,João Cancelo,pt POR,DF,Manchester City,eng Premier League,28,0.14,0.07,0.21,0.14,0.21,0.06,0.06,0.12,0.06,0.12
+468,João Cancelo,pt POR,"DF,FW",Bayern Munich,de Bundesliga,28,0.09,0.36,0.44,0.09,0.44,0.06,0.21,0.26,0.06,0.26
+481,Valentin Carboni,ar ARG,"MF,DF",Inter,it Serie A,17,0.00,0.00,0.00,0.00,0.00,0.00,0.09,0.09,0.00,0.09
+492,Carmona,es ESP,DF,Sevilla,es La Liga,20,0.34,0.17,0.51,0.34,0.51,0.14,0.06,0.20,0.14,0.20
+495,Yannick Carrasco,be BEL,"DF,MF",Atlético Madrid,es La Liga,28,0.27,0.12,0.39,0.23,0.35,0.31,0.16,0.47,0.28,0.44
+496,Dani Carvajal,es ESP,DF,Real Madrid,es La Liga,30,0.00,0.10,0.10,0.00,0.10,0.04,0.10,0.14,0.04,0.14
+500,Nicolò Casale,it ITA,DF,Lazio,it Serie A,24,0.04,0.04,0.07,0.04,0.07,0.02,0.01,0.03,0.02,0.03
+501,Casemiro,br BRA,MF,Manchester Utd,eng Premier League,30,0.17,0.13,0.30,0.17,0.30,0.14,0.13,0.28,0.14,0.28
+502,Casemiro,br BRA,MF,Real Madrid,es La Liga,30,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+513,Danilo Cataldi,it ITA,MF,Lazio,it Serie A,27,0.00,0.05,0.05,0.00,0.05,0.01,0.05,0.06,0.01,0.06
+518,Dani Ceballos,es ESP,MF,Real Madrid,es La Liga,25,0.00,0.23,0.23,0.00,0.23,0.05,0.12,0.17,0.05,0.17
+532,El Chadaille Bitshiabu,fr FRA,DF,Paris S-G,fr Ligue 1,17,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.01,0.00,0.01
+541,Shea Charles,nir NIR,DF,Manchester City,eng Premier League,18,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+556,Andreas Christensen,dk DEN,DF,Barcelona,es La Liga,26,0.05,0.05,0.10,0.05,0.10,0.05,0.03,0.08,0.05,0.08
+573,Alexis Claude-Maurice,fr FRA,"MF,FW",Lens,fr Ligue 1,24,0.75,0.45,1.19,0.75,1.19,0.39,0.19,0.58,0.39,0.58
+591,Kingsley Coman,fr FRA,"FW,MF",Bayern Munich,de Bundesliga,26,0.51,0.32,0.83,0.51,0.83,0.29,0.35,0.65,0.29,0.65
+605,Alex Cordaz,it ITA,GK,Inter,it Serie A,39,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+607,Jesús Corona,mx MEX,FW,Sevilla,es La Liga,29,0.81,0.00,0.81,0.81,0.81,0.37,0.20,0.57,0.37,0.57
+608,Ángel Correa,ar ARG,"FW,MF",Atlético Madrid,es La Liga,27,0.56,0.06,0.62,0.56,0.62,0.44,0.22,0.66,0.44,0.66
+609,Joaquín Correa,ar ARG,FW,Inter,it Serie A,27,0.28,0.09,0.38,0.28,0.38,0.33,0.12,0.45,0.33,0.45
+613,David Pereira da Costa,pt POR,"MF,FW",Lens,fr Ligue 1,21,0.06,0.19,0.26,0.06,0.26,0.18,0.26,0.44,0.18,0.44
+622,Soumaïla Coulibaly,fr FRA,DF,Dortmund,de Bundesliga,18,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+625,Thibaut Courtois,be BEL,GK,Real Madrid,es La Liga,30,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.01,0.00,0.01
+645,Matheus Cunha,br BRA,"FW,MF",Atlético Madrid,es La Liga,23,0.00,0.48,0.48,0.00,0.48,0.34,0.20,0.53,0.34,0.53
+648,Danilo D'Ambrosio,it ITA,DF,Inter,it Serie A,33,0.00,0.25,0.25,0.00,0.25,0.03,0.08,0.11,0.03,0.11
+656,Mahmoud Dahoud,de GER,MF,Dortmund,de Bundesliga,26,0.00,0.00,0.00,0.00,0.00,0.12,0.13,0.24,0.12,0.24
+659,Diogo Dalot,pt POR,DF,Manchester Utd,eng Premier League,23,0.04,0.08,0.13,0.04,0.13,0.10,0.08,0.18,0.10,0.18
+669,Kevin Danso,at AUT,DF,Lens,fr Ligue 1,23,0.03,0.06,0.08,0.03,0.08,0.07,0.03,0.10,0.07,0.10
+676,Matteo Darmian,it ITA,DF,Inter,it Serie A,32,0.04,0.09,0.13,0.04,0.13,0.04,0.09,0.13,0.04,0.13
+680,Alphonso Davies,ca CAN,DF,Bayern Munich,de Bundesliga,21,0.04,0.18,0.22,0.04,0.22,0.07,0.16,0.24,0.07,0.24
+686,Kevin De Bruyne,be BEL,MF,Manchester City,eng Premier League,31,0.26,0.60,0.86,0.26,0.86,0.21,0.51,0.72,0.21,0.72
+687,Charles De Ketelaere,be BEL,"MF,FW",Milan,it Serie A,21,0.00,0.08,0.08,0.00,0.08,0.16,0.16,0.32,0.16,0.32
+690,Rodrigo De Paul,ar ARG,MF,Atlético Madrid,es La Liga,28,0.09,0.33,0.42,0.09,0.42,0.07,0.26,0.34,0.07,0.34
+702,Thomas Delaney,dk DEN,MF,Sevilla,es La Liga,30,0.00,0.00,0.00,0.00,0.00,0.04,0.02,0.06,0.04,0.06
+710,Ousmane Dembélé,fr FRA,FW,Barcelona,es La Liga,25,0.32,0.45,0.77,0.32,0.77,0.25,0.31,0.56,0.25,0.56
+716,Diego Demme,de GER,MF,Napoli,it Serie A,30,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.01,0.00,0.01
+730,Sergiño Dest,us USA,DF,Milan,it Serie A,21,0.00,0.00,0.00,0.00,0.00,0.08,0.09,0.17,0.08,0.17
+737,Giovanni Di Lorenzo,it ITA,DF,Napoli,it Serie A,28,0.08,0.11,0.19,0.08,0.19,0.07,0.13,0.20,0.07,0.20
+745,Abdou Diallo,sn SEN,"DF,MF",RB Leipzig,de Bundesliga,26,0.19,0.00,0.19,0.19,0.19,0.07,0.02,0.09,0.07,0.09
+756,Rúben Dias,pt POR,DF,Manchester City,eng Premier League,25,0.00,0.00,0.00,0.00,0.00,0.06,0.03,0.09,0.06,0.09
+759,Brahim Díaz,es ESP,"MF,FW",Milan,it Serie A,22,0.28,0.33,0.61,0.28,0.61,0.28,0.26,0.54,0.28,0.54
+767,Federico Dimarco,it ITA,DF,Inter,it Serie A,24,0.17,0.13,0.30,0.17,0.30,0.13,0.30,0.43,0.13,0.43
+789,Marko Dmitrović,rs SRB,GK,Sevilla,es La Liga,30,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+794,Danilho Doekhi,nl NED,DF,Union Berlin,de Bundesliga,24,0.20,0.04,0.24,0.20,0.24,0.08,0.02,0.09,0.08,0.09
+796,Matt Doherty,ie IRL,DF,Atlético Madrid,es La Liga,30,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+799,Kasper Dolberg,dk DEN,FW,Sevilla,es La Liga,24,0.00,0.46,0.46,0.00,0.46,0.02,0.18,0.20,0.02,0.20
+808,Gianluigi Donnarumma,it ITA,GK,Paris S-G,fr Ligue 1,23,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+810,Gabriel Dos Santos,br BRA,DF,Arsenal,eng Premier League,24,0.08,0.00,0.08,0.08,0.08,0.13,0.01,0.14,0.13,0.14
+828,Martin Dúbravka,sk SVK,GK,Newcastle Utd,eng Premier League,33,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+835,Denzel Dumfries,nl NED,DF,Inter,it Serie A,26,0.04,0.16,0.20,0.04,0.20,0.15,0.20,0.35,0.15,0.35
+841,Julien Duranville,be BEL,MF,Dortmund,de Bundesliga,16,0.00,0.00,0.00,0.00,0.00,0.06,0.83,0.89,0.06,0.89
+845,Edin Džeko,ba BIH,FW,Inter,it Serie A,36,0.47,0.16,0.62,0.47,0.62,0.50,0.17,0.67,0.50,0.67
+850,Ederson,br BRA,GK,Manchester City,eng Premier League,28,0.00,0.03,0.03,0.00,0.03,0.00,0.01,0.01,0.00,0.01
+863,Hugo Ekitike,fr FRA,FW,Paris S-G,fr Ligue 1,20,0.23,0.31,0.55,0.23,0.55,0.29,0.13,0.42,0.29,0.42
+865,Anthony Elanga,se SWE,FW,Manchester Utd,eng Premier League,20,0.00,0.21,0.21,0.00,0.21,0.15,0.19,0.34,0.15,0.34
+869,Elif Elmas,mk MKD,"FW,MF",Napoli,it Serie A,22,0.33,0.17,0.50,0.28,0.44,0.22,0.11,0.33,0.18,0.29
+870,Mohamed Elneny,eg EGY,MF,Arsenal,eng Premier League,30,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+871,Aritz Elustondo,es ESP,DF,Real Sociedad,es La Liga,28,0.00,0.06,0.06,0.00,0.06,0.04,0.06,0.11,0.04,0.11
+879,Youssef En-Nesyri,ma MAR,FW,Sevilla,es La Liga,25,0.43,0.05,0.49,0.43,0.49,0.44,0.06,0.50,0.44,0.50
+882,Christian Eriksen,dk DEN,MF,Manchester Utd,eng Premier League,30,0.04,0.35,0.40,0.04,0.40,0.22,0.19,0.40,0.22,0.40
+917,Ansu Fati,es ESP,FW,Barcelona,es La Liga,19,0.45,0.19,0.65,0.45,0.65,0.59,0.11,0.69,0.59,0.69
+925,Felipe,br BRA,DF,Atlético Madrid,es La Liga,33,0.00,0.00,0.00,0.00,0.00,0.02,0.01,0.03,0.02,0.03
+928,João Félix,pt POR,"FW,MF",Atlético Madrid,es La Liga,22,0.55,0.42,0.97,0.55,0.97,0.39,0.20,0.59,0.39,0.59
+933,Bruno Fernandes,pt POR,"MF,FW",Manchester Utd,eng Premier League,27,0.22,0.22,0.43,0.16,0.38,0.25,0.45,0.71,0.21,0.66
+939,Carlos Fernández,es ESP,FW,Real Sociedad,es La Liga,26,0.14,0.00,0.14,0.14,0.14,0.34,0.08,0.42,0.34,0.42
+945,Fernando,br BRA,"MF,DF",Sevilla,es La Liga,35,0.00,0.06,0.06,0.00,0.06,0.01,0.04,0.05,0.01,0.05
+959,Alessandro Florenzi,it ITA,DF,Milan,it Serie A,31,0.00,0.00,0.00,0.00,0.00,0.34,0.21,0.54,0.34,0.54
+960,Phil Foden,eng ENG,FW,Manchester City,eng Premier League,22,0.54,0.29,0.83,0.54,0.83,0.29,0.23,0.52,0.29,0.52
+962,Seko Fofana,ci CIV,MF,Lens,fr Ligue 1,27,0.21,0.15,0.35,0.18,0.32,0.27,0.11,0.38,0.22,0.33
+970,Emil Forsberg,se SWE,"MF,FW",RB Leipzig,de Bundesliga,30,0.36,0.24,0.61,0.24,0.49,0.30,0.14,0.43,0.20,0.34
+974,Steven Fortes,cv CPV,DF,Lens,fr Ligue 1,30,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+981,Przemysław Frankowski,pl POL,"DF,MF",Lens,fr Ligue 1,27,0.16,0.10,0.25,0.06,0.16,0.13,0.22,0.35,0.06,0.27
+982,Ryan Fraser,sct SCO,FW,Newcastle Utd,eng Premier League,28,0.00,0.00,0.00,0.00,0.00,0.09,0.11,0.20,0.09,0.20
+985,Fred,br BRA,MF,Manchester Utd,eng Premier League,29,0.14,0.14,0.29,0.14,0.29,0.14,0.21,0.35,0.14,0.35
+995,Angelo Fulgini,fr FRA,"MF,FW",Lens,fr Ligue 1,25,0.10,0.10,0.21,0.10,0.21,0.13,0.29,0.42,0.13,0.42
+998,Matteo Gabbia,it ITA,DF,Milan,it Serie A,22,0.00,0.00,0.00,0.00,0.00,0.01,0.00,0.01,0.01,0.01
+1000,Gianluca Gaetano,it ITA,MF,Napoli,it Serie A,22,1.18,1.18,2.37,1.18,2.37,1.42,0.22,1.64,1.42,1.64
+1001,Roberto Gagliardini,it ITA,MF,Inter,it Serie A,28,0.00,0.00,0.00,0.00,0.00,0.10,0.03,0.13,0.10,0.13
+1015,Ignatius Ganago,cm CMR,FW,Lens,fr Ligue 1,23,0.00,0.00,0.00,0.00,0.00,0.07,0.00,0.07,0.07,0.07
+1023,Eric García,es ESP,"DF,MF",Barcelona,es La Liga,21,0.06,0.00,0.06,0.06,0.06,0.10,0.02,0.11,0.10,0.11
+1029,Alejandro Garnacho,ar ARG,"FW,MF",Manchester Utd,eng Premier League,18,0.47,0.32,0.79,0.47,0.79,0.48,0.16,0.64,0.48,0.64
+1032,Aleix Garrido,es ESP,FW,Barcelona,es La Liga,18,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1036,Gavi,es ESP,"MF,FW",Barcelona,es La Liga,17,0.07,0.14,0.21,0.07,0.21,0.11,0.13,0.24,0.11,0.24
+1038,David de Gea,es ESP,GK,Manchester Utd,eng Premier League,31,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1048,Ismaël Gharbi,es ESP,"MF,FW",Paris S-G,fr Ligue 1,18,0.00,0.00,0.00,0.00,0.00,0.32,0.00,0.32,0.32,0.32
+1054,Niko Gießelmann,de GER,DF,Union Berlin,de Bundesliga,30,0.00,0.14,0.14,0.00,0.14,0.08,0.11,0.19,0.08,0.19
+1058,Bryan Gil,es ESP,"FW,DF",Sevilla,es La Liga,21,0.20,0.20,0.39,0.20,0.39,0.28,0.07,0.35,0.28,0.35
+1061,Mario Gila,es ESP,DF,Lazio,it Serie A,21,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1068,Olivier Giroud,fr FRA,FW,Milan,it Serie A,35,0.55,0.21,0.76,0.42,0.63,0.53,0.17,0.70,0.44,0.61
+1069,Serge Gnabry,de GER,"FW,MF",Bayern Munich,de Bundesliga,27,0.65,0.23,0.88,0.60,0.83,0.52,0.25,0.76,0.48,0.73
+1073,Pierluigi Gollini,it ITA,GK,Napoli,it Serie A,27,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1083,Papu Gómez,ar ARG,"FW,MF",Sevilla,es La Liga,34,0.08,0.08,0.17,0.08,0.17,0.12,0.15,0.27,0.12,0.27
+1085,Sergio Gómez,es ESP,"DF,MF",Manchester City,eng Premier League,21,0.00,0.26,0.26,0.00,0.26,0.09,0.30,0.39,0.09,0.39
+1086,Antonio Gomis,es ESP,GK,Atlético Madrid,es La Liga,19,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1098,Anthony Gordon,eng ENG,"FW,MF",Newcastle Utd,eng Premier League,21,0.18,0.00,0.18,0.18,0.18,0.31,0.17,0.48,0.31,0.48
+1100,Leon Goretzka,de GER,MF,Bayern Munich,de Bundesliga,27,0.16,0.10,0.26,0.16,0.26,0.25,0.12,0.37,0.25,0.37
+1101,Andoni Gorosabel,es ESP,DF,Real Sociedad,es La Liga,25,0.00,0.00,0.00,0.00,0.00,0.03,0.05,0.08,0.03,0.08
+1102,Robin Gosens,de GER,DF,Inter,it Serie A,28,0.23,0.00,0.23,0.23,0.23,0.23,0.18,0.41,0.23,0.41
+1107,Jonathan Gradit,fr FRA,DF,Lens,fr Ligue 1,29,0.03,0.10,0.13,0.03,0.13,0.03,0.04,0.06,0.03,0.06
+1110,Ryan Gravenberch,nl NED,MF,Bayern Munich,de Bundesliga,20,0.00,0.00,0.00,0.00,0.00,0.14,0.08,0.21,0.14,0.21
+1115,Ivo Grbić,hr CRO,GK,Atlético Madrid,es La Liga,26,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1116,Jack Grealish,eng ENG,FW,Manchester City,eng Premier League,26,0.22,0.31,0.53,0.22,0.53,0.20,0.31,0.51,0.20,0.51
+1123,Antoine Griezmann,fr FRA,"FW,MF",Atlético Madrid,es La Liga,31,0.47,0.50,0.98,0.47,0.98,0.39,0.44,0.83,0.39,0.83
+1125,Lennart Grill,de GER,GK,Union Berlin,de Bundesliga,23,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1135,Nemanja Gudelj,rs SRB,"DF,MF",Sevilla,es La Liga,30,0.10,0.03,0.13,0.10,0.13,0.06,0.01,0.07,0.06,0.07
+1142,Raphaël Guerreiro,pt POR,"DF,MF",Dortmund,de Bundesliga,28,0.16,0.47,0.63,0.16,0.63,0.11,0.30,0.41,0.11,0.41
+1146,Ander Guevara,es ESP,MF,Real Sociedad,es La Liga,25,0.00,0.00,0.00,0.00,0.00,0.01,0.28,0.29,0.01,0.29
+1147,Pape Gueye,sn SEN,MF,Sevilla,es La Liga,23,0.08,0.23,0.31,0.08,0.31,0.10,0.09,0.18,0.10,0.18
+1151,Bruno Guimarães,br BRA,MF,Newcastle Utd,eng Premier League,24,0.13,0.17,0.30,0.13,0.30,0.09,0.13,0.23,0.09,0.23
+1155,Péter Gulácsi,hu HUN,GK,RB Leipzig,de Bundesliga,32,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1159,İlkay Gündoğan,de GER,MF,Manchester City,eng Premier League,31,0.31,0.15,0.46,0.31,0.46,0.29,0.13,0.41,0.26,0.38
+1167,Joško Gvardiol,hr CRO,DF,RB Leipzig,de Bundesliga,20,0.04,0.00,0.04,0.04,0.04,0.08,0.03,0.10,0.08,0.10
+1173,Erling Haaland,no NOR,FW,Manchester City,eng Premier League,22,1.17,0.26,1.43,0.94,1.20,0.92,0.17,1.10,0.75,0.92
+1175,Janik Haberer,de GER,MF,Union Berlin,de Bundesliga,28,0.21,0.04,0.25,0.21,0.25,0.13,0.09,0.22,0.13,0.22
+1181,Amadou Haidara,ml MLI,MF,RB Leipzig,de Bundesliga,24,0.13,0.06,0.19,0.13,0.19,0.18,0.09,0.27,0.18,0.27
+1182,Massadio Haïdara,ml MLI,"DF,MF",Lens,fr Ligue 1,29,0.00,0.05,0.05,0.00,0.05,0.11,0.06,0.17,0.11,0.17
+1183,Achraf Hakimi,ma MAR,"DF,MF",Paris S-G,fr Ligue 1,23,0.22,0.13,0.35,0.22,0.35,0.17,0.13,0.30,0.17,0.30
+1185,Sébastien Haller,ci CIV,FW,Dortmund,de Bundesliga,28,0.66,0.22,0.88,0.66,0.88,0.62,0.17,0.79,0.56,0.73
+1186,Marcel Halstenberg,de GER,DF,RB Leipzig,de Bundesliga,30,0.06,0.06,0.12,0.06,0.12,0.06,0.12,0.19,0.06,0.19
+1192,Samir Handanović,si SVN,GK,Inter,it Serie A,38,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1194,Genki Haraguchi,jp JPN,MF,Union Berlin,de Bundesliga,31,0.00,0.00,0.00,0.00,0.00,0.05,0.05,0.09,0.05,0.09
+1204,Eden Hazard,be BEL,FW,Real Madrid,es La Liga,31,0.00,0.46,0.46,0.00,0.46,0.45,0.23,0.67,0.08,0.31
+1205,Thorgan Hazard,be BEL,"FW,DF",Dortmund,de Bundesliga,29,0.00,0.00,0.00,0.00,0.00,0.26,0.18,0.44,0.26,0.44
+1217,Benjamin Henrichs,de GER,"DF,MF",RB Leipzig,de Bundesliga,25,0.08,0.08,0.16,0.08,0.16,0.05,0.07,0.12,0.05,0.12
+1225,Mario Hermoso,es ESP,DF,Atlético Madrid,es La Liga,27,0.13,0.09,0.21,0.13,0.21,0.09,0.06,0.15,0.09,0.15
+1228,Lucas Hernández,fr FRA,DF,Bayern Munich,de Bundesliga,26,0.00,0.00,0.00,0.00,0.00,0.00,0.03,0.03,0.00,0.03
+1231,Theo Hernández,fr FRA,DF,Milan,it Serie A,24,0.13,0.10,0.23,0.10,0.19,0.13,0.11,0.24,0.11,0.21
+1250,Rob Holding,eng ENG,DF,Arsenal,eng Premier League,26,0.16,0.00,0.16,0.16,0.16,0.05,0.00,0.05,0.05,0.05
+1261,Ilyes Housni,fr FRA,FW,Paris S-G,fr Ligue 1,17,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1268,Mats Hummels,de GER,DF,Dortmund,de Bundesliga,33,0.04,0.00,0.04,0.04,0.04,0.10,0.05,0.15,0.10,0.15
+1272,Elseid Hysaj,al ALB,DF,Lazio,it Serie A,28,0.05,0.05,0.09,0.05,0.09,0.01,0.05,0.06,0.01,0.06
+1279,Arijon Ibrahimović,de GER,MF,Bayern Munich,de Bundesliga,16,0.00,0.00,0.00,0.00,0.00,3.31,0.37,3.68,3.31,3.68
+1280,Zlatan Ibrahimović,se SWE,FW,Milan,it Serie A,40,0.62,0.00,0.62,0.00,0.00,0.72,0.11,0.84,0.24,0.35
+1294,Asier Illarramendi,es ESP,MF,Real Sociedad,es La Liga,32,0.08,0.00,0.08,0.08,0.08,0.07,0.03,0.10,0.07,0.10
+1295,Ciro Immobile,it ITA,FW,Lazio,it Serie A,32,0.49,0.20,0.69,0.32,0.53,0.57,0.08,0.65,0.42,0.49
+1301,Alexander Isak,se SWE,FW,Newcastle Utd,eng Premier League,22,0.59,0.06,0.65,0.47,0.53,0.49,0.13,0.62,0.40,0.52
+1302,Alexander Isak,se SWE,FW,Real Sociedad,es La Liga,22,0.59,0.00,0.59,0.59,0.59,0.12,0.06,0.18,0.12,0.18
+1303,Isco,es ESP,"MF,FW",Sevilla,es La Liga,30,0.00,0.23,0.23,0.00,0.23,0.05,0.19,0.24,0.05,0.24
+1309,Diego Iturralde,es ESP,DF,Sevilla,es La Liga,19,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1317,Paul Jaeckel,de GER,DF,Union Berlin,de Bundesliga,24,0.08,0.00,0.08,0.08,0.08,0.01,0.00,0.01,0.01,0.01
+1330,Adnan Januzaj,be BEL,FW,Sevilla,es La Liga,27,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1341,Gabriel Jesus,br BRA,FW,Arsenal,eng Premier League,25,0.48,0.26,0.74,0.44,0.70,0.61,0.17,0.78,0.58,0.75
+1342,Juan Jesus,br BRA,DF,Napoli,it Serie A,31,0.10,0.00,0.10,0.10,0.10,0.02,0.01,0.02,0.02,0.02
+1345,Joelinton,br BRA,"MF,FW",Newcastle Utd,eng Premier League,25,0.20,0.03,0.24,0.20,0.24,0.24,0.08,0.32,0.24,0.32
+1353,Frenkie de Jong,nl NED,MF,Barcelona,es La Liga,25,0.07,0.14,0.21,0.07,0.21,0.09,0.15,0.24,0.09,0.24
+1354,Joan Jordán,es ESP,MF,Sevilla,es La Liga,28,0.00,0.06,0.06,0.00,0.06,0.05,0.03,0.08,0.05,0.08
+1355,Jorginho,it ITA,MF,Arsenal,eng Premier League,30,0.00,0.11,0.11,0.00,0.11,0.02,0.02,0.04,0.02,0.04
+1373,Vinicius Júnior,br BRA,FW,Real Madrid,es La Liga,22,0.32,0.29,0.61,0.32,0.61,0.34,0.30,0.63,0.34,0.63
+1374,Josip Juranović,hr CRO,DF,Union Berlin,de Bundesliga,26,0.19,0.10,0.29,0.10,0.19,0.15,0.14,0.30,0.08,0.22
+1386,Gaël Kakuta,cd COD,FW,Lens,fr Ligue 1,31,0.00,0.00,0.00,0.00,0.00,0.19,0.00,0.19,0.19,0.19
+1392,Pierre Kalulu,fr FRA,DF,Milan,it Serie A,22,0.04,0.00,0.04,0.04,0.04,0.05,0.04,0.10,0.05,0.10
+1400,Kevin Kampl,si SVN,MF,RB Leipzig,de Bundesliga,31,0.13,0.13,0.26,0.13,0.26,0.07,0.07,0.14,0.07,0.14
+1411,Jon Karrikaburu,es ESP,FW,Real Sociedad,es La Liga,19,0.00,0.00,0.00,0.00,0.00,0.28,0.31,0.60,0.28,0.60
+1431,Franck Kessié,ci CIV,MF,Barcelona,es La Liga,25,0.09,0.09,0.18,0.09,0.18,0.16,0.07,0.23,0.16,0.23
+1434,Rani Khedira,de GER,MF,Union Berlin,de Bundesliga,28,0.06,0.00,0.06,0.06,0.06,0.05,0.02,0.07,0.05,0.07
+1439,Joshua Kimmich,de GER,MF,Bayern Munich,de Bundesliga,27,0.16,0.19,0.35,0.13,0.32,0.07,0.22,0.30,0.05,0.27
+1440,Presnel Kimpembe,fr FRA,DF,Paris S-G,fr Ligue 1,26,0.00,0.00,0.00,0.00,0.00,0.08,0.02,0.10,0.08,0.10
+1441,Jakub Kiwior,pl POL,DF,Arsenal,eng Premier League,22,0.21,0.00,0.21,0.21,0.21,0.02,0.01,0.03,0.02,0.03
+1443,Simon Kjær,dk DEN,DF,Milan,it Serie A,33,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1446,Lukas Klostermann,de GER,DF,RB Leipzig,de Bundesliga,26,0.00,0.00,0.00,0.00,0.00,0.03,0.01,0.05,0.03,0.05
+1449,Robin Knoche,de GER,DF,Union Berlin,de Bundesliga,30,0.06,0.09,0.16,0.03,0.13,0.07,0.03,0.10,0.03,0.05
+1450,Gregor Kobel,ch SUI,GK,Dortmund,de Bundesliga,24,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1456,Koke,es ESP,MF,Atlético Madrid,es La Liga,30,0.00,0.11,0.11,0.00,0.11,0.03,0.06,0.09,0.03,0.09
+1463,Geoffrey Kondogbia,cf CTA,MF,Atlético Madrid,es La Liga,29,0.00,0.18,0.18,0.00,0.18,0.07,0.08,0.14,0.07,0.14
+1476,Jules Koundé,fr FRA,DF,Barcelona,es La Liga,23,0.04,0.11,0.15,0.04,0.15,0.04,0.10,0.15,0.04,0.15
+1483,Emil Krafth,se SWE,DF,Newcastle Utd,eng Premier League,27,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1490,Toni Kroos,de GER,MF,Real Madrid,es La Liga,32,0.08,0.17,0.25,0.08,0.25,0.06,0.19,0.24,0.06,0.24
+1491,Rade Krunić,ba BIH,MF,Milan,it Serie A,28,0.00,0.05,0.05,0.00,0.05,0.06,0.06,0.12,0.06,0.12
+1494,Takefusa Kubo,jp JPN,"FW,MF",Real Sociedad,es La Liga,21,0.33,0.15,0.48,0.33,0.48,0.21,0.22,0.43,0.21,0.43
+1501,Khvicha Kvaratskhelia,ge GEO,FW,Napoli,it Serie A,21,0.43,0.36,0.79,0.36,0.71,0.29,0.27,0.56,0.23,0.51
+1509,Rémy Labeau Lascary,gp GLP,"FW,MF",Lens,fr Ligue 1,19,0.00,0.00,0.00,0.00,0.00,0.28,0.03,0.32,0.28,0.32
+1516,Aïssa Laïdouni,tn TUN,MF,Union Berlin,de Bundesliga,25,0.21,0.00,0.21,0.21,0.21,0.09,0.09,0.18,0.09,0.18
+1517,Konrad Laimer,at AUT,MF,RB Leipzig,de Bundesliga,25,0.18,0.00,0.18,0.18,0.18,0.15,0.14,0.29,0.15,0.29
+1522,Érik Lamela,ar ARG,"FW,MF",Sevilla,es La Liga,30,0.29,0.00,0.29,0.29,0.29,0.26,0.07,0.33,0.26,0.33
+1528,Aymeric Laporte,es ESP,DF,Manchester City,eng Premier League,28,0.00,0.00,0.00,0.00,0.00,0.04,0.02,0.06,0.04,0.06
+1536,Jamaal Lascelles,eng ENG,DF,Newcastle Utd,eng Premier League,28,0.00,0.00,0.00,0.00,0.00,0.04,0.00,0.04,0.04,0.04
+1545,Marko Lazetić,rs SRB,FW,Milan,it Serie A,18,0.00,0.00,0.00,0.00,0.00,0.63,0.00,0.63,0.63,0.63
+1547,Manuel Lazzari,it ITA,DF,Lazio,it Serie A,28,0.00,0.00,0.00,0.00,0.00,0.02,0.03,0.05,0.02,0.05
+1549,Julien Le Cardinal,fr FRA,DF,Lens,fr Ligue 1,24,0.00,0.00,0.00,0.00,0.00,0.31,0.35,0.66,0.31,0.66
+1554,Robin Le Normand,es ESP,DF,Real Sociedad,es La Liga,25,0.00,0.00,0.00,0.00,0.00,0.03,0.00,0.03,0.03,0.03
+1555,Rafael Leão,pt POR,"FW,MF",Milan,it Serie A,23,0.56,0.30,0.86,0.56,0.86,0.40,0.26,0.66,0.40,0.66
+1557,Jean-Louis Leca,fr FRA,GK,Lens,fr Ligue 1,36,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1563,Diogo Leite,pt POR,DF,Union Berlin,de Bundesliga,23,0.00,0.04,0.04,0.00,0.04,0.03,0.01,0.05,0.03,0.05
+1567,Thomas Lemar,fr FRA,MF,Atlético Madrid,es La Liga,26,0.07,0.22,0.29,0.07,0.29,0.07,0.14,0.21,0.07,0.21
+1583,Alexandre Letellier,fr FRA,GK,Paris S-G,fr Ligue 1,31,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1586,Robert Lewandowski,pl POL,FW,Barcelona,es La Liga,33,0.73,0.22,0.95,0.73,0.95,0.77,0.20,0.97,0.74,0.94
+1587,Jamie Leweling,de GER,"FW,MF",Union Berlin,de Bundesliga,21,0.34,0.34,0.68,0.34,0.68,0.22,0.09,0.32,0.22,0.32
+1588,Jamal Lewis,nir NIR,"DF,FW",Newcastle Utd,eng Premier League,24,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1589,Rico Lewis,eng ENG,"DF,MF",Manchester City,eng Premier League,17,0.00,0.00,0.00,0.00,0.00,0.02,0.15,0.17,0.02,0.17
+1593,Matthijs de Ligt,nl NED,DF,Bayern Munich,de Bundesliga,22,0.11,0.04,0.15,0.11,0.15,0.04,0.02,0.06,0.04,0.06
+1595,Victor Lindelöf,se SWE,DF,Manchester Utd,eng Premier League,28,0.00,0.00,0.00,0.00,0.00,0.02,0.01,0.03,0.02,0.03
+1607,Marcos Llorente,es ESP,"MF,DF",Atlético Madrid,es La Liga,27,0.05,0.11,0.16,0.05,0.16,0.11,0.20,0.32,0.11,0.32
+1610,Stanislav Lobotka,sk SVK,MF,Napoli,it Serie A,27,0.03,0.03,0.06,0.03,0.06,0.02,0.03,0.05,0.02,0.05
+1618,Sean Longstaff,eng ENG,MF,Newcastle Utd,eng Premier League,24,0.04,0.14,0.18,0.04,0.18,0.13,0.12,0.25,0.13,0.25
+1636,Hirving Lozano,mx MEX,FW,Napoli,it Serie A,27,0.17,0.17,0.34,0.11,0.28,0.30,0.19,0.49,0.26,0.45
+1645,Romelu Lukaku,be BEL,FW,Inter,it Serie A,29,0.54,0.33,0.87,0.43,0.76,0.49,0.22,0.71,0.40,0.62
+1650,Andriy Lunin,ua UKR,GK,Real Madrid,es La Liga,23,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1658,Deiver Machado,co COL,"DF,MF",Lens,fr Ligue 1,28,0.16,0.12,0.29,0.16,0.29,0.05,0.12,0.17,0.05,0.17
+1670,Harry Maguire,eng ENG,DF,Manchester Utd,eng Premier League,29,0.00,0.00,0.00,0.00,0.00,0.04,0.00,0.04,0.04,0.04
+1671,Jon Magunacelaya,es ESP,"MF,FW",Real Sociedad,es La Liga,22,0.00,0.00,0.00,0.00,0.00,0.03,0.56,0.59,0.03,0.59
+1672,Riyad Mahrez,dz ALG,"FW,MF",Manchester City,eng Premier League,31,0.23,0.47,0.70,0.19,0.66,0.26,0.33,0.59,0.22,0.55
+1674,Mike Maignan,fr FRA,GK,Milan,it Serie A,27,0.00,0.05,0.05,0.00,0.05,0.00,0.00,0.00,0.00,0.00
+1676,Kobbie Mainoo,eng ENG,MF,Manchester Utd,eng Premier League,17,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1684,Tyrell Malacia,nl NED,DF,Manchester Utd,eng Premier League,22,0.00,0.00,0.00,0.00,0.00,0.02,0.04,0.06,0.02,0.06
+1690,Donyell Malen,nl NED,FW,Dortmund,de Bundesliga,23,0.47,0.32,0.79,0.47,0.79,0.48,0.23,0.71,0.48,0.71
+1699,Reinildo Mandava,mz MOZ,DF,Atlético Madrid,es La Liga,28,0.00,0.00,0.00,0.00,0.00,0.02,0.03,0.04,0.02,0.04
+1702,Sadio Mané,sn SEN,"FW,MF",Bayern Munich,de Bundesliga,30,0.44,0.32,0.76,0.38,0.69,0.56,0.25,0.81,0.46,0.70
+1706,Javier Manquillo,es ESP,DF,Newcastle Utd,eng Premier League,28,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1711,Marcão,br BRA,DF,Sevilla,es La Liga,26,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1724,José María Giménez,uy URU,DF,Atlético Madrid,es La Liga,27,0.07,0.04,0.11,0.07,0.11,0.07,0.02,0.10,0.07,0.10
+1725,Mariano,do DOM,FW,Real Madrid,es La Liga,28,0.00,0.00,0.00,0.00,0.00,0.32,0.25,0.57,0.32,0.57
+1726,Pablo Marín,es ESP,"MF,FW",Real Sociedad,es La Liga,19,0.00,0.00,0.00,0.00,0.00,0.31,0.20,0.51,0.31,0.51
+1732,Marquinhos,br BRA,MF,Arsenal,eng Premier League,19,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1733,Marquinhos,br BRA,DF,Paris S-G,fr Ligue 1,28,0.07,0.00,0.07,0.07,0.07,0.07,0.02,0.09,0.07,0.09
+1738,Anthony Martial,fr FRA,FW,Manchester Utd,eng Premier League,26,0.55,0.18,0.74,0.46,0.64,0.58,0.13,0.70,0.50,0.63
+1740,Ander Martin,es ESP,"MF,FW",Real Sociedad,es La Liga,21,0.00,0.00,0.00,0.00,0.00,0.00,0.26,0.26,0.00,0.26
+1743,Carlos Martín,es ESP,"FW,MF",Atlético Madrid,es La Liga,20,0.00,0.00,0.00,0.00,0.00,0.20,0.00,0.20,0.20,0.20
+1746,Gabriel Martinelli,br BRA,FW,Arsenal,eng Premier League,21,0.48,0.16,0.65,0.48,0.65,0.30,0.29,0.59,0.30,0.59
+1750,Lautaro Martínez,ar ARG,FW,Inter,it Serie A,24,0.73,0.21,0.94,0.70,0.91,0.63,0.19,0.82,0.58,0.76
+1751,Lisandro Martínez,ar ARG,DF,Manchester Utd,eng Premier League,24,0.04,0.00,0.04,0.04,0.04,0.02,0.01,0.03,0.02,0.03
+1755,Adam Marušić,me MNE,DF,Lazio,it Serie A,29,0.00,0.07,0.07,0.00,0.07,0.02,0.03,0.06,0.02,0.06
+1780,Eric Maxim Choupo-Moting,cm CMR,FW,Bayern Munich,de Bundesliga,33,0.81,0.16,0.97,0.81,0.97,0.49,0.16,0.65,0.43,0.59
+1781,Luís Maximiano,pt POR,GK,Lazio,it Serie A,23,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1787,Noussair Mazraoui,ma MAR,DF,Bayern Munich,de Bundesliga,24,0.08,0.33,0.42,0.08,0.42,0.09,0.16,0.25,0.09,0.25
+1791,Kylian Mbappé,fr FRA,FW,Paris S-G,fr Ligue 1,23,0.93,0.16,1.09,0.83,0.99,0.84,0.23,1.07,0.71,0.94
+1807,Scott McTominay,sct SCO,MF,Manchester Utd,eng Premier League,25,0.08,0.00,0.08,0.08,0.08,0.15,0.04,0.19,0.15,0.19
+1809,Facundo Medina,ar ARG,DF,Lens,fr Ligue 1,23,0.06,0.13,0.19,0.06,0.19,0.08,0.06,0.14,0.08,0.14
+1817,Memphis,nl NED,FW,Atlético Madrid,es La Liga,28,1.33,0.00,1.33,1.33,1.33,1.00,0.16,1.16,1.00,1.16
+1818,Memphis,nl NED,FW,Barcelona,es La Liga,28,0.79,0.00,0.79,0.79,0.79,0.68,0.11,0.79,0.68,0.79
+1821,Nuno Mendes,pt POR,DF,Paris S-G,fr Ligue 1,20,0.06,0.35,0.41,0.06,0.41,0.06,0.17,0.23,0.06,0.23
+1824,Brais Méndez,es ESP,MF,Real Sociedad,es La Liga,25,0.30,0.15,0.45,0.30,0.45,0.21,0.14,0.35,0.21,0.35
+1830,Ferland Mendy,fr FRA,DF,Real Madrid,es La Liga,27,0.00,0.07,0.07,0.00,0.07,0.02,0.04,0.06,0.02,0.06
+1835,Alex Meret,it ITA,GK,Napoli,it Serie A,25,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1836,Mikel Merino,es ESP,MF,Real Sociedad,es La Liga,26,0.07,0.32,0.40,0.07,0.40,0.15,0.20,0.35,0.13,0.32
+1841,Lionel Messi,ar ARG,"FW,MF",Paris S-G,fr Ligue 1,35,0.51,0.51,1.02,0.51,1.02,0.49,0.43,0.92,0.49,0.92
+1842,Junior Messias,br BRA,"FW,DF",Milan,it Serie A,31,0.30,0.12,0.42,0.30,0.42,0.14,0.05,0.18,0.14,0.18
+1844,Thomas Meunier,be BEL,DF,Dortmund,de Bundesliga,30,0.00,0.00,0.00,0.00,0.00,0.03,0.09,0.12,0.03,0.12
+1846,Alexander Meyer,de GER,GK,Dortmund,de Bundesliga,31,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1847,Sven Michel,de GER,"FW,MF",Union Berlin,de Bundesliga,32,0.55,0.18,0.73,0.36,0.55,0.30,0.16,0.46,0.16,0.32
+1851,Lewis Miley,eng ENG,MF,Newcastle Utd,eng Premier League,16,0.00,0.00,0.00,0.00,0.00,0.42,0.00,0.42,0.42,0.42
+1854,Sergej Milinković-Savić,rs SRB,MF,Lazio,it Serie A,27,0.27,0.24,0.51,0.27,0.51,0.20,0.21,0.41,0.20,0.41
+1856,Éder Militão,br BRA,DF,Real Madrid,es La Liga,24,0.17,0.00,0.17,0.17,0.17,0.08,0.02,0.10,0.08,0.10
+1863,Kim Min-jae,kr KOR,DF,Napoli,it Serie A,25,0.06,0.06,0.12,0.06,0.12,0.03,0.06,0.09,0.03,0.09
+1868,Rafa Mir,es ESP,FW,Sevilla,es La Liga,25,0.42,0.00,0.42,0.42,0.42,0.51,0.07,0.58,0.51,0.58
+1872,Antonio Mirante,it ITA,GK,Milan,it Serie A,39,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+1880,Henrikh Mkhitaryan,am ARM,MF,Inter,it Serie A,33,0.14,0.09,0.23,0.14,0.23,0.13,0.10,0.22,0.13,0.22
+1881,Anthony Modeste,fr FRA,FW,Dortmund,de Bundesliga,34,0.22,0.11,0.33,0.22,0.33,0.48,0.12,0.60,0.48,0.60
+1882,Luka Modrić,hr CRO,MF,Real Madrid,es La Liga,36,0.21,0.15,0.36,0.15,0.31,0.22,0.23,0.45,0.18,0.41
+1890,Nahuel Molina,ar ARG,DF,Atlético Madrid,es La Liga,24,0.13,0.06,0.19,0.13,0.19,0.08,0.12,0.20,0.08,0.20
+1899,Gonzalo Montiel,ar ARG,DF,Sevilla,es La Liga,25,0.00,0.18,0.18,0.00,0.18,0.04,0.13,0.17,0.04,0.17
+1904,Álvaro Morata,es ESP,FW,Atlético Madrid,es La Liga,29,0.62,0.09,0.71,0.62,0.71,0.56,0.09,0.65,0.56,0.65
+1921,Youssoufa Moukoko,de GER,FW,Dortmund,de Bundesliga,17,0.55,0.24,0.79,0.55,0.79,0.50,0.14,0.65,0.50,0.65
+1933,Nordi Mukiele,fr FRA,DF,Paris S-G,fr Ligue 1,24,0.00,0.24,0.24,0.00,0.24,0.08,0.17,0.25,0.08,0.25
+1936,Thomas Müller,de GER,"FW,MF",Bayern Munich,de Bundesliga,32,0.38,0.43,0.81,0.38,0.81,0.48,0.36,0.84,0.48,0.84
+1940,Aihen Muñoz,es ESP,DF,Real Sociedad,es La Liga,24,0.00,0.05,0.05,0.00,0.05,0.01,0.05,0.06,0.01,0.06
+1941,Álvaro Muñoz,uy URU,FW,Real Madrid,es La Liga,18,1.14,1.14,2.28,1.14,2.28,0.28,0.33,0.60,0.28,0.60
+1947,Jacob Murphy,eng ENG,FW,Newcastle Utd,eng Premier League,27,0.29,0.14,0.43,0.29,0.43,0.24,0.20,0.44,0.24,0.44
+1951,Jamal Musiala,de GER,"MF,FW",Bayern Munich,de Bundesliga,19,0.49,0.41,0.90,0.49,0.90,0.33,0.27,0.60,0.33,0.60
+1964,Nacho,es ESP,DF,Real Madrid,es La Liga,32,0.05,0.05,0.11,0.05,0.11,0.04,0.05,0.09,0.04,0.09
+1968,Roberto Navarro,es ESP,"MF,FW",Real Sociedad,es La Liga,20,0.00,0.00,0.00,0.00,0.00,0.26,0.32,0.58,0.26,0.58
+1969,Jesús Navas,es ESP,"DF,FW",Sevilla,es La Liga,36,0.00,0.00,0.00,0.00,0.00,0.01,0.13,0.14,0.01,0.14
+1976,Tanguy Ndombele,fr FRA,MF,Napoli,it Serie A,25,0.11,0.00,0.11,0.11,0.11,0.11,0.05,0.16,0.11,0.16
+1978,Reiss Nelson,eng ENG,FW,Arsenal,eng Premier League,22,1.27,0.85,2.12,1.27,2.12,0.46,0.58,1.04,0.46,1.04
+1983,Manuel Neuer,de GER,GK,Bayern Munich,de Bundesliga,36,0.00,0.00,0.00,0.00,0.00,0.02,0.00,0.02,0.02,0.02
+1986,Neymar,br BRA,"MF,FW",Paris S-G,fr Ligue 1,30,0.76,0.64,1.40,0.64,1.28,0.47,0.51,0.98,0.38,0.89
+1992,Tanguy Nianzou,fr FRA,DF,Sevilla,es La Liga,20,0.07,0.00,0.07,0.07,0.07,0.03,0.00,0.03,0.03,0.03
+1997,Saúl Ñíguez,es ESP,"MF,DF",Atlético Madrid,es La Liga,27,0.25,0.08,0.33,0.25,0.33,0.20,0.05,0.25,0.20,0.25
+2002,Justin Njinmah,de GER,FW,Dortmund,de Bundesliga,21,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2003,Eddie Nketiah,eng ENG,FW,Arsenal,eng Premier League,23,0.33,0.08,0.41,0.33,0.41,0.68,0.11,0.78,0.68,0.78
+2004,Christopher Nkunku,fr FRA,"FW,MF",RB Leipzig,de Bundesliga,24,0.76,0.19,0.95,0.62,0.81,0.68,0.20,0.89,0.54,0.74
+2009,Hugo Novoa,es ESP,"DF,FW",RB Leipzig,de Bundesliga,19,0.49,0.00,0.49,0.49,0.49,0.43,0.02,0.45,0.43,0.45
+2019,Ethan Nwaneri,eng ENG,FW,Arsenal,eng Premier League,15,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2021,Ørjan Nyland,no NOR,GK,RB Leipzig,de Bundesliga,31,0.00,0.50,0.50,0.00,0.50,0.00,0.06,0.06,0.00,0.06
+2026,Jan Oblak,si SVN,GK,Atlético Madrid,es La Liga,29,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2029,Lucas Ocampos,ar ARG,"FW,MF",Sevilla,es La Liga,28,0.31,0.00,0.31,0.08,0.08,0.35,0.11,0.45,0.17,0.27
+2032,Álvaro Odriozola,es ESP,DF,Real Madrid,es La Liga,26,0.00,0.00,0.00,0.00,0.00,0.56,0.66,1.22,0.56,1.22
+2040,Olasagasti,es ESP,"MF,DF",Real Sociedad,es La Liga,21,0.00,0.00,0.00,0.00,0.00,0.07,0.00,0.07,0.07,0.07
+2047,Mathías Olivera,uy URU,DF,Napoli,it Serie A,24,0.11,0.11,0.22,0.11,0.22,0.04,0.12,0.16,0.04,0.16
+2048,Dani Olmo,es ESP,"MF,FW",RB Leipzig,de Bundesliga,24,0.14,0.35,0.49,0.14,0.49,0.21,0.32,0.52,0.21,0.52
+2057,André Onana,cm CMR,GK,Inter,it Serie A,26,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2058,Jean Onana,cm CMR,"MF,DF",Lens,fr Ligue 1,22,0.00,0.00,0.00,0.00,0.00,0.04,0.04,0.08,0.04,0.08
+2063,Loïs Openda,be BEL,FW,Lens,fr Ligue 1,22,0.75,0.14,0.89,0.72,0.86,0.66,0.14,0.80,0.63,0.77
+2064,Willi Orban,hu HUN,DF,RB Leipzig,de Bundesliga,29,0.12,0.00,0.12,0.12,0.12,0.09,0.01,0.10,0.09,0.10
+2066,Divock Origi,be BEL,FW,Milan,it Serie A,27,0.18,0.09,0.26,0.18,0.26,0.19,0.10,0.29,0.19,0.29
+2070,Stefan Ortega,de GER,GK,Manchester City,eng Premier League,29,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2071,Pedro Ortiz,es ESP,MF,Sevilla,es La Liga,21,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2073,Victor Osimhen,ng NGA,FW,Napoli,it Serie A,23,0.91,0.14,1.05,0.84,0.98,0.75,0.10,0.85,0.66,0.76
+2083,Adam Ounas,dz ALG,FW,Napoli,it Serie A,25,0.00,0.00,0.00,0.00,0.00,0.23,0.00,0.23,0.23,0.23
+2088,Mikel Oyarzabal,es ESP,"FW,MF",Real Sociedad,es La Liga,25,0.30,0.07,0.37,0.15,0.22,0.34,0.16,0.51,0.17,0.33
+2089,Salih Özcan,tr TUR,MF,Dortmund,de Bundesliga,24,0.00,0.06,0.06,0.00,0.06,0.03,0.03,0.06,0.03,0.06
+2092,Levin Öztunalı,de GER,MF,Union Berlin,de Bundesliga,26,0.00,10.00,10.00,0.00,10.00,0.00,1.91,1.91,0.00,1.91
+2095,Jon Pacheco,es ESP,DF,Real Sociedad,es La Liga,21,0.00,0.08,0.08,0.00,0.08,0.01,0.01,0.01,0.01,0.01
+2104,Cole Palmer,eng ENG,"MF,FW",Manchester City,eng Premier League,20,0.00,0.24,0.24,0.00,0.24,0.30,0.14,0.44,0.30,0.44
+2108,Miloš Pantović,rs SRB,MF,Union Berlin,de Bundesliga,26,0.44,0.00,0.44,0.44,0.44,0.60,0.00,0.60,0.25,0.25
+2110,Antonios Papadopoulos,de GER,DF,Dortmund,de Bundesliga,22,0.00,0.00,0.00,0.00,0.00,0.10,0.00,0.10,0.10,0.10
+2116,Leandro Paredes,ar ARG,MF,Paris S-G,fr Ligue 1,28,0.00,1.73,1.73,0.00,1.73,0.00,0.72,0.72,0.00,0.72
+2121,Thomas Partey,gh GHA,MF,Arsenal,eng Premier League,29,0.11,0.00,0.11,0.11,0.11,0.08,0.06,0.14,0.08,0.14
+2122,Marco Pašalić,hr CRO,MF,Dortmund,de Bundesliga,21,0.00,0.00,0.00,0.00,0.00,0.40,0.00,0.40,0.40,0.40
+2125,Felix Passlack,de GER,DF,Dortmund,de Bundesliga,24,0.00,0.00,0.00,0.00,0.00,0.00,0.56,0.56,0.00,0.56
+2127,Patric,es ESP,DF,Lazio,it Serie A,29,0.00,0.00,0.00,0.00,0.00,0.01,0.00,0.01,0.01,0.01
+2133,Benjamin Pavard,fr FRA,DF,Bayern Munich,de Bundesliga,26,0.15,0.04,0.19,0.15,0.19,0.09,0.09,0.18,0.09,0.18
+2140,Pedri,es ESP,MF,Barcelona,es La Liga,19,0.27,0.05,0.32,0.27,0.32,0.22,0.23,0.45,0.22,0.45
+2141,Pedro,es ESP,FW,Lazio,it Serie A,35,0.19,0.14,0.33,0.19,0.33,0.16,0.13,0.29,0.16,0.29
+2143,Jordan Pefok,us USA,FW,Union Berlin,de Bundesliga,26,0.27,0.27,0.53,0.27,0.53,0.30,0.12,0.42,0.19,0.31
+2149,Luca Pellegrini,it ITA,DF,Lazio,it Serie A,23,0.00,0.00,0.00,0.00,0.00,0.04,0.11,0.15,0.04,0.15
+2152,Facundo Pellistri,uy URU,"FW,MF",Manchester Utd,eng Premier League,20,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2153,Timothee Pembele,fr FRA,DF,Paris S-G,fr Ligue 1,19,0.00,0.34,0.34,0.00,0.34,0.05,0.11,0.17,0.05,0.17
+2154,Iñaki Peña,es ESP,GK,Barcelona,es La Liga,23,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2165,Danilo Pereira,pt POR,"DF,MF",Paris S-G,fr Ligue 1,30,0.07,0.00,0.07,0.07,0.07,0.09,0.02,0.10,0.09,0.10
+2185,Máximo Perrone,ar ARG,MF,Manchester City,eng Premier League,19,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2196,Kalvin Phillips,eng ENG,MF,Manchester City,eng Premier League,26,0.00,0.00,0.00,0.00,0.00,0.10,0.05,0.14,0.10,0.14
+2210,Gerard Piqué,es ESP,DF,Barcelona,es La Liga,35,0.00,0.00,0.00,0.00,0.00,0.09,0.01,0.09,0.09,0.09
+2218,Tommaso Pobega,it ITA,MF,Milan,it Serie A,23,0.20,0.00,0.20,0.20,0.20,0.15,0.03,0.17,0.15,0.17
+2222,Matteo Politano,it ITA,FW,Napoli,it Serie A,28,0.23,0.23,0.46,0.08,0.31,0.32,0.28,0.60,0.13,0.41
+2227,Nick Pope,eng ENG,GK,Newcastle Utd,eng Premier League,30,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2228,Łukasz Poręba,pl POL,MF,Lens,fr Ligue 1,22,0.00,0.35,0.35,0.00,0.35,0.20,0.23,0.44,0.20,0.44
+2236,Yussuf Poulsen,dk DEN,FW,RB Leipzig,de Bundesliga,28,0.44,0.22,0.66,0.44,0.66,0.29,0.39,0.68,0.29,0.68
+2245,Ivan Provedel,it ITA,GK,Lazio,it Serie A,28,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2248,Tymoteusz Puchacz,pl POL,DF,Union Berlin,de Bundesliga,23,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.01,0.00,0.01
+2266,Ștefan Radu,ro ROU,FW,Lazio,it Serie A,35,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2270,Ivan Rakitić,hr CRO,MF,Sevilla,es La Liga,34,0.05,0.15,0.20,0.00,0.15,0.17,0.10,0.26,0.09,0.18
+2276,Sergio Ramos,es ESP,DF,Paris S-G,fr Ligue 1,36,0.07,0.03,0.10,0.07,0.10,0.06,0.01,0.06,0.06,0.06
+2277,Aaron Ramsdale,eng ENG,GK,Arsenal,eng Premier League,24,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2284,Raphinha,br BRA,FW,Barcelona,es La Liga,25,0.30,0.30,0.61,0.30,0.61,0.41,0.43,0.83,0.41,0.83
+2288,Marcus Rashford,eng ENG,FW,Manchester Utd,eng Premier League,24,0.53,0.16,0.69,0.53,0.69,0.48,0.11,0.59,0.48,0.59
+2290,Giacomo Raspadori,it ITA,"FW,MF",Napoli,it Serie A,22,0.20,0.20,0.40,0.20,0.40,0.35,0.13,0.47,0.35,0.47
+2292,David Raum,de GER,"DF,MF",RB Leipzig,de Bundesliga,24,0.00,0.11,0.11,0.00,0.11,0.03,0.25,0.28,0.03,0.28
+2297,Ante Rebić,hr CRO,"FW,MF",Milan,it Serie A,28,0.28,0.18,0.46,0.28,0.46,0.32,0.19,0.50,0.32,0.50
+2301,Sergio Reguilón,es ESP,DF,Atlético Madrid,es La Liga,25,0.00,0.00,0.00,0.00,0.00,0.07,0.11,0.18,0.07,0.18
+2308,Karim Rekik,nl NED,DF,Sevilla,es La Liga,27,0.08,0.08,0.15,0.08,0.15,0.06,0.01,0.07,0.06,0.07
+2309,Álex Remiro,es ESP,GK,Real Sociedad,es La Liga,27,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2311,Marco Reus,de GER,"MF,FW",Dortmund,de Bundesliga,33,0.40,0.27,0.67,0.33,0.60,0.34,0.17,0.51,0.29,0.46
+2315,Gio Reyna,us USA,"FW,MF",Dortmund,de Bundesliga,19,1.01,0.29,1.30,0.86,1.15,0.62,0.18,0.81,0.51,0.69
+2316,Chadi Riad,ma MAR,MF,Barcelona,es La Liga,19,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2325,Diego Rico,es ESP,DF,Real Sociedad,es La Liga,29,0.00,0.00,0.00,0.00,0.00,0.01,0.08,0.09,0.01,0.09
+2332,Matt Ritchie,sct SCO,"FW,MF",Newcastle Utd,eng Premier League,32,0.00,0.00,0.00,0.00,0.00,0.00,0.24,0.24,0.00,0.24
+2333,Sergi Roberto,es ESP,"DF,MF",Barcelona,es La Liga,30,0.28,0.07,0.34,0.28,0.34,0.17,0.06,0.23,0.17,0.23
+2345,Rodri,es ESP,MF,Manchester City,eng Premier League,26,0.06,0.19,0.25,0.06,0.25,0.14,0.13,0.27,0.14,0.27
+2355,Rodrygo,br BRA,"FW,MF",Real Madrid,es La Liga,21,0.34,0.30,0.64,0.30,0.61,0.52,0.26,0.78,0.49,0.75
+2362,Alessio Romagnoli,it ITA,DF,Lazio,it Serie A,27,0.06,0.00,0.06,0.06,0.06,0.04,0.00,0.05,0.04,0.05
+2367,Iván Romero,es ESP,MF,Sevilla,es La Liga,21,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2368,Luka Romero,ar ARG,FW,Lazio,it Serie A,17,0.60,0.00,0.60,0.60,0.60,0.52,0.04,0.55,0.52,0.55
+2371,Cristiano Ronaldo,pt POR,FW,Manchester Utd,eng Premier League,37,0.17,0.00,0.17,0.17,0.17,0.32,0.07,0.40,0.32,0.40
+2378,Tom Rothe,de GER,DF,Dortmund,de Bundesliga,17,0.00,0.00,0.00,0.00,0.00,0.26,0.00,0.26,0.26,0.26
+2382,Jérôme Roussillon,fr FRA,DF,Union Berlin,de Bundesliga,29,0.00,0.19,0.19,0.00,0.19,0.05,0.11,0.16,0.05,0.16
+2385,Amir Rrahmani,xk KVX,DF,Napoli,it Serie A,28,0.07,0.04,0.11,0.07,0.11,0.07,0.04,0.11,0.07,0.11
+2388,Antonio Rüdiger,de GER,DF,Real Madrid,es La Liga,29,0.04,0.00,0.04,0.04,0.04,0.07,0.00,0.07,0.07,0.07
+2393,Mário Rui,pt POR,DF,Napoli,it Serie A,31,0.00,0.31,0.31,0.00,0.31,0.03,0.20,0.24,0.03,0.24
+2396,Fabián Ruiz Peña,es ESP,MF,Paris S-G,fr Ligue 1,26,0.14,0.10,0.24,0.14,0.24,0.13,0.10,0.23,0.13,0.23
+2403,Julian Ryerson,no NOR,DF,Union Berlin,de Bundesliga,24,0.00,0.00,0.00,0.00,0.00,0.06,0.04,0.10,0.06,0.10
+2404,Julian Ryerson,no NOR,DF,Dortmund,de Bundesliga,24,0.06,0.06,0.13,0.06,0.13,0.03,0.10,0.13,0.03,0.13
+2405,Frederik Rønnow,dk DEN,GK,Union Berlin,de Bundesliga,29,0.00,0.03,0.03,0.00,0.03,0.00,0.00,0.00,0.00,0.00
+2410,Marcel Sabitzer,at AUT,MF,Manchester Utd,eng Premier League,28,0.00,0.14,0.14,0.00,0.14,0.11,0.13,0.24,0.11,0.24
+2411,Marcel Sabitzer,at AUT,MF,Bayern Munich,de Bundesliga,28,0.14,0.14,0.29,0.14,0.29,0.15,0.05,0.20,0.15,0.20
+2414,Umar Sadiq,ng NGA,FW,Real Sociedad,es La Liga,25,1.10,0.00,1.10,1.10,1.10,0.50,0.00,0.50,0.50,0.50
+2415,Alexis Saelemaekers,be BEL,"FW,DF",Milan,it Serie A,23,0.13,0.19,0.32,0.13,0.32,0.16,0.27,0.42,0.16,0.42
+2416,Wesley Saïd,fr FRA,"FW,MF",Lens,fr Ligue 1,27,0.70,0.00,0.70,0.70,0.70,0.46,0.13,0.59,0.46,0.59
+2418,Allan Saint-Maximin,fr FRA,FW,Newcastle Utd,eng Premier League,25,0.08,0.40,0.48,0.08,0.48,0.13,0.37,0.50,0.13,0.50
+2421,Bukayo Saka,eng ENG,FW,Arsenal,eng Premier League,20,0.40,0.31,0.71,0.34,0.65,0.32,0.24,0.56,0.26,0.50
+2428,Kike Salas,es ESP,DF,Sevilla,es La Liga,20,0.24,0.24,0.49,0.24,0.49,0.04,0.05,0.09,0.04,0.09
+2429,William Saliba,fr FRA,DF,Arsenal,eng Premier League,21,0.07,0.04,0.11,0.07,0.11,0.03,0.04,0.08,0.03,0.08
+2438,Brice Samba,fr FRA,GK,Lens,fr Ligue 1,28,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2439,Albert Sambi Lokonga,be BEL,MF,Arsenal,eng Premier League,22,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.01,0.00,0.01
+2448,Renato Sanches,pt POR,MF,Paris S-G,fr Ligue 1,24,0.25,0.00,0.25,0.25,0.25,0.14,0.21,0.35,0.14,0.35
+2456,Jadon Sancho,eng ENG,"FW,MF",Manchester Utd,eng Premier League,22,0.32,0.16,0.48,0.32,0.48,0.22,0.27,0.49,0.22,0.49
+2458,Leroy Sané,de GER,"MF,FW",Bayern Munich,de Bundesliga,26,0.36,0.31,0.67,0.36,0.67,0.38,0.19,0.57,0.38,0.57
+2466,Pablo Sarabia,es ESP,"FW,MF",Paris S-G,fr Ligue 1,30,0.00,0.00,0.00,0.00,0.00,0.32,0.33,0.64,0.32,0.64
+2470,Bouna Sarr,sn SEN,FW,Bayern Munich,de Bundesliga,30,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2477,Stefan Savić,me MNE,DF,Atlético Madrid,es La Liga,31,0.00,0.00,0.00,0.00,0.00,0.01,0.00,0.01,0.01,0.01
+2484,András Schäfer,hu HUN,MF,Union Berlin,de Bundesliga,23,0.00,0.00,0.00,0.00,0.00,0.05,0.02,0.07,0.05,0.07
+2485,Fabian Schär,ch SUI,DF,Newcastle Utd,eng Premier League,30,0.03,0.08,0.11,0.03,0.11,0.14,0.09,0.23,0.14,0.23
+2489,Xaver Schlager,at AUT,MF,RB Leipzig,de Bundesliga,24,0.06,0.06,0.12,0.06,0.12,0.02,0.04,0.06,0.02,0.06
+2492,Nico Schlotterbeck,de GER,DF,Dortmund,de Bundesliga,22,0.16,0.20,0.36,0.16,0.36,0.06,0.07,0.13,0.06,0.13
+2505,Manuel Sebastián,es ESP,MF,Sevilla,es La Liga,18,0.00,0.00,0.00,0.00,0.00,0.01,0.04,0.05,0.01,0.05
+2510,Paul Seguin,de GER,MF,Union Berlin,de Bundesliga,27,0.13,0.39,0.52,0.13,0.52,0.16,0.26,0.41,0.16,0.41
+2529,Luke Shaw,eng ENG,DF,Manchester Utd,eng Premier League,27,0.04,0.07,0.11,0.04,0.11,0.04,0.13,0.16,0.04,0.16
+2530,Jonjo Shelvey,eng ENG,MF,Newcastle Utd,eng Premier League,30,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2537,André Silva,pt POR,FW,RB Leipzig,de Bundesliga,26,0.21,0.16,0.36,0.21,0.36,0.47,0.15,0.62,0.47,0.62
+2538,Bernardo Silva,pt POR,"MF,FW",Manchester City,eng Premier League,27,0.16,0.20,0.37,0.16,0.37,0.09,0.13,0.22,0.09,0.22
+2540,David Silva,es ESP,MF,Real Sociedad,es La Liga,36,0.09,0.23,0.33,0.09,0.33,0.18,0.17,0.35,0.18,0.35
+2545,Mohamed Simakan,fr FRA,DF,RB Leipzig,de Bundesliga,22,0.06,0.06,0.12,0.06,0.12,0.10,0.08,0.18,0.10,0.18
+2546,Giovanni Simeone,ar ARG,FW,Napoli,it Serie A,27,0.89,0.22,1.11,0.89,1.11,0.30,0.26,0.56,0.30,0.56
+2561,Tim Skarke,de GER,"DF,MF",Union Berlin,de Bundesliga,25,0.00,0.00,0.00,0.00,0.00,0.39,0.02,0.41,0.39,0.41
+2565,Leo Skiri Østigård,no NOR,DF,Napoli,it Serie A,22,0.00,0.00,0.00,0.00,0.00,0.02,0.00,0.02,0.02,0.02
+2568,Milan Škriniar,sk SVK,DF,Inter,it Serie A,27,0.00,0.00,0.00,0.00,0.00,0.04,0.01,0.05,0.04,0.05
+2574,Emile Smith Rowe,eng ENG,"MF,FW",Arsenal,eng Premier League,22,0.00,1.05,1.05,0.00,1.05,0.14,0.36,0.50,0.14,0.50
+2576,Cédric Soares,pt POR,DF,Arsenal,eng Premier League,30,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2581,Alex Sola,es ESP,DF,Real Sociedad,es La Liga,23,0.00,0.00,0.00,0.00,0.00,0.03,0.02,0.05,0.03,0.05
+2587,Carlos Soler,es ESP,MF,Paris S-G,fr Ligue 1,25,0.23,0.15,0.38,0.23,0.38,0.12,0.11,0.23,0.12,0.23
+2591,Yann Sommer,ch SUI,GK,Bayern Munich,de Bundesliga,33,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2600,Florian Sotoca,fr FRA,"MF,FW",Lens,fr Ligue 1,31,0.21,0.27,0.47,0.18,0.44,0.31,0.24,0.55,0.24,0.48
+2624,Josip Stanišić,hr CRO,DF,Bayern Munich,de Bundesliga,22,0.00,0.00,0.00,0.00,0.00,0.00,0.07,0.07,0.00,0.07
+2639,John Stones,eng ENG,"DF,MF",Manchester City,eng Premier League,28,0.10,0.10,0.20,0.10,0.20,0.05,0.07,0.12,0.05,0.12
+2652,Niklas Süle,de GER,DF,Dortmund,de Bundesliga,26,0.08,0.13,0.21,0.08,0.21,0.09,0.09,0.19,0.09,0.19
+2659,Suso,es ESP,"MF,FW",Sevilla,es La Liga,28,0.17,0.34,0.51,0.17,0.51,0.10,0.24,0.34,0.10,0.34
+2667,Dominik Szoboszlai,hu HUN,"MF,FW",RB Leipzig,de Bundesliga,21,0.22,0.29,0.52,0.18,0.48,0.20,0.30,0.50,0.17,0.47
+2668,Alexander Sørloth,no NOR,FW,Real Sociedad,es La Liga,26,0.45,0.11,0.57,0.45,0.57,0.48,0.16,0.64,0.48,0.64
+2669,Alexander Sørloth,no NOR,FW,RB Leipzig,de Bundesliga,26,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2683,Matt Targett,eng ENG,DF,Newcastle Utd,eng Premier League,26,0.00,0.00,0.00,0.00,0.00,0.00,0.06,0.07,0.00,0.07
+2685,Ciprian Tătărușanu,ro ROU,GK,Milan,it Serie A,36,0.00,0.06,0.06,0.00,0.06,0.00,0.03,0.03,0.00,0.03
+2690,Aurélien Tchouaméni,fr FRA,MF,Real Madrid,es La Liga,22,0.00,0.17,0.17,0.00,0.17,0.08,0.09,0.17,0.08,0.17
+2691,Mathys Tel,fr FRA,FW,Bayern Munich,de Bundesliga,17,1.08,0.00,1.08,1.08,1.08,0.58,0.14,0.72,0.58,0.72
+2693,Alex Telles,br BRA,DF,Sevilla,es La Liga,29,0.00,0.13,0.13,0.00,0.13,0.03,0.11,0.14,0.03,0.14
+2694,Marc-André ter Stegen,de GER,GK,Barcelona,es La Liga,30,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.01,0.00,0.01
+2708,Malick Thiaw,de GER,DF,Milan,it Serie A,20,0.00,0.00,0.00,0.00,0.00,0.06,0.01,0.07,0.06,0.07
+2714,Adrien Thomasson,fr FRA,"MF,FW",Lens,fr Ligue 1,28,0.35,0.35,0.70,0.35,0.70,0.21,0.20,0.41,0.21,0.41
+2715,Morten Thorsby,no NOR,MF,Union Berlin,de Bundesliga,26,0.11,0.11,0.22,0.11,0.22,0.09,0.05,0.14,0.09,0.14
+2721,Kieran Tierney,sct SCO,DF,Arsenal,eng Premier League,25,0.00,0.11,0.11,0.00,0.11,0.04,0.04,0.08,0.04,0.08
+2734,Takehiro Tomiyasu,jp JPN,DF,Arsenal,eng Premier League,23,0.00,0.14,0.14,0.00,0.14,0.03,0.08,0.11,0.03,0.11
+2736,Fikayo Tomori,eng ENG,DF,Milan,it Serie A,24,0.03,0.03,0.07,0.03,0.07,0.04,0.03,0.07,0.04,0.07
+2737,Sandro Tonali,it ITA,MF,Milan,it Serie A,22,0.07,0.23,0.30,0.07,0.30,0.08,0.19,0.27,0.08,0.27
+2740,Pablo Torre,es ESP,"FW,MF",Barcelona,es La Liga,19,0.00,0.00,0.00,0.00,0.00,0.02,0.30,0.31,0.02,0.31
+2742,Ferrán Torres,es ESP,"FW,MF",Barcelona,es La Liga,22,0.26,0.13,0.39,0.26,0.39,0.32,0.26,0.58,0.27,0.53
+2743,Óliver Torres,es ESP,"MF,FW",Sevilla,es La Liga,27,0.13,0.04,0.17,0.13,0.17,0.11,0.14,0.25,0.11,0.25
+2765,Christopher Trimmel,at AUT,DF,Union Berlin,de Bundesliga,35,0.00,0.30,0.30,0.00,0.30,0.04,0.16,0.20,0.04,0.20
+2767,Kieran Trippier,eng ENG,DF,Newcastle Utd,eng Premier League,31,0.03,0.19,0.22,0.03,0.22,0.02,0.33,0.36,0.02,0.36
+2769,Leandro Trossard,be BEL,FW,Arsenal,eng Premier League,27,0.10,0.97,1.06,0.10,1.06,0.18,0.46,0.64,0.18,0.64
+2778,Beñat Turrientes,es ESP,"MF,FW",Real Sociedad,es La Liga,20,0.00,0.00,0.00,0.00,0.00,0.00,0.13,0.13,0.00,0.13
+2785,Sven Ulreich,de GER,GK,Bayern Munich,de Bundesliga,33,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2791,Dayot Upamecano,fr FRA,DF,Bayern Munich,de Bundesliga,23,0.00,0.04,0.04,0.00,0.04,0.03,0.01,0.04,0.03,0.04
+2804,Jesús Vallejo,es ESP,DF,Real Madrid,es La Liga,25,0.00,0.00,0.00,0.00,0.00,1.29,0.00,1.29,1.29,1.29
+2808,Federico Valverde,uy URU,"MF,FW",Real Madrid,es La Liga,24,0.25,0.14,0.40,0.25,0.40,0.15,0.23,0.38,0.15,0.38
+2811,Raphaël Varane,fr FRA,DF,Manchester Utd,eng Premier League,29,0.00,0.00,0.00,0.00,0.00,0.03,0.01,0.04,0.03,0.04
+2817,Lucas Vázquez,es ESP,DF,Real Madrid,es La Liga,31,0.31,0.08,0.39,0.31,0.39,0.15,0.13,0.28,0.15,0.28
+2818,Matías Vecino,uy URU,MF,Lazio,it Serie A,30,0.11,0.00,0.11,0.11,0.11,0.13,0.03,0.16,0.13,0.16
+2831,Marco Verratti,it ITA,MF,Paris S-G,fr Ligue 1,29,0.00,0.00,0.00,0.00,0.00,0.03,0.10,0.14,0.03,0.14
+2840,Gabriel Vidovic,hr CRO,FW,Bayern Munich,de Bundesliga,18,0.00,4.74,4.74,0.00,4.74,0.00,0.39,0.39,0.00,0.39
+2841,Fabio Vieira,pt POR,"MF,FW",Arsenal,eng Premier League,22,0.18,0.35,0.53,0.18,0.53,0.15,0.44,0.58,0.15,0.58
+2862,Vitinha,pt POR,MF,Paris S-G,fr Ligue 1,22,0.07,0.11,0.18,0.07,0.18,0.11,0.11,0.22,0.11,0.22
+2872,Aster Vranckx,be BEL,MF,Milan,it Serie A,19,0.00,0.00,0.00,0.00,0.00,0.02,0.11,0.12,0.02,0.12
+2874,Stefan de Vrij,nl NED,DF,Inter,it Serie A,30,0.05,0.00,0.05,0.05,0.05,0.10,0.01,0.11,0.10,0.11
+2880,Kyle Walker,eng ENG,DF,Manchester City,eng Premier League,32,0.00,0.00,0.00,0.00,0.00,0.02,0.01,0.03,0.02,0.03
+2883,Aaron Wan-Bissaka,eng ENG,DF,Manchester Utd,eng Premier League,24,0.00,0.00,0.00,0.00,0.00,0.07,0.06,0.14,0.07,0.14
+2884,Paul Wanner,de GER,MF,Bayern Munich,de Bundesliga,16,0.00,0.00,0.00,0.00,0.00,0.00,0.25,0.25,0.00,0.25
+2892,Wout Weghorst,nl NED,"FW,MF",Manchester Utd,eng Premier League,29,0.00,0.11,0.11,0.00,0.11,0.23,0.13,0.36,0.23,0.36
+2901,Timo Werner,de GER,"FW,MF",RB Leipzig,de Bundesliga,26,0.42,0.14,0.56,0.42,0.56,0.42,0.15,0.57,0.42,0.57
+2902,Ben White,eng ENG,DF,Arsenal,eng Premier League,24,0.06,0.15,0.21,0.06,0.21,0.04,0.09,0.13,0.04,0.13
+2913,Joe Willock,eng ENG,MF,Newcastle Utd,eng Premier League,22,0.11,0.21,0.32,0.11,0.32,0.25,0.21,0.46,0.25,0.46
+2914,Callum Wilson,eng ENG,FW,Newcastle Utd,eng Premier League,30,0.86,0.24,1.10,0.72,0.96,0.84,0.13,0.97,0.72,0.85
+2923,Axel Witsel,be BEL,"DF,MF",Atlético Madrid,es La Liga,33,0.00,0.00,0.00,0.00,0.00,0.02,0.02,0.05,0.02,0.05
+2926,Marius Wolf,de GER,DF,Dortmund,de Bundesliga,27,0.06,0.06,0.11,0.06,0.11,0.07,0.16,0.23,0.07,0.23
+2928,Chris Wood,nz NZL,FW,Newcastle Utd,eng Premier League,30,0.40,0.00,0.40,0.20,0.20,0.37,0.06,0.43,0.21,0.27
+2931,Christopher Wooh,cm CMR,MF,Lens,fr Ligue 1,20,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2934,Granit Xhaka,ch SUI,MF,Arsenal,eng Premier League,29,0.21,0.21,0.42,0.21,0.42,0.14,0.16,0.30,0.14,0.30
+2935,Lamine Yamal,es ESP,FW,Barcelona,es La Liga,15,0.00,0.00,0.00,0.00,0.00,3.94,0.00,3.94,3.94,3.94
+2948,Mattia Zaccagni,it ITA,FW,Lazio,it Serie A,27,0.32,0.19,0.52,0.29,0.49,0.22,0.15,0.36,0.19,0.34
+2951,Warren Zaire-Emery,fr FRA,"MF,DF",Paris S-G,fr Ligue 1,16,0.19,0.00,0.19,0.19,0.19,0.14,0.04,0.18,0.14,0.18
+2957,Andre-Frank Zambo Anguissa,cm CMR,MF,Napoli,it Serie A,26,0.09,0.15,0.24,0.09,0.24,0.13,0.08,0.21,0.13,0.21
+2962,Alessandro Zanoli,it ITA,DF,Napoli,it Serie A,21,0.00,0.00,0.00,0.00,0.00,0.47,0.00,0.47,0.47,0.47
+2964,Mattia Zanotti,it ITA,DF,Inter,it Serie A,19,0.00,0.00,0.00,0.00,0.00,0.00,0.23,0.23,0.00,0.23
+2970,Karim Zedadka,fr FRA,FW,Napoli,it Serie A,22,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2978,Alessio Zerbin,it ITA,FW,Napoli,it Serie A,23,0.00,0.00,0.00,0.00,0.00,0.12,0.00,0.12,0.12,0.12
+2982,Piotr Zieliński,pl POL,MF,Napoli,it Serie A,28,0.12,0.31,0.43,0.12,0.43,0.14,0.29,0.43,0.14,0.43
+2984,Oleksandr Zinchenko,ua UKR,DF,Arsenal,eng Premier League,25,0.04,0.08,0.13,0.04,0.13,0.06,0.06,0.12,0.06,0.12
+2995,Igor Zubeldia,es ESP,DF,Real Sociedad,es La Liga,25,0.04,0.04,0.07,0.04,0.07,0.03,0.01,0.04,0.03,0.04
+2996,Martín Zubimendi,es ESP,MF,Real Sociedad,es La Liga,23,0.03,0.09,0.12,0.03,0.12,0.06,0.06,0.11,0.06,0.11
+2999,Martin Ødegaard,no NOR,MF,Arsenal,eng Premier League,23,0.43,0.20,0.63,0.43,0.63,0.29,0.23,0.52,0.29,0.52
